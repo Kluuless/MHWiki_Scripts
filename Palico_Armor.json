@@ -1,0 +1,2547 @@
+{
+  "Low Rank": {
+    "Felyne Hope": {
+      "Rarity": 1,
+      "Required Cost": 50,
+      "Weapon": {
+        "Name": "Felyne Hope Hammer",
+        "Forging Materials": [],
+        "Attack": {
+          "Melee": 2,
+          "Ranged": 2
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "-": null
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "A hammer made for the expedition. Better aimed toward research than hunting, but it's very easy to use!"
+      },
+      "Headgear": {
+        "Name": "Felyne Hope Helm",
+        "Forging Materials": [],
+        "Description": "A helm made for the expedition. A fusion of traditional Palico techniques and new technology."
+      },
+      "Body Armor": {
+        "Name": "Felyne Hope Suit",
+        "Forging Materials": [],
+        "Description": "Armor made for the expedition. Enough pockets to carry a shop-full of support items."
+      },
+      "Defenses": {
+        "Defense": 2,
+        "Fire Res": 1,
+        "Water Res": 0,
+        "Thunder Res": 1,
+        "Ice Res": 0,
+        "Dragon Res": 0
+      }
+    },
+    "Felyne Bone": {
+      "Rarity": 1,
+      "Required Cost": 50,
+      "Weapon": {
+        "Name": "Felyne Bone Hammer",
+        "Forging Materials": [
+          "Mystery Bone"
+        ],
+        "Attack": {
+          "Melee": 4,
+          "Ranged": 2
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "-": null
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "A light yet durable hammer slapped together from easy-to-find bones."
+      },
+      "Headgear": {
+        "Name": "Felyne Bone Helm",
+        "Forging Materials": [
+          "Mystery Bone"
+        ],
+        "Description": "Headgear built around a monster skull base. Donning it will awaken the primal beast within."
+      },
+      "Body Armor": {
+        "Name": "Felyne Bone Mail",
+        "Forging Materials": [
+          "Mystery Bone"
+        ],
+        "Description": "A primal musk clings to this set of body armor. Crafted from an array of monster bones."
+      },
+      "Defenses": {
+        "Defense": 2,
+        "Fire Res": 2,
+        "Water Res": 0,
+        "Thunder Res": 2,
+        "Ice Res": 0,
+        "Dragon Res": 2
+      }
+    },
+    "Felyne Chatacabra": {
+      "Rarity": 1,
+      "Required Cost": 100,
+      "Weapon": {
+        "Name": "Felyne Chata Clobberer",
+        "Forging Materials": [
+          "Chatacabra Jaw"
+        ],
+        "Attack": {
+          "Melee": 5,
+          "Ranged": 3
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "-": null
+        },
+        "Affinity": 0,
+        "Defense Bonus": 3,
+        "Description": "A hammer modeled after the tough jaw of a Chatacabra. Even has the tongue in there!"
+      },
+      "Headgear": {
+        "Name": "F Cabra Hood",
+        "Forging Materials": [
+          "Chatacabra Hide"
+        ],
+        "Description": "The opening of this Chatacabra hood is pulled extra snug to keep stray sand from getting inside."
+      },
+      "Body Armor": {
+        "Name": "F Cabra Jumpsuit",
+        "Forging Materials": [
+          "Chatacabra Scale"
+        ],
+        "Description": "Designed with mobility in mind, this Chatacabra one-piece is as comfy as it is safe."
+      },
+      "Defenses": {
+        "Defense": 6,
+        "Fire Res": 1,
+        "Water Res": 2,
+        "Thunder Res": -3,
+        "Ice Res": -1,
+        "Dragon Res": 1
+      }
+    },
+    "Felyne Quematrice": {
+      "Rarity": 1,
+      "Required Cost": 100,
+      "Weapon": {
+        "Name": "Felyne Matrice Spear",
+        "Forging Materials": [
+          "Quematrice Igniter"
+        ],
+        "Attack": {
+          "Melee": 3,
+          "Ranged": 4
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Fire": 8
+        },
+        "Affinity": 5,
+        "Defense Bonus": 0,
+        "Description": "The banner hung from this Quematrice pike will rally the brave. To arms—or, uh, paws…"
+      },
+      "Headgear": {
+        "Name": "Felyne Quema Helm",
+        "Forging Materials": [
+          "Quematrice Crest"
+        ],
+        "Description": "The flaming red plumes on the crest of this Quematrice helm sets a Palico's heart ablaze."
+      },
+      "Body Armor": {
+        "Name": "Felyne Quema Mail",
+        "Forging Materials": [
+          "Quematrice Scale"
+        ],
+        "Description": "The frilly hem and large train on this Quematrice mail make a Palico feel like they're flying."
+      },
+      "Defenses": {
+        "Defense": 6,
+        "Fire Res": 2,
+        "Water Res": -3,
+        "Thunder Res": 0,
+        "Ice Res": -1,
+        "Dragon Res": 0
+      }
+    },
+    "Felyne Alloy": {
+      "Rarity": 1,
+      "Required Cost": 100,
+      "Weapon": {
+        "Name": "Felyne Iron Sword",
+        "Forging Materials": [
+          "Machalite Ore"
+        ],
+        "Attack": {
+          "Melee": 4,
+          "Ranged": 6
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "-": null
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "A large sword made by smelting down fine ore and hammering it for three days straight. Certified lethal."
+      },
+      "Headgear": {
+        "Name": "Felyne Alloy Helm",
+        "Forging Materials": [
+          "Machalite Ore"
+        ],
+        "Description": "A helmet made by smelting fine ore, then pounding it for three days straight. Certified strong."
+      },
+      "Body Armor": {
+        "Name": "Felyne Alloy Mail",
+        "Forging Materials": [
+          "Machalite Ore"
+        ],
+        "Description": "Body armor made by smelting fine ore, then pounding it for three days straight. Guaranteed tough."
+      },
+      "Defenses": {
+        "Defense": 6,
+        "Fire Res": -2,
+        "Water Res": 1,
+        "Thunder Res": -2,
+        "Ice Res": -2,
+        "Dragon Res": 1
+      }
+    },
+    "Felyne Lala Barina": {
+      "Rarity": 1,
+      "Required Cost": 100,
+      "Weapon": {
+        "Name": "Felyne Barina Needle",
+        "Forging Materials": [
+          "Lala Barina Claw"
+        ],
+        "Attack": {
+          "Melee": 3,
+          "Ranged": 5
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Paralysis": 10
+        },
+        "Affinity": 15,
+        "Defense Bonus": 0,
+        "Description": "The thorn of a Lala Barina fashioned into a weapon. Sharp in more ways than one!"
+      },
+      "Headgear": {
+        "Name": "Felyne Barina Wig",
+        "Forging Materials": [
+          "Lala Barina Floret"
+        ],
+        "Description": "A wig made of Lala Barina hairs, brushed until properly coifed for max defense then styled to slay."
+      },
+      "Body Armor": {
+        "Name": "Felyne Barina Dress",
+        "Forging Materials": [
+          "Lala Barina Shell"
+        ],
+        "Description": "This meticulously crafted Lala Barina armor's rose motif turns any Palico into a prima donna."
+      },
+      "Defenses": {
+        "Defense": 8,
+        "Fire Res": -3,
+        "Water Res": 3,
+        "Thunder Res": 0,
+        "Ice Res": 0,
+        "Dragon Res": 3
+      }
+    },
+    "Felyne Conga": {
+      "Rarity": 2,
+      "Required Cost": 200,
+      "Weapon": {
+        "Name": "Felyne Conga Tambourine",
+        "Forging Materials": [
+          "Congalala Claw"
+        ],
+        "Attack": {
+          "Melee": 9,
+          "Ranged": 8
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "-": null
+        },
+        "Affinity": 5,
+        "Defense Bonus": 0,
+        "Description": "Even in the paws of a pitch-perfect Palico, this Congalala tambourine is always sharp."
+      },
+      "Headgear": {
+        "Name": "Felyne Conga Head",
+        "Forging Materials": [
+          "Vibrant Pelt"
+        ],
+        "Description": "A pointed hat whose proud, pink puff makes a Palico feel pretty darned special."
+      },
+      "Body Armor": {
+        "Name": "Felyne Conga Feet",
+        "Forging Materials": [
+          "Congalala Pelt"
+        ],
+        "Description": "Mirthful cymbals that say, \"Here I come!\" as a Palico marches to the battlefield."
+      },
+      "Defenses": {
+        "Defense": 8,
+        "Fire Res": -3,
+        "Water Res": 1,
+        "Thunder Res": 1,
+        "Ice Res": -1,
+        "Dragon Res": 2
+      }
+    },
+    "Felyne Balahara": {
+      "Rarity": 2,
+      "Required Cost": 200,
+      "Weapon": {
+        "Name": "Felyne Balahara Drill",
+        "Forging Materials": [
+          "Balahara Skull"
+        ],
+        "Attack": {
+          "Melee": 6,
+          "Ranged": 8
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Water": 10
+        },
+        "Affinity": 5,
+        "Defense Bonus": 0,
+        "Description": "Equal parts weapon and tool, this Balahara drill can easily break down ore to collect."
+      },
+      "Headgear": {
+        "Name": "Felyne Balahara Helm",
+        "Forging Materials": [
+          "Balahara Scale"
+        ],
+        "Description": "This Balahara helmet is stuffed to the gills with cutting-edge sensor technology."
+      },
+      "Body Armor": {
+        "Name": "Felyne Balahara Mech",
+        "Forging Materials": [
+          "Balahara Shell"
+        ],
+        "Description": "A stunning amalgam of the latest tech, this Balahara mech is the final word in Felyne warfare."
+      },
+      "Defenses": {
+        "Defense": 10,
+        "Fire Res": -1,
+        "Water Res": 2,
+        "Thunder Res": -3,
+        "Ice Res": 1,
+        "Dragon Res": 1
+      }
+    },
+    "Felyne Doshaguma": {
+      "Rarity": 2,
+      "Required Cost": 200,
+      "Weapon": {
+        "Name": "F Doshaguma Knuckle",
+        "Forging Materials": [
+          "Doshaguma Fang"
+        ],
+        "Attack": {
+          "Melee": 13,
+          "Ranged": 13
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "-": null
+        },
+        "Affinity": -5,
+        "Defense Bonus": 5,
+        "Description": "Taking up this Doshaguma weapon makes the wielder want to chomp its fangs into, well, everything."
+      },
+      "Headgear": {
+        "Name": "F Doshaguma Helm",
+        "Forging Materials": [
+          "Doshaguma Fur"
+        ],
+        "Description": "The wild hair bursting from this Doshaguma helm is for intimidation. The little braids are for cuteness."
+      },
+      "Body Armor": {
+        "Name": "F Doshaguma Mail",
+        "Forging Materials": [
+          "Doshaguma Hide"
+        ],
+        "Description": "The restraints compromising this Doshaguma mail are fearsome, but a bit tough to move in…"
+      },
+      "Defenses": {
+        "Defense": 10,
+        "Fire Res": -3,
+        "Water Res": 2,
+        "Thunder Res": -1,
+        "Ice Res": -1,
+        "Dragon Res": 4
+      }
+    },
+    "Felyne Rompopolo": {
+      "Rarity": 3,
+      "Required Cost": 200,
+      "Weapon": {
+        "Name": "F Rompopolo Blaster",
+        "Forging Materials": [
+          "Rompopolo Claw"
+        ],
+        "Attack": {
+          "Melee": 8,
+          "Ranged": 11
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "Poison": 12
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "This Rompopolo weapon is designed to supply a constant flow of poison, but doesn't actually shoot any."
+      },
+      "Headgear": {
+        "Name": "F Rompopolo Brain",
+        "Forging Materials": [
+          "Rompopolo Beak"
+        ],
+        "Description": "This Rompopolo headgear may LOOK like a brain floating in a jar, but… best not to think about it."
+      },
+      "Body Armor": {
+        "Name": "F Rompopolo Suit",
+        "Forging Materials": [
+          "Rompopolo Hide"
+        ],
+        "Description": "The wearer is immune to the Rompopolo poison pumped through this suit. Those around it, though…"
+      },
+      "Defenses": {
+        "Defense": 14,
+        "Fire Res": 0,
+        "Water Res": -3,
+        "Thunder Res": 0,
+        "Ice Res": 0,
+        "Dragon Res": 1
+      }
+    },
+    "Felyne Nerscylla": {
+      "Rarity": 3,
+      "Required Cost": 200,
+      "Weapon": {
+        "Name": "Felyne Nerscylla Wedge",
+        "Forging Materials": [
+          "Nerscylla Claw"
+        ],
+        "Attack": {
+          "Melee": 9,
+          "Ranged": 9
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Sleep": 12
+        },
+        "Affinity": 15,
+        "Defense Bonus": 0,
+        "Description": "Made from the keenest Nerscylla parts, its sharp edge snares prey as easily as spider silk."
+      },
+      "Headgear": {
+        "Name": "Felyne Scylla Mask",
+        "Forging Materials": [
+          "Nerscylla Spike"
+        ],
+        "Description": "A mask that covers the head. The opaque goggles are too cool for Palico school."
+      },
+      "Body Armor": {
+        "Name": "Felyne Scylla Mail",
+        "Forging Materials": [
+          "Nerscylla Shell"
+        ],
+        "Description": "A suit that covers the body. Painstakingly crafted, it exudes bewitching beauty."
+      },
+      "Defenses": {
+        "Defense": 14,
+        "Fire Res": -2,
+        "Water Res": 2,
+        "Thunder Res": -2,
+        "Ice Res": 1,
+        "Dragon Res": 2
+      }
+    },
+    "Felyne Hirabami": {
+      "Rarity": 3,
+      "Required Cost": 200,
+      "Weapon": {
+        "Name": "Felyne Hirabami Fan",
+        "Forging Materials": [
+          "Hirabami Tail Claw"
+        ],
+        "Attack": {
+          "Melee": 9,
+          "Ranged": 13
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Ice": 14
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "A legendary fan of Hirabami hide, able to conjure the wind and rain with a single swing…is what inspired this replica."
+      },
+      "Headgear": {
+        "Name": "Felyne Hirabami Cap",
+        "Forging Materials": [
+          "Hirabami Hide"
+        ],
+        "Description": "The oversized ribbon accent adds charm to this braided leather headgear made of Hirabami parts."
+      },
+      "Body Armor": {
+        "Name": "Felyne Hirabami Robe",
+        "Forging Materials": [
+          "Hirabami Scale"
+        ],
+        "Description": "A robe fit for a sage from a faraway land. The long, billowy sleeves are both elegant and adorable."
+      },
+      "Defenses": {
+        "Defense": 14,
+        "Fire Res": -3,
+        "Water Res": 2,
+        "Thunder Res": -2,
+        "Ice Res": 3,
+        "Dragon Res": 0
+      }
+    },
+    "Felyne Ajarakan": {
+      "Rarity": 3,
+      "Required Cost": 200,
+      "Weapon": {
+        "Name": "F Ajarakan Staff",
+        "Forging Materials": [
+          "Ajarakan Jewel"
+        ],
+        "Attack": {
+          "Melee": 13,
+          "Ranged": 9
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "Blast": 14
+        },
+        "Affinity": 10,
+        "Defense Bonus": 0,
+        "Description": "An Ajarakan staff that ignites the wielder's fighting spirit and burns the wicked to ash."
+      },
+      "Headgear": {
+        "Name": "F Ajarakan Helm",
+        "Forging Materials": [
+          "Ajarakan Scale"
+        ],
+        "Description": "An Ajarakan helm said to emit a mighty shriek that has the power to repel all evil."
+      },
+      "Body Armor": {
+        "Name": "F Ajarakan Mail",
+        "Forging Materials": [
+          "Ajarakan Shell"
+        ],
+        "Description": "This Ajarakan armor grants the wearer evil-banishing powers. Also, a rockin' bod. Me-ow!"
+      },
+      "Defenses": {
+        "Defense": 14,
+        "Fire Res": 3,
+        "Water Res": -3,
+        "Thunder Res": 1,
+        "Ice Res": -2,
+        "Dragon Res": 0
+      }
+    },
+    "Felyne Uth Duna": {
+      "Rarity": 4,
+      "Required Cost": 500,
+      "Weapon": {
+        "Name": "Felyne Duna Spear",
+        "Forging Materials": [
+          "Uth Duna Claw",
+          "Guardian Scale"
+        ],
+        "Attack": {
+          "Melee": 20,
+          "Ranged": 14
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Water": 20
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "This weapon made from Uth Duna parts stands as a symbol of the forest's boundless blessing."
+      },
+      "Headgear": {
+        "Name": "Felyne Duna Mask",
+        "Forging Materials": [
+          "Uth Duna Cilia",
+          "Guardian Pelt"
+        ],
+        "Description": "It is said that those who don this Uth Duna mask are able to commune with the forest."
+      },
+      "Body Armor": {
+        "Name": "Felyne Duna Cape",
+        "Forging Materials": [
+          "Uth Duna Scale"
+        ],
+        "Description": "Surprisingly breathable, this Uth Duna armor allows the wearer to feel the forest's respiration."
+      },
+      "Defenses": {
+        "Defense": 18,
+        "Fire Res": -1,
+        "Water Res": 4,
+        "Thunder Res": -3,
+        "Ice Res": 0,
+        "Dragon Res": 0
+      }
+    },
+    "Felyne Rey Dau": {
+      "Rarity": 4,
+      "Required Cost": 500,
+      "Weapon": {
+        "Name": "Felyne Dau Naginata",
+        "Forging Materials": [
+          "Rey Dau Wingtalon",
+          "Guardian Scale"
+        ],
+        "Attack": {
+          "Melee": 14,
+          "Ranged": 20
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Thunder": 20
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "Each swing of this glaive carves sky and earth with the fury of its namesake's thunderous wingbeats."
+      },
+      "Headgear": {
+        "Name": "Felyne Dau Helm",
+        "Forging Materials": [
+          "Rey Dau Thunderhorn",
+          "Guardian Pelt"
+        ],
+        "Description": "Headgear forged of Rey Dau parts. No earthly force can bow the head crowned by the golden sun."
+      },
+      "Body Armor": {
+        "Name": "Felyne Dau Armor",
+        "Forging Materials": [
+          "Rey Dau Scale"
+        ],
+        "Description": "Those who clad themselves in Rey Dau's fearsome visage gain its majesty and might as well."
+      },
+      "Defenses": {
+        "Defense": 18,
+        "Fire Res": 0,
+        "Water Res": -2,
+        "Thunder Res": 4,
+        "Ice Res": -3,
+        "Dragon Res": 0
+      }
+    },
+    "Felyne Nu Udra": {
+      "Rarity": 4,
+      "Required Cost": 500,
+      "Weapon": {
+        "Name": "Felyne Udra Vessel",
+        "Forging Materials": [
+          "Nu Udra Tentacle",
+          "Guardian Scale"
+        ],
+        "Attack": {
+          "Melee": 24,
+          "Ranged": 14
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "Fire": 20
+        },
+        "Affinity": -10,
+        "Defense Bonus": 0,
+        "Description": "A Nu Udra weapon. As you gaze into its depths, it gazes back at you."
+      },
+      "Headgear": {
+        "Name": "Felyne Udra Head",
+        "Forging Materials": [
+          "Nu Udra Horn",
+          "Guardian Pelt"
+        ],
+        "Description": "Those who don this Nu Udra helm are shown a world crawling with aberrations that defy description."
+      },
+      "Body Armor": {
+        "Name": "Felyne Udra Tentacles",
+        "Forging Materials": [
+          "Nu Udra Hide"
+        ],
+        "Description": "This Nu Udra armor's tentacles writhe and grasp at prey entirely of their own will."
+      },
+      "Defenses": {
+        "Defense": 18,
+        "Fire Res": 5,
+        "Water Res": -4,
+        "Thunder Res": 0,
+        "Ice Res": 1,
+        "Dragon Res": 0
+      }
+    },
+    "Felyne G. Doshaguma": {
+      "Rarity": 4,
+      "Required Cost": 400,
+      "Weapon": {
+        "Name": "F Guardian Dosha Knuckle",
+        "Forging Materials": [
+          "Guardian Doshaguma Fang"
+        ],
+        "Attack": {
+          "Melee": 20,
+          "Ranged": 20
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "-": null
+        },
+        "Affinity": -15,
+        "Defense Bonus": 0,
+        "Description": "A Guardian Doshaguma weapon that commands its bearer to lash out at any who draw near."
+      },
+      "Headgear": {
+        "Name": "F Guardian Dosha Helm",
+        "Forging Materials": [
+          "Guardian Doshaguma Fur"
+        ],
+        "Description": "A helm made of Guardian Doshaguma materials. Something tugs at the wearer. \"I was meant to be more than a Palico…\""
+      },
+      "Body Armor": {
+        "Name": "F Guardian Dosha Mail",
+        "Forging Materials": [
+          "Guardian Doshaguma Hide"
+        ],
+        "Description": "The bleached-white portions of this Guardian Doshaguma armor glow faintly, and are warm to the touch."
+      },
+      "Defenses": {
+        "Defense": 18,
+        "Fire Res": -3,
+        "Water Res": 2,
+        "Thunder Res": -1,
+        "Ice Res": -2,
+        "Dragon Res": 2
+      }
+    },
+    "Felyne G. Rathalos": {
+      "Rarity": 4,
+      "Required Cost": 400,
+      "Weapon": {
+        "Name": "F Guardian Rath Blade",
+        "Forging Materials": [
+          "Guardian Rathalos Webbing"
+        ],
+        "Attack": {
+          "Melee": 14,
+          "Ranged": 10
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Fire": 12
+        },
+        "Affinity": 15,
+        "Defense Bonus": 0,
+        "Description": "A Guardian Rathalos weapon that commands its bearer to lash out at any who draw near."
+      },
+      "Headgear": {
+        "Name": "F Guardian Rath Helm",
+        "Forging Materials": [
+          "Guardian Rathalos Scale"
+        ],
+        "Description": "A helm made of Guardian Rathalos materials. Something tugs at the wearer. \"I was meant to be more than a Palico…\""
+      },
+      "Body Armor": {
+        "Name": "F Guardian Rath Mail",
+        "Forging Materials": [
+          "Guardian Rathalos Shell"
+        ],
+        "Description": "The bleached-white portions of this Guardian Rathalos armor glow faintly, and are warm to the touch."
+      },
+      "Defenses": {
+        "Defense": 18,
+        "Fire Res": 3,
+        "Water Res": 1,
+        "Thunder Res": -2,
+        "Ice Res": 1,
+        "Dragon Res": -5
+      }
+    },
+    "Felyne G. Ebony": {
+      "Rarity": 4,
+      "Required Cost": 400,
+      "Weapon": {
+        "Name": "F Guardian Ebony Sickle",
+        "Forging Materials": [
+          "Guardian Ebony Claw"
+        ],
+        "Attack": {
+          "Melee": 11,
+          "Ranged": 11
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Dragon": 16
+        },
+        "Affinity": 20,
+        "Defense Bonus": 0,
+        "Description": "A Guardian Ebony Odogaron weapon that commands its bearer to lash out at any who draw near."
+      },
+      "Headgear": {
+        "Name": "F Guardian Ebony Helm",
+        "Forging Materials": [
+          "Guardian Ebony Odogaron Scale"
+        ],
+        "Description": "A helm made of Guardian Ebony Odogaron materials. Something tugs at the wearer. \"I was meant to be more than a Palico…\""
+      },
+      "Body Armor": {
+        "Name": "F Guardian Ebony Mail",
+        "Forging Materials": [
+          "Guardian Ebony Odogaron Sinew"
+        ],
+        "Description": "The bleached-white portions of this Guardian Ebony Odogaron armor glow faintly, and are warm to the touch."
+      },
+      "Defenses": {
+        "Defense": 18,
+        "Fire Res": -2,
+        "Water Res": -3,
+        "Thunder Res": -2,
+        "Ice Res": -2,
+        "Dragon Res": 4
+      }
+    },
+    "Felyne Xu Wu": {
+      "Rarity": 4,
+      "Required Cost": 400,
+      "Weapon": {
+        "Name": "Felyne Xu Wu Orb",
+        "Forging Materials": [
+          "Xu Wu Tentacle"
+        ],
+        "Attack": {
+          "Melee": 18,
+          "Ranged": 18
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "Water": 18
+        },
+        "Affinity": -10,
+        "Defense Bonus": 0,
+        "Description": "This Xu Wu crystal orb shows the cruelest future; and the talisman shows the path to avoid its coming."
+      },
+      "Headgear": {
+        "Name": "Felyne Xu Wu Veil",
+        "Forging Materials": [
+          "Golden Corneum"
+        ],
+        "Description": "This veil of Xu Wu materials grants the wearer eyes that peer into both past and future."
+      },
+      "Body Armor": {
+        "Name": "Felyne Xu Wu Suit",
+        "Forging Materials": [
+          "Xu Wu Hide"
+        ],
+        "Description": "Those who don this Xu Wu armor will always find the true path, even in the darkest night."
+      },
+      "Defenses": {
+        "Defense": 18,
+        "Fire Res": 1,
+        "Water Res": 1,
+        "Thunder Res": 1,
+        "Ice Res": -3,
+        "Dragon Res": 2
+      }
+    },
+    "Felyne G. Ark": {
+      "Rarity": 4,
+      "Required Cost": 700,
+      "Weapon": {
+        "Name": "F Guardian Ark Sword",
+        "Forging Materials": [
+          "Guardian Blood"
+        ],
+        "Attack": {
+          "Melee": 28,
+          "Ranged": 24
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Dragon": 15
+        },
+        "Affinity": -10,
+        "Defense Bonus": 0,
+        "Description": "Each slash of this Guardian Arkveld Sword causes newfound strength to well up in its wielder."
+      },
+      "Headgear": {
+        "Name": "F Guardian Ark Helm",
+        "Forging Materials": [
+          "Guardian Pelt"
+        ],
+        "Description": "Any who wear this Guardian Arkveld helm are guided by a formless, relentless hand to press onward."
+      },
+      "Body Armor": {
+        "Name": "F Guardian Ark Mail",
+        "Forging Materials": [
+          "Guardian Scale"
+        ],
+        "Description": "Palicoes clad in this Guardian Arkveld armor cease to feel any trace of exhaustion or fatigue… they think."
+      },
+      "Defenses": {
+        "Defense": 22,
+        "Fire Res": 2,
+        "Water Res": 0,
+        "Thunder Res": -1,
+        "Ice Res": 0,
+        "Dragon Res": -4
+      }
+    }
+  },
+  "High Rank": {
+    "Felyne Hope α": {
+      "Rarity": 5,
+      "Required Cost": 1000,
+      "Weapon": {
+        "Name": "Felyne Hope Hammer α",
+        "Forging Materials": [
+          "Sturdy Bone"
+        ],
+        "Attack": {
+          "Melee": 30,
+          "Ranged": 25
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "-": null
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "A hammer made for the expedition. Better aimed toward research than hunting, but it's very easy to use!"
+      },
+      "Headgear": {
+        "Name": "Felyne Hope Helm α",
+        "Forging Materials": [
+          "Sturdy Bone"
+        ],
+        "Description": "A helm made for the expedition. A fusion of traditional Palico techniques and new technology."
+      },
+      "Body Armor": {
+        "Name": "Felyne Hope Suit α",
+        "Forging Materials": [
+          "Sturdy Bone"
+        ],
+        "Description": "Armor made for the expedition. Enough pockets to carry a shop-full of support items."
+      },
+      "Defenses": {
+        "Defense": 22,
+        "Fire Res": 1,
+        "Water Res": 0,
+        "Thunder Res": 1,
+        "Ice Res": 0,
+        "Dragon Res": 0
+      }
+    },
+    "Felyne Bone α": {
+      "Rarity": 5,
+      "Required Cost": 1000,
+      "Weapon": {
+        "Name": "Felyne Bone Hammer α",
+        "Forging Materials": [
+          "Tough Guardian Bone"
+        ],
+        "Attack": {
+          "Melee": 32,
+          "Ranged": 20
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "-": null
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "A light yet durable hammer slapped together from easy-to-find bones."
+      },
+      "Headgear": {
+        "Name": "Felyne Bone Helm α",
+        "Forging Materials": [
+          "Tough Guardian Bone"
+        ],
+        "Description": "Headgear built around a monster skull base. Donning it will awaken the primal beast within."
+      },
+      "Body Armor": {
+        "Name": "Felyne Bone Mail α",
+        "Forging Materials": [
+          "Tough Guardian Bone"
+        ],
+        "Description": "A primal musk clings to this set of body armor. Crafted from an array of monster bones."
+      },
+      "Defenses": {
+        "Defense": 22,
+        "Fire Res": 2,
+        "Water Res": 0,
+        "Thunder Res": 2,
+        "Ice Res": 0,
+        "Dragon Res": 2
+      }
+    },
+    "Felyne Alloy α": {
+      "Rarity": 5,
+      "Required Cost": 1000,
+      "Weapon": {
+        "Name": "Felyne Iron Sword α",
+        "Forging Materials": [
+          "Carbalite Ore"
+        ],
+        "Attack": {
+          "Melee": 28,
+          "Ranged": 30
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "-": null
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "A large sword made by smelting down fine ore and hammering it for three days straight. Certified lethal."
+      },
+      "Headgear": {
+        "Name": "Felyne Alloy Helm α",
+        "Forging Materials": [
+          "Carbalite Ore"
+        ],
+        "Description": "A helmet made by smelting fine ore, then pounding it for three days straight. Certified strong."
+      },
+      "Body Armor": {
+        "Name": "Felyne Alloy Mail α",
+        "Forging Materials": [
+          "Carbalite Ore"
+        ],
+        "Description": "Body armor made by smelting fine ore, then pounding it for three days straight. Guaranteed tough."
+      },
+      "Defenses": {
+        "Defense": 26,
+        "Fire Res": -2,
+        "Water Res": 1,
+        "Thunder Res": -2,
+        "Ice Res": -2,
+        "Dragon Res": 1
+      }
+    },
+    "Felyne Kut-Ku α": {
+      "Rarity": 5,
+      "Required Cost": 1200,
+      "Weapon": {
+        "Name": "Felyne Kut-Ku Cutter α",
+        "Forging Materials": [
+          "Giant Beak"
+        ],
+        "Attack": {
+          "Melee": 32,
+          "Ranged": 32
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Fire": 25
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "A grand sword made of Yian Kut-Ku parts. (No, it's not a fan… Stop asking.)"
+      },
+      "Headgear": {
+        "Name": "Felyne Kut-Ku Mask α",
+        "Forging Materials": [
+          "Kut-Ku Ear"
+        ],
+        "Description": "A delightful take on the Yian Kut-Ku… Delightful, or just plain creepy."
+      },
+      "Body Armor": {
+        "Name": "Felyne Kut-Ku Wear α",
+        "Forging Materials": [
+          "Kut-Ku Scale+"
+        ],
+        "Description": "A pint-sized take on the Yian Kut-Ku that's ahead… er, WAY ahead of its time."
+      },
+      "Defenses": {
+        "Defense": 26,
+        "Fire Res": 3,
+        "Water Res": 0,
+        "Thunder Res": -2,
+        "Ice Res": -4,
+        "Dragon Res": 2
+      }
+    },
+    "Felyne Chatacabra α": {
+      "Rarity": 5,
+      "Required Cost": 1200,
+      "Weapon": {
+        "Name": "Felyne Chata Clobberer α",
+        "Forging Materials": [
+          "Chatacabra Jaw+"
+        ],
+        "Attack": {
+          "Melee": 34,
+          "Ranged": 30
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "-": null
+        },
+        "Affinity": 0,
+        "Defense Bonus": 3,
+        "Description": "A hammer modeled after the tough jaw of a Chatacabra. Even has the tongue in there!"
+      },
+      "Headgear": {
+        "Name": "F Cabra Hood α",
+        "Forging Materials": [
+          "Chatacabra Hide+"
+        ],
+        "Description": "The opening of this Chatacabra hood is pulled extra snug to keep stray sand from getting inside."
+      },
+      "Body Armor": {
+        "Name": "F Cabra Jumpsuit α",
+        "Forging Materials": [
+          "Chatacabra Scale+"
+        ],
+        "Description": "Designed with mobility in mind, this Chatacabra one-piece is as comfy as it is safe."
+      },
+      "Defenses": {
+        "Defense": 26,
+        "Fire Res": 1,
+        "Water Res": 2,
+        "Thunder Res": -3,
+        "Ice Res": -1,
+        "Dragon Res": 1
+      }
+    },
+    "Felyne Quematrice α": {
+      "Rarity": 5,
+      "Required Cost": 1200,
+      "Weapon": {
+        "Name": "Felyne Matrice Spear α",
+        "Forging Materials": [
+          "Quematrice Igniter+"
+        ],
+        "Attack": {
+          "Melee": 30,
+          "Ranged": 32
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Fire": 18
+        },
+        "Affinity": 5,
+        "Defense Bonus": 0,
+        "Description": "The banner hung from this Quematrice pike will rally the brave. To arms—or, uh, paws…"
+      },
+      "Headgear": {
+        "Name": "Felyne Quema Helm α",
+        "Forging Materials": [
+          "Quematrice Crest+"
+        ],
+        "Description": "The flaming red plumes on the crest of this Quematrice helm sets a Palico's heart ablaze."
+      },
+      "Body Armor": {
+        "Name": "Felyne Quema Mail α",
+        "Forging Materials": [
+          "Quematrice Scale+"
+        ],
+        "Description": "The frilly hem and large train on this Quematrice mail make a Palico feel like they're flying."
+      },
+      "Defenses": {
+        "Defense": 26,
+        "Fire Res": 2,
+        "Water Res": -3,
+        "Thunder Res": 0,
+        "Ice Res": -1,
+        "Dragon Res": 0
+      }
+    },
+    "Felyne Lala Barina α": {
+      "Rarity": 5,
+      "Required Cost": 1200,
+      "Weapon": {
+        "Name": "Felyne Barina Needle α",
+        "Forging Materials": [
+          "Lala Barina Claw+"
+        ],
+        "Attack": {
+          "Melee": 24,
+          "Ranged": 30
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Paralysis": 20
+        },
+        "Affinity": 15,
+        "Defense Bonus": 0,
+        "Description": "The thorn of a Lala Barina fashioned into a weapon. Sharp in more ways than one!"
+      },
+      "Headgear": {
+        "Name": "Felyne Barina Wig α",
+        "Forging Materials": [
+          "Lala Barina Floret+"
+        ],
+        "Description": "A wig made of Lala Barina hairs, brushed until properly coifed for max defense then styled to slay."
+      },
+      "Body Armor": {
+        "Name": "Felyne Barina Dress α",
+        "Forging Materials": [
+          "Lala Barina Carapace"
+        ],
+        "Description": "This meticulously crafted Lala Barina armor's rose motif turns any Palico into a prima donna."
+      },
+      "Defenses": {
+        "Defense": 26,
+        "Fire Res": -3,
+        "Water Res": 3,
+        "Thunder Res": 0,
+        "Ice Res": 0,
+        "Dragon Res": 3
+      }
+    },
+    "Felyne Conga α": {
+      "Rarity": 5,
+      "Required Cost": 1200,
+      "Weapon": {
+        "Name": "Felyne Conga Tambourine α",
+        "Forging Materials": [
+          "Congalala Claw+"
+        ],
+        "Attack": {
+          "Melee": 38,
+          "Ranged": 36
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "-": null
+        },
+        "Affinity": 5,
+        "Defense Bonus": 0,
+        "Description": "Even in the paws of a pitch-perfect Palico, this Congalala tambourine is always sharp."
+      },
+      "Headgear": {
+        "Name": "Felyne Conga Head α",
+        "Forging Materials": [
+          "Vibrant Pelt+"
+        ],
+        "Description": "A pointed hat whose proud, pink puff makes a Palico feel pretty darned special."
+      },
+      "Body Armor": {
+        "Name": "Felyne Conga Feet α",
+        "Forging Materials": [
+          "Congalala Pelt+"
+        ],
+        "Description": "Mirthful cymbals that say, \"Here I come!\" as a Palico marches to the battlefield."
+      },
+      "Defenses": {
+        "Defense": 26,
+        "Fire Res": -3,
+        "Water Res": 1,
+        "Thunder Res": 1,
+        "Ice Res": -1,
+        "Dragon Res": 2
+      }
+    },
+    "Felyne Rompopolo α": {
+      "Rarity": 5,
+      "Required Cost": 1200,
+      "Weapon": {
+        "Name": "F Rompopolo Blaster α",
+        "Forging Materials": [
+          "Rompopolo Claw+"
+        ],
+        "Attack": {
+          "Melee": 30,
+          "Ranged": 34
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "Poison": 24
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "This Rompopolo weapon is designed to supply a constant flow of poison, but doesn't actually shoot any."
+      },
+      "Headgear": {
+        "Name": "F Rompopolo Brain α",
+        "Forging Materials": [
+          "Rompopolo Beak+"
+        ],
+        "Description": "This Rompopolo headgear may LOOK like a brain floating in a jar, but… best not to think about it."
+      },
+      "Body Armor": {
+        "Name": "F Rompopolo Suit α",
+        "Forging Materials": [
+          "Rompopolo Hide+"
+        ],
+        "Description": "The wearer is immune to the Rompopolo poison pumped through this suit. Those around it, though…"
+      },
+      "Defenses": {
+        "Defense": 26,
+        "Fire Res": 0,
+        "Water Res": -3,
+        "Thunder Res": 0,
+        "Ice Res": 0,
+        "Dragon Res": 1
+      }
+    },
+    "Felyne Gypceros α": {
+      "Rarity": 5,
+      "Required Cost": 1200,
+      "Weapon": {
+        "Name": "Felyne Gypceros Glare α",
+        "Forging Materials": [
+          "Gypceros Tail"
+        ],
+        "Attack": {
+          "Melee": 34,
+          "Ranged": 26
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "Poison": 30
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "An ancient weapon governing resurrection. Its mystic power makes rank fish fresh again."
+      },
+      "Headgear": {
+        "Name": "Felyne Gypceros Crast α",
+        "Forging Materials": [
+          "Gypceros Head"
+        ],
+        "Description": "August headwear with a wise gaze. The crest is said to glow when the gods return."
+      },
+      "Body Armor": {
+        "Name": "Felyne Gypceros Tunic α",
+        "Forging Materials": [
+          "Rubbery Hide+"
+        ],
+        "Description": "Gypceros armor based on ancient technology. The trim swaths the wearer in divine light."
+      },
+      "Defenses": {
+        "Defense": 26,
+        "Fire Res": -4,
+        "Water Res": 3,
+        "Thunder Res": 4,
+        "Ice Res": -1,
+        "Dragon Res": 1
+      }
+    },
+    "Felyne Nerscylla": {
+      "Rarity": 5,
+      "Required Cost": 1200,
+      "Weapon": {
+        "Name": "Felyne Nerscylla Wedge α",
+        "Forging Materials": [
+          "Nerscylla Claw+"
+        ],
+        "Attack": {
+          "Melee": 30,
+          "Ranged": 30
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Sleep": 24
+        },
+        "Affinity": 15,
+        "Defense Bonus": 0,
+        "Description": "Made from the keenest Nerscylla parts, its sharp edge snares prey as easily as spider silk."
+      },
+      "Headgear": {
+        "Name": "Felyne Scylla Mask α",
+        "Forging Materials": [
+          "Nerscylla Spike+"
+        ],
+        "Description": "A mask that covers the head. The opaque goggles are too cool for Palico school."
+      },
+      "Body Armor": {
+        "Name": "Felyne Scylla Mail α",
+        "Forging Materials": [
+          "Nerscylla Carapace"
+        ],
+        "Description": "A suit that covers the body. Painstakingly crafted, it exudes bewitching beauty."
+      },
+      "Defenses": {
+        "Defense": 30,
+        "Fire Res": -2,
+        "Water Res": 2,
+        "Thunder Res": -2,
+        "Ice Res": 1,
+        "Dragon Res": 2
+      }
+    },
+    "Felyne Balahara": {
+      "Rarity": 5,
+      "Required Cost": 1500,
+      "Weapon": {
+        "Name": "Felyne Balahara Drill α",
+        "Forging Materials": [
+          "Balahara Skull+"
+        ],
+        "Attack": {
+          "Melee": 34,
+          "Ranged": 36
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Water": 20
+        },
+        "Affinity": 5,
+        "Defense Bonus": 0,
+        "Description": "Equal parts weapon and tool, this Balahara drill can easily break down ore to collect."
+      },
+      "Headgear": {
+        "Name": "Felyne Balahara Helm α",
+        "Forging Materials": [
+          "Balahara Scale+"
+        ],
+        "Description": "This Balahara helmet is stuffed to the gills with cutting-edge sensor technology."
+      },
+      "Body Armor": {
+        "Name": "Felyne Balahara Mech α",
+        "Forging Materials": [
+          "Balahara Carapace"
+        ],
+        "Description": "A stunning amalgam of the latest tech, this Balahara mech is the final word in Felyne warfare."
+      },
+      "Defenses": {
+        "Defense": 30,
+        "Fire Res": -1,
+        "Water Res": 2,
+        "Thunder Res": -3,
+        "Ice Res": 1,
+        "Dragon Res": 1
+      }
+    },
+    "Felyne Hirabami α": {
+      "Rarity": 5,
+      "Required Cost": 1500,
+      "Weapon": {
+        "Name": "Felyne Hirabami Fan α",
+        "Forging Materials": [
+          "Hirabami Tail Claw+"
+        ],
+        "Attack": {
+          "Melee": 34,
+          "Ranged": 38
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Ice": 28
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "A legendary fan of Hirabami hide, able to conjure the wind and rain with a single swing…is what inspired this replica."
+      },
+      "Headgear": {
+        "Name": "Felyne Hirabami Cap α",
+        "Forging Materials": [
+          "Hirabami Hide+"
+        ],
+        "Description": "The oversized ribbon accent adds charm to this braided leather headgear made of Hirabami parts."
+      },
+      "Body Armor": {
+        "Name": "Felyne Hirabami Robe α",
+        "Forging Materials": [
+          "Hirabami Scale+"
+        ],
+        "Description": "A robe fit for a sage from a faraway land. The long, billowy sleeves are both elegant and adorable."
+      },
+      "Defenses": {
+        "Defense": 30,
+        "Fire Res": -3,
+        "Water Res": 2,
+        "Thunder Res": -2,
+        "Ice Res": 3,
+        "Dragon Res": 0
+      }
+    },
+    "Felyne Rathian α": {
+      "Rarity": 5,
+      "Required Cost": 1500,
+      "Weapon": {
+        "Name": "Felyne Rathian Rapier α",
+        "Forging Materials": [
+          "Rathian Spike+"
+        ],
+        "Attack": {
+          "Melee": 40,
+          "Ranged": 38
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Poison": 12
+        },
+        "Affinity": 10,
+        "Defense Bonus": 0,
+        "Description": "The strength of a queen slumbers in this gorgeous, emerald Rathian sword."
+      },
+      "Headgear": {
+        "Name": "Felyne Rathian Tiara α",
+        "Forging Materials": [
+          "Rathian Scale+"
+        ],
+        "Description": "A symbol of ferocity and pride that boasts remarkable defense and fire resistance."
+      },
+      "Body Armor": {
+        "Name": "Felyne Rathian Male α",
+        "Forging Materials": [
+          "Rathian Carapace"
+        ],
+        "Description": "Body armor made of strong, supple shell. As unbreakable as a Rathian's spirit."
+      },
+      "Defenses": {
+        "Defense": 30,
+        "Fire Res": 2,
+        "Water Res": 0,
+        "Thunder Res": -2,
+        "Ice Res": 0,
+        "Dragon Res": -3
+      }
+    },
+    "Felyne G. Fulgur α": {
+      "Rarity": 6,
+      "Required Cost": 2000,
+      "Weapon": {
+        "Name": "F Guardian Fulgur Maul α",
+        "Forging Materials": [
+          "Guardian Fulgur Nosebone+"
+        ],
+        "Attack": {
+          "Melee": 44,
+          "Ranged": 30
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "Thunder": 24
+        },
+        "Affinity": 10,
+        "Defense Bonus": 0,
+        "Description": "A Guardian Fulgur Anjanath weapon that commands its bearer to last out at any who draw near."
+      },
+      "Headgear": {
+        "Name": "F Guardian Fulgur Helm α",
+        "Forging Materials": [
+          "Guardian Fulgur Scale+"
+        ],
+        "Description": "A helm made of Guardian Fulgur Anjanath materials. Something tugs at the wearer. \"I was meant to be more than a Palico…\""
+      },
+      "Body Armor": {
+        "Name": "F Guardian Fulgur Mail α",
+        "Forging Materials": [
+          "Guardian Fulgur Pelt+"
+        ],
+        "Description": "The bleached-white portions of this Guardian Fulgur Anjanath armor glow faintly, and are warm to the touch."
+      },
+      "Defenses": {
+        "Defense": 38,
+        "Fire Res": -1,
+        "Water Res": -1,
+        "Thunder Res": 2,
+        "Ice Res": -3,
+        "Dragon Res": -2
+      }
+    },
+    "Felyne Doshaguma α": {
+      "Rarity": 6,
+      "Required Cost": 2000,
+      "Weapon": {
+        "Name": "F Doshaguma Knuckle α",
+        "Forging Materials": [
+          "Doshaguma Fang+"
+        ],
+        "Attack": {
+          "Melee": 46,
+          "Ranged": 46
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "-": null
+        },
+        "Affinity": -5,
+        "Defense Bonus": 5,
+        "Description": "Taking up this Doshaguma weapon makes the wielder want to chomp its fangs into, well, everything."
+      },
+      "Headgear": {
+        "Name": "F Doshaguma Helm α",
+        "Forging Materials": [
+          "Doshaguma Fur+"
+        ],
+        "Description": "The wild hair bursting from this Doshaguma helm is for intimidation. The little braids are for cuteness."
+      },
+      "Body Armor": {
+        "Name": "F Doshaguma Mail α",
+        "Forging Materials": [
+          "Doshaguma Hide+"
+        ],
+        "Description": "The restraints compromising this Doshaguma mail are fearsome, but a bit tough to move in…"
+      },
+      "Defenses": {
+        "Defense": 38,
+        "Fire Res": -3,
+        "Water Res": 2,
+        "Thunder Res": -1,
+        "Ice Res": -1,
+        "Dragon Res": 4
+      }
+    },
+    "Felyne G. Doshaguma α": {
+      "Rarity": 6,
+      "Required Cost": 2000,
+      "Weapon": {
+        "Name": "F Guardian Dosha Knuckle α",
+        "Forging Materials": [
+          "Guardian Doshaguma Fang+"
+        ],
+        "Attack": {
+          "Melee": 50,
+          "Ranged": 50
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "-": null
+        },
+        "Affinity": -15,
+        "Defense Bonus": 0,
+        "Description": "A Guardian Doshaguma weapon that commands its bearer to lash out at any who draw near."
+      },
+      "Headgear": {
+        "Name": "F Guardian Dosha Helm α",
+        "Forging Materials": [
+          "Guardian Doshaguma Fur+"
+        ],
+        "Description": "A helm made of Guardian Doshaguma materials. Something tugs at the wearer. \"I was meant to be more than a Palico…\""
+      },
+      "Body Armor": {
+        "Name": "F Guardian Dosha Mail α",
+        "Forging Materials": [
+          "Guardian Doshaguma Hide+"
+        ],
+        "Description": "The bleached-white portions of this Guardian Doshaguma armor glow faintly, and are warm to the touch."
+      },
+      "Defenses": {
+        "Defense": 38,
+        "Fire Res": -3,
+        "Water Res": 2,
+        "Thunder Res": -1,
+        "Ice Res": -2,
+        "Dragon Res": 2
+      }
+    },
+    "Felyne Ajarakan α": {
+      "Rarity": 6,
+      "Required Cost": 2000,
+      "Weapon": {
+        "Name": "F Ajarakan Staff α",
+        "Forging Materials": [
+          "Ajarakan Jewel+"
+        ],
+        "Attack": {
+          "Melee": 44,
+          "Ranged": 32
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "Blast": 20
+        },
+        "Affinity": 10,
+        "Defense Bonus": 0,
+        "Description": "An Ajarakan staff that ignites the wielder's fighting spirit and burns the wicked to ash."
+      },
+      "Headgear": {
+        "Name": "F Ajarakan Helm α",
+        "Forging Materials": [
+          "Ajarakan Scale+"
+        ],
+        "Description": "An Ajarakan helm said to emit a mighty shriek that has the power to repel all evil."
+      },
+      "Body Armor": {
+        "Name": "F Ajarakan Mail α",
+        "Forging Materials": [
+          "Ajarakan Carapace"
+        ],
+        "Description": "This Ajarakan armor grants the wearer evil-banishing powers. Also, a rockin' bod. Me-ow!"
+      },
+      "Defenses": {
+        "Defense": 38,
+        "Fire Res": 3,
+        "Water Res": -3,
+        "Thunder Res": 1,
+        "Ice Res": -2,
+        "Dragon Res": 0
+      }
+    },
+    "Felyne G. Ebony α": {
+      "Rarity": 6,
+      "Required Cost": 2000,
+      "Weapon": {
+        "Name": "F Guardian Ebony Sickle α",
+        "Forging Materials": [
+          "Guardian Ebony Claw+"
+        ],
+        "Attack": {
+          "Melee": 38,
+          "Ranged": 38
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Dragon": 22
+        },
+        "Affinity": 20,
+        "Defense Bonus": 0,
+        "Description": "A Guardian Ebony Odogaron weapon that commands its bearer to lash out at any who draw near."
+      },
+      "Headgear": {
+        "Name": "F Guardian Ebony Helm α",
+        "Forging Materials": [
+          "Guardian Ebony Odogaron Scale+"
+        ],
+        "Description": "A helm made of Guardian Ebony Odogaron materials. Something tugs at the wearer. \"I was meant to be more than a Palico…\""
+      },
+      "Body Armor": {
+        "Name": "F Guardian Ebony Mail α",
+        "Forging Materials": [
+          "Guardian Ebony Odogaron Sinew+"
+        ],
+        "Description": "The bleached-white portions of this Guardian Ebony Odogaron armor glow faintly, and are warm to the touch."
+      },
+      "Defenses": {
+        "Defense": 38,
+        "Fire Res": -2,
+        "Water Res": -3,
+        "Thunder Res": -2,
+        "Ice Res": -2,
+        "Dragon Res": 4
+      }
+    },
+    "Felyne Xu Wu α": {
+      "Rarity": 6,
+      "Required Cost": 2000,
+      "Weapon": {
+        "Name": "Felyne Xu Wu Orb α",
+        "Forging Materials": [
+          "Xu Wu Tentacle+"
+        ],
+        "Attack": {
+          "Melee": 50,
+          "Ranged": 50
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "Water": 24
+        },
+        "Affinity": -10,
+        "Defense Bonus": 0,
+        "Description": "This Xu Wu crystal orb shows the cruelest future; and the talisman shows the path to avoid its coming."
+      },
+      "Headgear": {
+        "Name": "Felyne Xu Wu Veil α",
+        "Forging Materials": [
+          "Golden Corneum+"
+        ],
+        "Description": "This veil of Xu Wu materials grants the wearer eyes that peer into both past and future."
+      },
+      "Body Armor": {
+        "Name": "Felyne Xu Wu Suit α",
+        "Forging Materials": [
+          "Xu Wu Hide+"
+        ],
+        "Description": "Those who don this Xu Wu armor will always find the true path, even in the darkest night."
+      },
+      "Defenses": {
+        "Defense": 38,
+        "Fire Res": 1,
+        "Water Res": 1,
+        "Thunder Res": 1,
+        "Ice Res": -3,
+        "Dragon Res": 2
+      }
+    },
+    "Felyne Rathalos α": {
+      "Rarity": 6,
+      "Required Cost": 2000,
+      "Weapon": {
+        "Name": "F Rathalos Blade α",
+        "Forging Materials": [
+          "Rathalos Wing"
+        ],
+        "Attack": {
+          "Melee": 44,
+          "Ranged": 40
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Fire": 28
+        },
+        "Affinity": 10,
+        "Defense Bonus": 0,
+        "Description": "A sword made of Rathalos parts. Blazing wyvern breath spews forth with every slash."
+      },
+      "Headgear": {
+        "Name": "Felyne Rathalos Helm α",
+        "Forging Materials": [
+          "Guardian Rathalos Scale+"
+        ],
+        "Description": "Head armor as wild and regal as the King of the Skies. Quets the fiercest of fires."
+      },
+      "Body Armor": {
+        "Name": "Felyne Rathalos Mail α",
+        "Forging Materials": [
+          "Guardian Rathalos Carapace"
+        ],
+        "Description": "Body armor made of the King of the Skies' carapace, as strong and regal as its namesake."
+      },
+      "Defenses": {
+        "Defense": 38,
+        "Fire Res": 3,
+        "Water Res": 1,
+        "Thunder Res": -2,
+        "Ice Res": 1,
+        "Dragon Res": -3
+      }
+    },
+    "Felyne G. Rathalos α": {
+      "Rarity": 6,
+      "Required Cost": 2000,
+      "Weapon": {
+        "Name": "F Guardian Rath Blade α",
+        "Forging Materials": [
+          "Guardian Rathalos Wing"
+        ],
+        "Attack": {
+          "Melee": 46,
+          "Ranged": 30
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Fire": 18
+        },
+        "Affinity": 15,
+        "Defense Bonus": 0,
+        "Description": "A Guardian Rathalos weapon that commands its bearer to lash out at any who draw near."
+      },
+      "Headgear": {
+        "Name": "F Guardian Rath Helm α",
+        "Forging Materials": [
+          "Guardian Rathalos Scale+"
+        ],
+        "Description": "A helm made of Guardian Rathalos materials. Something tugs at the wearer. \"I was meant to be more than a Palico…\""
+      },
+      "Body Armor": {
+        "Name": "F Guardian Rath Mail α",
+        "Forging Materials": [
+          "Guardian Rathalos Carapace"
+        ],
+        "Description": "The bleached-white portions of this Guardian Rathalos armor glow faintly, and are warm to the touch."
+      },
+      "Defenses": {
+        "Defense": 38,
+        "Fire Res": 3,
+        "Water Res": 1,
+        "Thunder Res": -2,
+        "Ice Res": 1,
+        "Dragon Res": -5
+      }
+    },
+    "Felyne Gravios α": {
+      "Rarity": 6,
+      "Required Cost": 2000,
+      "Weapon": {
+        "Name": "Felyne Grav Bazooka α",
+        "Forging Materials": [
+          "Gravios Wing"
+        ],
+        "Attack": {
+          "Melee": 48,
+          "Ranged": 48
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "Blast": 28
+        },
+        "Affinity": -15,
+        "Defense Bonus": 15,
+        "Description": "Contains the full force of an eruptive volcano. Marvel at the fire of a Palico's soul!"
+      },
+      "Headgear": {
+        "Name": "Felyne Grav Mask α",
+        "Forging Materials": [
+          "Gravios Skull"
+        ],
+        "Description": "The dim glow of magma shines out from the interior of this gloomy Gravios headwear."
+      },
+      "Body Armor": {
+        "Name": "Felyne Grav Armor α",
+        "Forging Materials": [
+          "Gravios Carapace"
+        ],
+        "Description": "Gravios armor with pauldrons strong enough to easily shoulder any threat."
+      },
+      "Defenses": {
+        "Defense": 42,
+        "Fire Res": 4,
+        "Water Res": -3,
+        "Thunder Res": 1,
+        "Ice Res": 0,
+        "Dragon Res": -2
+      }
+    },
+    "Felyne Blango α": {
+      "Rarity": 6,
+      "Required Cost": 2000,
+      "Weapon": {
+        "Name": "Felyne Blango Banana α",
+        "Forging Materials": [
+          "Blangonga Fang+"
+        ],
+        "Attack": {
+          "Melee": 46,
+          "Ranged": 44
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Ice": 18
+        },
+        "Affinity": -10,
+        "Defense Bonus": 0,
+        "Description": "Hewn from a Blangonga's tusk, this weapon bears the faint scent of bananas."
+      },
+      "Headgear": {
+        "Name": "Felyne Blango Head α",
+        "Forging Materials": [
+          "Blangonga Pelt+"
+        ],
+        "Description": "Pop this Blangonga headgear on, and your \"meows\" will all come out as \"oo-oo ah-ahs\"!"
+      },
+      "Body Armor": {
+        "Name": "Fleyne Blango Body α",
+        "Forging Materials": [
+          "Blangonga Tail"
+        ],
+        "Description": "This fluffy Blangonga armor is heaven to wear, but it makes your legs look a bit stubby…"
+      },
+      "Defenses": {
+        "Defense": 38,
+        "Fire Res": -4,
+        "Water Res": 1,
+        "Thunder Res": 0,
+        "Ice Res": 4,
+        "Dragon Res": 0
+      }
+    },
+    "Felyne Kunafa α": {
+      "Rarity": 6,
+      "Required Cost": 1800,
+      "Weapon": {
+        "Name": null,
+        "Forging Materials": null,
+        "Attack": {
+          "Melee": null,
+          "Ranged": null
+        },
+        "Attack Type": null,
+        "Element": null,
+        "Affinity": null,
+        "Defense Bonus": null,
+        "Description": null
+      },
+      "Headgear": {
+        "Name": "Felyne Kunafa Hood α",
+        "Forging Materials": [
+          "Dalthydon Wool",
+          "Acute Fang"
+        ],
+        "Description": "Felyne fashion from Kunafa that offers cover from the sun and wind. It even turns into a picnic blanket come break time!"
+      },
+      "Body Armor": {
+        "Name": "Felyne Kunafa Suit α",
+        "Forging Materials": [
+          "Dalthydon Wool",
+          "Talioth Scale+"
+        ],
+        "Description": "Woven in a style unique to Kunafa. Blocks out heat and locks in moisture—a perfect choice for desert travel."
+      },
+      "Defenses": {
+        "Defense": 34,
+        "Fire Res": 1,
+        "Water Res": 1,
+        "Thunder Res": 4,
+        "Ice Res": 1,
+        "Dragon Res": 1
+      }
+    },
+    "Felyne Azuz α": {
+      "Rarity": 6,
+      "Required Cost": 1800,
+      "Weapon": {
+        "Name": null,
+        "Forging Materials": null,
+        "Attack": {
+          "Melee": null,
+          "Ranged": null
+        },
+        "Attack Type": null,
+        "Element": null,
+        "Affinity": null,
+        "Defense Bonus": null,
+        "Description": null
+      },
+      "Headgear": {
+        "Name": "Felyne Azuz Head α",
+        "Forging Materials": [
+          "Azuz Tanned Leather",
+          "Charred Oilbone"
+        ],
+        "Description": "A…helmet(?) unearthed in the Oilwell Basin. Any who put it on report strange and unintelligible mutterings filling their mind."
+      },
+      "Body Armor": {
+        "Name": "Felyne Azuz Body α",
+        "Forging Materials": [
+          "Azuz Tanned Leather",
+          "Firesetone"
+        ],
+        "Description": "Some…armor(?) unearthed in the Oilwell Basin. Those who don it report their body suddenly moving against their will."
+      },
+      "Defenses": {
+        "Defense": 34,
+        "Fire Res": 4,
+        "Water Res": 1,
+        "Thunder Res": 1,
+        "Ice Res": 1,
+        "Dragon Res": 1
+      }
+    },
+    "Felyne Suja α": {
+      "Rarity": 6,
+      "Required Cost": 1800,
+      "Weapon": {
+        "Name": null,
+        "Forging Materials": null,
+        "Attack": {
+          "Melee": null,
+          "Ranged": null
+        },
+        "Attack Type": null,
+        "Element": null,
+        "Affinity": null,
+        "Defense Bonus": null,
+        "Description": null
+      },
+      "Headgear": {
+        "Name": "Felyne Suja Frog α",
+        "Forging Materials": [
+          "Suja Textiles",
+          "Fucium Ore"
+        ],
+        "Description": "An amphibious pal scooped up in the Peaks of Accord. Giving it a ride on your noggin grants good luck. Today will be a nice day!"
+      },
+      "Body Armor": {
+        "Name": "Felyne Suja Vest α",
+        "Forging Materials": [
+          "Suja Textiles",
+          "Fucium Ore"
+        ],
+        "Description": "This Felyne garb from the Peaks of Accord looks lightweight, but was woven with protective sigils passed down from ancient times."
+      },
+      "Defenses": {
+        "Defense": 34,
+        "Fire Res": 1,
+        "Water Res": 1,
+        "Thunder Res": 1,
+        "Ice Res": 4,
+        "Dragon Res": 1
+      }
+    },
+    "Felyne Sild α": {
+      "Rarity": 6,
+      "Required Cost": 1800,
+      "Weapon": {
+        "Name": null,
+        "Forging Materials": null,
+        "Attack": {
+          "Melee": null,
+          "Ranged": null
+        },
+        "Attack Type": null,
+        "Element": null,
+        "Affinity": null,
+        "Defense Bonus": null,
+        "Description": null
+      },
+      "Headgear": {
+        "Name": "Felyne Sild Hood α",
+        "Forging Materials": [
+          "Sild Cotton",
+          "Guardian Seikret Feather+"
+        ],
+        "Description": "Head protection from the Keepers' village that is historically worn only when carrying out dangerous work."
+      },
+      "Body Armor": {
+        "Name": "Felyne Sild Suit α",
+        "Forging Materials": [
+          "Sild Cotton",
+          "Guardian Seikret Feather+"
+        ],
+        "Description": "This protective wear from the Keepers' village is so comfy, many Palicoes have taken to wearing it around the house."
+      },
+      "Defenses": {
+        "Defense": 34,
+        "Fire Res": 1,
+        "Water Res": 1,
+        "Thunder Res": 1,
+        "Ice Res": 1,
+        "Dragon Res": 4
+      }
+    },
+    "Felyne Artian α": {
+      "Rarity": 6,
+      "Required Cost": 1800,
+      "Weapon": {
+        "Name": "Felyne Artian Disk α",
+        "Forging Materials": [
+          "Gracium",
+          "Frenzy Shard"
+        ],
+        "Attack": {
+          "Melee": 44,
+          "Ranged": 44
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "-": null
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "A disc-shaped weapon made from a mysterious mined metal. Slices its target into pieces."
+      },
+      "Headgear": {
+        "Name": "Felyne Artian Core α",
+        "Forging Materials": [
+          "Gracium",
+          "Frenzy Shard"
+        ],
+        "Description": "A highly sturdy Palico helm made from a mysterious mined metal."
+      },
+      "Body Armor": {
+        "Name": "Felyne Artian Gear α",
+        "Forging Materials": [
+          "Gracium",
+          "Frenzy Shard"
+        ],
+        "Description": "The materials in this suit inexplicably magnetize, keeping Palicoes afloat."
+      },
+      "Defenses": {
+        "Defense": 34,
+        "Fire Res": 1,
+        "Water Res": -2,
+        "Thunder Res": -2,
+        "Ice Res": 2,
+        "Dragon Res": 3
+      }
+    },
+    "Felyne Death Stench α": {
+      "Rarity": 6,
+      "Required Cost": 1800,
+      "Weapon": {
+        "Name": "Felyne Deathgear Scythe α",
+        "Forging Materials": [
+          "Sinister Cloth",
+          "Wingdrake Hide+"
+        ],
+        "Attack": {
+          "Melee": 45,
+          "Ranged": 26
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Dragon": 28
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "A fearsome scythe that cleaves away consciousness. Even the largest prey fall instantly into restful slumber."
+      },
+      "Headgear": {
+        "Name": "Felyne Deathgear Hood α",
+        "Forging Materials": [
+          "Sinister Cloth",
+          "Wingdrake Hide+"
+        ],
+        "Description": "This deathly hood would scare the pants right off your Palico. If they actually wore pants."
+      },
+      "Body Armor": {
+        "Name": "Felyne Deathgear Cowl α",
+        "Forging Materials": [
+          "Sinister Cloth",
+          "Wingdrake Hide+"
+        ],
+        "Description": "A spooky black shroud. Possibly cursed. The wearer experiences constant chills up their spine."
+      },
+      "Defenses": {
+        "Defense": 34,
+        "Fire Res": 3,
+        "Water Res": 2,
+        "Thunder Res": -2,
+        "Ice Res": 3,
+        "Dragon Res": 4
+      }
+    },
+    "Felyne Dahaad α": {
+      "Rarity": 7,
+      "Required Cost": 2500,
+      "Weapon": {
+        "Name": "Felyne Dahaad Mace α",
+        "Forging Materials": [
+          "Jin Dahaad Iceplate"
+        ],
+        "Attack": {
+          "Melee": 40,
+          "Ranged": 48
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "Ice": 30
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "A Jin Dahaad scepter that resembles the regalia of a queen who once ruled with an ice-cold fist."
+      },
+      "Headgear": {
+        "Name": "Felyne Dahaad Corona α",
+        "Forging Materials": [
+          "Jin Dahaad Scale+"
+        ],
+        "Description": "Regal Jin Dahaad headgear modeled after the crown worn by a queen who presided over a thousand-year peace."
+      },
+      "Body Armor": {
+        "Name": "Felyne Dahaad Gown α",
+        "Forging Materials": [
+          "Jin Dahaad Carapace"
+        ],
+        "Description": "An elegant Jin Dahaad dress that embodies the glory and grace of a queen."
+      },
+      "Defenses": {
+        "Defense": 50,
+        "Fire Res": -4,
+        "Water Res": 2,
+        "Thunder Res": -1,
+        "Ice Res": 5,
+        "Dragon Res": -1
+      }
+    },
+    "Felyne Uth Duna α": {
+      "Rarity": 7,
+      "Required Cost": 2500,
+      "Weapon": {
+        "Name": "Felyne Duna Spear",
+        "Forging Materials": [
+          "Uth Duna Claw+"
+        ],
+        "Attack": {
+          "Melee": 48,
+          "Ranged": 40
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Water": 30
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "This weapon made from Uth Duna parts stands as a symbol of the forest's boundless blessing."
+      },
+      "Headgear": {
+        "Name": "Felyne Duna Mask α",
+        "Forging Materials": [
+          "Uth Duna Cilia+"
+        ],
+        "Description": "It is said that those who don this Uth Duna mask are able to commune with the forest."
+      },
+      "Body Armor": {
+        "Name": "Felyne Duna Cape α",
+        "Forging Materials": [
+          "Uth Duna Scale+"
+        ],
+        "Description": "Surprisingly breathable, this Uth Duna armor allows the wearer to feel the forest's respiration."
+      },
+      "Defenses": {
+        "Defense": 50,
+        "Fire Res": -1,
+        "Water Res": 4,
+        "Thunder Res": -3,
+        "Ice Res": 0,
+        "Dragon Res": 0
+      }
+    },
+    "Felyne Rey Dau α": {
+      "Rarity": 7,
+      "Required Cost": 2500,
+      "Weapon": {
+        "Name": "Felyne Dau Naginata",
+        "Forging Materials": [
+          "Rey Dau Fulgurtalon"
+        ],
+        "Attack": {
+          "Melee": 40,
+          "Ranged": 48
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Thunder": 30
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "Each swing of this glaive carves sky and earth with the fury of its namesake's thunderous wingbeats."
+      },
+      "Headgear": {
+        "Name": "Felyne Dau Helm α",
+        "Forging Materials": [
+          "Rey Dau Bolthorn"
+        ],
+        "Description": "Headgear forged of Rey Dau parts. No earthly force can bow the head crowned by the golden sun."
+      },
+      "Body Armor": {
+        "Name": "Felyne Dau Armor α",
+        "Forging Materials": [
+          "Rey Dau Scale+"
+        ],
+        "Description": "Those who clad themselves in Rey Dau's fearsome visage gain its majesty and might as well."
+      },
+      "Defenses": {
+        "Defense": 50,
+        "Fire Res": 0,
+        "Water Res": -2,
+        "Thunder Res": 4,
+        "Ice Res": -3,
+        "Dragon Res": 0
+      }
+    },
+    "Felyne Nu Udra α": {
+      "Rarity": 7,
+      "Required Cost": 2500,
+      "Weapon": {
+        "Name": "Felyne Udra Vessel α",
+        "Forging Materials": [
+          "Nu Udra Tentacle+"
+        ],
+        "Attack": {
+          "Melee": 52,
+          "Ranged": 40
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "Fire": 30
+        },
+        "Affinity": -10,
+        "Defense Bonus": 0,
+        "Description": "A Nu Udra weapon. As you gaze into its depths, it gazes back at you."
+      },
+      "Headgear": {
+        "Name": "Felyne Udra Head α",
+        "Forging Materials": [
+          "Nu Udra Horn+"
+        ],
+        "Description": "Those who don this Nu Udra helm are shown a world crawling with aberrations that defy description."
+      },
+      "Body Armor": {
+        "Name": "Felyne Udra Tentacles α",
+        "Forging Materials": [
+          "Nu Udra Hide+"
+        ],
+        "Description": "This Nu Udra armor's tentacles writhe and grasp at prey entirely of their own will."
+      },
+      "Defenses": {
+        "Defense": 50,
+        "Fire Res": 5,
+        "Water Res": -4,
+        "Thunder Res": 0,
+        "Ice Res": 1,
+        "Dragon Res": 0
+      }
+    },
+    "Felyne Gore α": {
+      "Rarity": 7,
+      "Required Cost": 2500,
+      "Weapon": {
+        "Name": "Felyne Katzenfunzel α",
+        "Forging Materials": [
+          "Gore Magala Ripclaw+"
+        ],
+        "Attack": {
+          "Melee": 52,
+          "Ranged": 52
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Dragon": 20
+        },
+        "Affinity": 10,
+        "Defense Bonus": 0,
+        "Description": "The fell glow of this evil Gore Magala weapon casts more shadow than light."
+      },
+      "Headgear": {
+        "Name": "Felyne Gore Horror α",
+        "Forging Materials": [
+          "Gore Magala Scale+"
+        ],
+        "Description": "The flames of despair find a home in the gaze of any who dare don this Gore Magala helm."
+      },
+      "Body Armor": {
+        "Name": "Felyne Gore Ghost α",
+        "Forging Materials": [
+          "Gore Magala Carapace"
+        ],
+        "Description": "This Gore Magala armor brings its wearer absolute victory… and assured doom."
+      },
+      "Defenses": {
+        "Defense": 50,
+        "Fire Res": -2,
+        "Water Res": 3,
+        "Thunder Res": -1,
+        "Ice Res": 2,
+        "Dragon Res": -1
+      }
+    },
+    "Felyne Arkveld α": {
+      "Rarity": 8,
+      "Required Cost": 3000,
+      "Weapon": {
+        "Name": "Felyne Arkveld Sword α",
+        "Forging Materials": [
+          "Arkveld Calloushell"
+        ],
+        "Attack": {
+          "Melee": 44,
+          "Ranged": 54
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Dragon": 40
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "The squire of a lost kingdom fought against fate alongside their knightly master with this Arkveld blade in paw."
+      },
+      "Headgear": {
+        "Name": "Felyne Arkveld Helm α",
+        "Forging Materials": [
+          "White Arkveld Pelt"
+        ],
+        "Description": "An Arkveld Helmet modeled after that of a squire who served the knight of a fallen kingdom."
+      },
+      "Body Armor": {
+        "Name": "Felyne Arkveld Mail α",
+        "Forging Materials": [
+          "Arkveld Scale+"
+        ],
+        "Description": "Arkveld mail modeled after a squire said to have faithfully served their master until the very end."
+      },
+      "Defenses": {
+        "Defense": 54,
+        "Fire Res": 2,
+        "Water Res": 0,
+        "Thunder Res": -1,
+        "Ice Res": 0,
+        "Dragon Res": -3
+      }
+    },
+    "Felyne G. Ark α": {
+      "Rarity": 8,
+      "Required Cost": 3000,
+      "Weapon": {
+        "Name": "F Guardian Ark Sword α",
+        "Forging Materials": [
+          "Hunter Symbol III",
+          "Guardian Blood+"
+        ],
+        "Attack": {
+          "Melee": 58,
+          "Ranged": 52
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Dragon": 18
+        },
+        "Affinity": -10,
+        "Defense Bonus": 0,
+        "Description": "Each slash of this Guardian Arkveld Sword causes newfound strength to well up in its wielder."
+      },
+      "Headgear": {
+        "Name": "F Guardian Ark Helm α",
+        "Forging Materials": [
+          "Hunter Symbol III",
+          "Guardian Pelt+"
+        ],
+        "Description": "Any who wear this Guardian Arkveld helm are guided by a formless, relentless hand to press onward."
+      },
+      "Body Armor": {
+        "Name": "F Guardian Ark Mail",
+        "Forging Materials": [
+          "Hunter Symbol III",
+          "Guardian Scale+"
+        ],
+        "Description": "Palicoes clad in this Guardian Arkveld armor cease to feel any trace of exhaustion or fatigue… they think."
+      },
+      "Defenses": {
+        "Defense": 56,
+        "Fire Res": 2,
+        "Water Res": 0,
+        "Thunder Res": -1,
+        "Ice Res": 0,
+        "Dragon Res": -4
+      }
+    },
+    "Athos α": {
+      "Rarity": 8,
+      "Required Cost": 2800,
+      "Weapon": {
+        "Name": "Athos's Hinge Blade α",
+        "Forging Materials": [
+          "Hunter Symbol III",
+          "Fucium Ore"
+        ],
+        "Attack": {
+          "Melee": 40,
+          "Ranged": 56
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "-": null
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "A keen blade to match Athos, Astrum Unit's elite Palico. Twisting the haft transforms the weapon into a boomerang."
+      },
+      "Headgear": {
+        "Name": "Athos's Scar",
+        "Forging Materials": [
+          "Hunter Symbol III",
+          "Fucium Ore"
+        ],
+        "Description": "A stick-on scar to match Athos, Astrum Unit's elite Palico. I'm not asking her how she got it. ''You'' ask her…"
+      },
+      "Body Armor": {
+        "Name": "Athos's Armor α",
+        "Forging Materials": [
+          "Hunter Symbol III",
+          "Fucium Ore"
+        ],
+        "Description": "Knightly mail to match Athos, Astrum Unit's elite Palico. The striking fur cape is fit for nobility."
+      },
+      "Defenses": {
+        "Defense": 50,
+        "Fire Res": 2,
+        "Water Res": 2,
+        "Thunder Res": 2,
+        "Ice Res": 2,
+        "Dragon Res": 2
+      }
+    }
+  }
+}

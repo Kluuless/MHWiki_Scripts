@@ -1,0 +1,248 @@
+{
+	"Camp Costs":
+	{
+		"Safe": 25,
+		"Insecure": 50,
+		"Dangerous": 75
+	},
+	"Windward Plains":
+	[{
+		"Name": "South",
+		"Area": 3,
+		"Safety Level": "Insecure"
+	},
+	{
+		"Name": "Mineral Cave",
+		"Area": 4,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "West",
+		"Area": 4,
+		"Safety Level": "Dangerous"
+	},
+	{
+		"Name": "Valley Hideaway",
+		"Area": 6,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "Southwest",
+		"Area": 8,
+		"Safety Level": "Dangerous"
+	},
+	{
+		"Name": "Southeast",
+		"Area": 8,
+		"Safety Level": "Dangerous"
+	},
+	{
+		"Name": "Lookout Hill",
+		"Area": 9,
+		"Safety Level": "Insecure"
+	},
+	{
+		"Name": "Southeast",
+		"Area": 10,
+		"Safety Level": "Dangerous"
+	},
+	{
+		"Name": "Oasis",
+		"Area": 13,
+		"Safety Level": "Dangerous"
+	},
+	{
+		"Name": "West",
+		"Area": 13,
+		"Safety Level": "Insecure"
+	},
+	{
+		"Name": "Groundwater Vein",
+		"Area": 14,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "Bone Desert",
+		"Area": 16,
+		"Safety Level": "Insecure"
+	},
+	{
+		"Name": "Northwest",
+		"Area": 16,
+		"Safety Level": "Insecure"
+	}],	
+	"Scarlet Forest":
+	[{
+		"Name": "Flowering Rocks",
+		"Area": 6,
+		"Safety Level": "Safe"
+	},
+		{
+		"Name": "Bower of the Great Tree",
+		"Area": 7,
+		"Safety Level": "Dangerous"
+	},
+	{
+		"Name": "Underground Lake",
+		"Area": 8,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "South",
+		"Area": 8,
+		"Safety Level": "Dangerous"
+	},
+	{
+		"Name": "Southwest",
+		"Area": 10,
+		"Safety Level": "Dangerous"
+	},
+	{
+		"Name": "Northeast",
+		"Area": 12,
+		"Safety Level": "Insecure"
+	},
+	{
+		"Name": "Southwest",
+		"Area": 14,
+		"Safety Level": "Dangerous"
+	},
+	{
+		"Name": "Ruin Interior",
+		"Area": 16,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "Hidden Waterfall",
+		"Area": 16,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "Great Lake Shore",
+		"Area": 17,
+		"Safety Level": "Insecure"
+	},
+	{
+		"Name": "Treetop Hill",
+		"Area": 18,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "West",
+		"Area": 18,
+		"Safety Level": "Safe"
+	}],
+	"Oilwell Basin":
+	[{
+		"Name": "Canyon Divide",
+		"Area": 2,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "Dilapidated Roadway",
+		"Area": 4,
+		"Safety Level": "Dangerous"
+	},
+	{
+		"Name": "Middle Strata North",
+		"Area": 8,
+		"Safety Level": "Dangerous"
+	},
+	{
+		"Name": "Middle Strata South",
+		"Area": 9,
+		"Safety Level": "Insecure"
+	},
+	{
+		"Name": "Crimson Rivulet",
+		"Area": 12,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "Limestone Cavern",
+		"Area": 13,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "Mining Cave",
+		"Area": 14,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "Lower Strata North",
+		"Area": 15,
+		"Safety Level": "Dangerous"
+	}],
+	"Iceshard Cliffs":
+	[{
+		"Name": "Icy Shore",
+		"Area": 1,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "North",
+		"Area": 6,
+		"Safety Level": "Dangerous"
+	},
+	{
+		"Name": "Watchtower",
+		"Area": 7,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "Upper Corridor",
+		"Area": 15,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "Sinkhole",
+		"Area": 18,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "Floating Rock Wall",
+		"Area": 19,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "Ancient Room",
+		"Area": 20,
+		"Safety Level": "Safe"
+	}],
+	"Ruins of Wyveria":
+	[{
+		"Name": "Crumbling Structure",
+		"Area": 2,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "Secluded Ruins",
+		"Area": 6,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "Remnant Grove",
+		"Area": 6,
+		"Safety Level": "Dangerous"
+	},
+	{
+		"Name": "Southeast",
+		"Area": 6,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "Gap in Rubble",
+		"Area": 8,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "Entangled Canopy",
+		"Area": 9,
+		"Safety Level": "Safe"
+	},
+	{
+		"Name": "Hidden Cave",
+		"Area": 13,
+		"Safety Level": "Safe"
+	}]
+}
