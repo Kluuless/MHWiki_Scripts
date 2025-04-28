@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Rey Dau α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Rey Dau α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Rey Dau α
+|Rarity                        = 7
+|Weapon Name                   = Felyne Dau Naginata
+|Weapon Attack Type            = Severing
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 40
+|Weapon Affinity               = 0
+|Weapon Ranged Attack          = 48
+|Weapon Description            = Each swing of this glaive carves sky and earth with the fury of its namesake's thunderous wingbeats.
+|Weapon Forge Cost             = 2500z
+|Weapon Ailment Type           = Thunder
+|Weapon Ailment Damage         = 30
+|Weapon Material 1 Name        = Rey Dau Fulgurtalon
+|Weapon Material 1 Icon Type   = Claw
+|Weapon Material 1 Icon Color  = Blue
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = Felyne Dau Helm α
+|Head Defense                  = 50
+|Head Fire Res                 = 0
+|Head Water Res                = -2
+|Head Thunder Res              = 4
+|Head Ice Res                  = -3
+|Head Dragon Res               = 0
+|Head Description              = Headgear forged of Rey Dau parts. No earthly force can bow the head crowned by the golden sun.
+|Head Forge Cost               = 2500z
+|Head Material 1 Name          = Rey Dau Bolthorn
+|Head Material 1 Icon Type     = Claw
+|Head Material 1 Icon Color    = Yellow
+|Head Material 1 Quantity      = 1
+|Torso Name                    = Felyne Dau Armor α
+|Torso Defense                 = 50
+|Torso Fire Res                = 0
+|Torso Water Res               = -2
+|Torso Thunder Res             = 4
+|Torso Ice Res                 = -3
+|Torso Dragon Res              = 0
+|Torso Description             = Those who clad themselves in Rey Dau's fearsome visage gain its majesty and might as well.
+|Torso Forge Cost              = 2500z
+|Torso Material 1 Name         = Rey Dau Scale+
+|Torso Material 1 Icon Type    = Scale
+|Torso Material 1 Icon Color   = Yellow
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

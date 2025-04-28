@@ -1,0 +1,1102 @@
+[
+	{
+		"Name": "Fury",
+		"Skill": "Resentment",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 5,
+				"Cost": 3000,
+				"Materials":
+				{
+					"Nerscylla Carapace": 6,
+					"Nerscylla Spike+": 4,
+					"Rompopolo Beak+": 3,
+					"Wyvern Gem": 1
+				}
+			}
+		]
+	},
+	{
+		"Name": "Counterattack",
+		"Skill": "Adrenaline Rush",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 5,
+				"Cost": 3000,
+				"Materials":
+				{
+					"Hirabami Webbing+": 4,
+					"Hirabami Tail Claw+": 3,
+					"Lala Barina Stinger+": 2,
+					"Wyvern Gem": 1
+				}
+			}
+		]
+	},
+	{
+		"Name": "Unscathed",
+		"Skill": "Peak Performance",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 5,
+				"Cost": 3000,
+				"Materials":
+				{
+					"Hirabami Scale+": 6,
+					"Hirabami Webbing+": 4,
+					"Vibrant Pelt+": 3,
+					"Beast Gem": 1
+				}
+			}
+		]
+	},
+	{
+		"Name": "Counter",
+		"Skill": "Counterstrike",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 5,
+				"Cost": 3000,
+				"Materials":
+				{
+					"Rathian Webbing": 3,
+					"Gypceros Head": 3,
+					"Talioth Scale+": 5,
+					"Bird Wyvern Gem": 1
+				}
+			}
+		]
+	},
+	{
+		"Name": "Exploiter",
+		"Skill": "Weakness Exploit",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 5,
+				"Cost": 3000,
+				"Materials":
+				{
+					"Rathian Carapace": 6,
+					"Rathian Spike+": 3,
+					"Chatacabra Carapace": 4,
+					"Rathian Ruby": 1
+				}
+			}
+		]
+	},
+	{
+		"Name": "Mighty",
+		"Skill": "Maximum Might",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 5,
+				"Cost": 3000,
+				"Materials":
+				{
+					"Nerscylla Claw+": 6,
+					"Nerscylla Shear": 3,
+					"Gypceros Head": 3,
+					"Bird Wyvern Gem": 1
+				}
+			}
+		]
+	},
+	{
+		"Name": "Convert",
+		"Skill": "Convert Element",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 7,
+				"Cost": 9000,
+				"Materials":
+				{
+					"Hunter Symbol III": 5,
+					"Arkveld Scale+": 4,
+					"Arkveld Horn+": 3,
+					"Arkveld Gem": 1
+				}
+			}
+		]
+	},
+	{
+		"Name": "Defense",
+		"Skill": "Defense Boost",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 2,
+				"Cost": 500,
+				"Materials":
+				{
+					"Doshaguma Claw": 4,
+					"Balahara Shell": 2,
+					"Balahara Skull": 1,
+					"Machalite Ore": 2
+				}
+			}
+		]
+	},
+	{
+		"Name": "Blessing",
+		"Skill": "Divine Blessing",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 3,
+				"Cost": 500,
+				"Materials":
+				{
+					"Chatacabra Scale": 2,
+					"Quematrice Scale": 1,
+					"Lala Barina Mucus": 1,
+					"Earth Crystal": 2
+				}
+			}
+		]
+	},
+	{
+		"Name": "Fire",
+		"Skill": "Fire Resistance",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 2,
+				"Cost": 500,
+				"Materials":
+				{
+					"Quematrice Scale": 2,
+					"Quematrice Igniter": 1,
+					"Iron Ore": 2
+				}
+			}
+		]
+	},
+	{
+		"Name": "Water",
+		"Skill": "Water Resistance",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 2,
+				"Cost": 500,
+				"Materials":
+				{
+					"Balahara Scale": 2,
+					"Balahara Skull": 1,
+					"Earth Crystal": 2
+				}
+			}
+		]
+	},
+	{
+		"Name": "Thunder",
+		"Skill": "Thunder Resistance",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 3,
+				"Cost": 500,
+				"Materials":
+				{
+					"Rompopolo Hide": 2,
+					"Spotted Poison Hide": 1,
+					"Earth Crystal": 2
+				}
+			}
+		]
+	},
+	{
+		"Name": "Ice",
+		"Skill": "Ice Resistance",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 3,
+				"Cost": 500,
+				"Materials":
+				{
+					"Congalala Pelt": 2,
+					"Congalala Fang": 1,
+					"Earth Crystal": 2
+				}
+			}
+		]
+	},
+	{
+		"Name": "Dragon",
+		"Skill": "Dragon Resistance",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 3,
+				"Cost": 500,
+				"Materials":
+				{
+					"Lala Barina Shell": 2,
+					"Lala Barina Mucus": 1,
+					"Earth Crystal": 2
+				}
+			}
+		]
+	},
+	{
+		"Name": "Poison",
+		"Skill": "Poison Resistance",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 3,
+				"Cost": 500,
+				"Materials":
+				{
+					"Rompopolo Claw": 2,
+					"Rompopolo Beak": 1,
+					"Monster Fluid": 1
+				}
+			}
+		]
+	},
+	{
+		"Name": "Paralysis",
+		"Skill": "Paralysis Resistance",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 2,
+				"Cost": 500,
+				"Materials":
+				{
+					"Lala Barina Floret": 2,
+					"Lala Barina Mucus": 1,
+					"Vespoid Shell": 1
+				}
+			}
+		]
+	},
+	{
+		"Name": "Sleep",
+		"Skill": "Sleep Resistance",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 3,
+				"Cost": 500,
+				"Materials":
+				{
+					"Congalala Claw": 2,
+					"Congalala Pelt": 1,
+					"Bulaqchi Shell": 1
+				}
+			}
+		]
+	},
+	{
+		"Name": "Guard",
+		"Skill": "Iron Skin",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 3,
+				"Cost": 500,
+				"Materials":
+				{
+					"Doshaguma Hide": 2,
+					"Doshaguma Fang": 1,
+					"Piragill Fin": 1,
+					"Iron Ore": 2
+				}
+			}
+		]
+	},
+	{
+		"Name": "Blight",
+		"Skill": "Blight Resistance",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 6,
+				"Cost": 6000,
+				"Materials":
+				{
+					"Blangonga Pelt+": 4,
+					"Guardian Fulgur Pelt+": 4,
+					"Balahara Scale+": 2,
+					"Hirabami Scale+": 2
+				}
+			}
+		]
+	},
+	{
+		"Name": "Stun",
+		"Skill": "Stun Resistance",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 3,
+				"Cost": 500,
+				"Materials":
+				{
+					"Balahara Skull": 2,
+					"Balahara Shell": 1,
+					"Talioth Scale": 1
+				}
+			},
+			{
+				"Level": 2,
+				"Rarity": 4,
+				"Cost": 1500,
+				"Materials":
+				{
+					"Ajarakan Ridge": 2,
+					"Ajarakan Shell": 2,
+					"Kranodath Skull": 2,
+					"Sturdy Bone": 2
+				}
+			},
+			{
+				"Level": 3,
+				"Rarity": 5,
+				"Cost": 3000,
+				"Materials":
+				{
+					"Balahara Skull+": 4,
+					"Balahara Carapace": 3,
+					"Kranodath Skull+": 3,
+					"Dragonbone Relic": 4
+				}
+			}
+		]
+	},
+	{
+		"Name": "Bleed",
+		"Skill": "Bleeding Resistance",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 3,
+				"Cost": 500,
+				"Materials":
+				{
+					"Guardian Ebony Sinew": 2,
+					"Guardian Ebony Scale": 1,
+					"Talioth Scale": 1,
+					"Iron Ore": 2
+				}
+			}
+		]
+	},
+	{
+		"Name": "Escape",
+		"Skill": "Bind Resistance",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 4,
+				"Cost": 1500,
+				"Materials":
+				{
+					"Nerscylla Shell": 2,
+					"Nerscylla Claw": 1,
+					"Vespoid Shell": 1,
+					"Earth Crystal": 2
+				}
+			}
+		]
+	},
+	{
+		"Name": "Blast",
+		"Skill": "Blast Resistance",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 3,
+				"Cost": 500,
+				"Materials":
+				{
+					"Quematrice Hide": 2,
+					"Quematrice Igniter": 1,
+					"Wingdrake Hide": 1
+				}
+			}
+		]
+	},
+	{
+		"Name": "Recovery",
+		"Skill": "Recovery Up",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 3,
+				"Cost": 500,
+				"Materials":
+				{
+					"Lala Barina Floret": 2,
+					"Lala Barina Mucus": 1,
+					"Congalala Pelt": 1,
+					"Sturdy Bone": 2
+				}
+			}
+		]
+	},
+	{
+		"Name": "Speed Heal",
+		"Skill": "Recovery Speed",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 2,
+				"Cost": 500,
+				"Materials":
+				{
+					"Doshaguma Hide": 2,
+					"Doshaguma Fang": 1,
+					"Chatacabra Hide": 1,
+					"Brute Bone": 1
+				}
+			}
+		]
+	},
+	{
+		"Name": "Survival",
+		"Skill": "Survival Expert",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 3,
+				"Cost": 500,
+				"Materials":
+				{
+					"Lala Barina Floret": 2,
+					"Lala Barina Shell": 1,
+					"Vespoid Shell": 1
+				}
+			}
+		]
+	},
+	{
+		"Name": "Fitness",
+		"Skill": "Constitution",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 4,
+				"Cost": 1500,
+				"Materials":
+				{
+					"Ajarakan Scale": 2,
+					"Ajarakan Jewel": 1,
+					"Ajarakan Ridge": 1,
+					"Kranodath Skull": 1
+				}
+			}
+		]
+	},
+	{
+		"Name": "Surge",
+		"Skill": "Stamina Surge",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 4,
+				"Cost": 1500,
+				"Materials":
+				{
+					"Xu Wu Hide": 2,
+					"Xu Wu Claw": 1,
+					"Nu Udra Hide": 1,
+					"Xu Wu Cerebrospinal Fluid": 1
+				}
+			}
+		]
+	},
+	{
+		"Name": "Marathon",
+		"Skill": "Marathon Runner",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 4,
+				"Cost": 1500,
+				"Materials":
+				{
+					"Guardian Doshaguma Fur": 2,
+					"Guardian Doshaguma Claw": 1,
+					"Guardian Doshaguma Fang": 1,
+					"Guardian Seikret Feather": 1
+				}
+			}
+		]
+	},
+	{
+		"Name": "Hungerless",
+		"Skill": "Hunger Resistance",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": 2,
+				"Cost": 500,
+				"Materials":
+				{
+					"Balahara Scale": 9,
+					"Balahara Tail": 1,
+					"Sharp Fang": 1
+				}
+			}
+		]
+	},
+	{
+		"Name": "Challenger",
+		"Skill": "Agitator",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Power",
+		"Skill": "Latent Power",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Grit",
+		"Skill": "Heroics",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Foray",
+		"Skill": "Foray",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Chain",
+		"Skill": "Burst",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Chainblade",
+		"Skill": "Flayer",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Breaker",
+		"Skill": "Partbreaker",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Phoenix",
+		"Skill": "Coalescence",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Descent",
+		"Skill": "Ambush",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Sanity",
+		"Skill": "Antivirus",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Imbibe",
+		"Skill": "Elemental Absorption",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Evasion",
+		"Skill": "Evade Window",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Leaping",
+		"Skill": "Evade Extender",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Earplugs",
+		"Skill": "Earplugs",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Sheathe",
+		"Skill": "Quick Sheathe",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Windproof",
+		"Skill": "Windproof",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Tremor",
+		"Skill": "Tremor Resistance",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Impact",
+		"Skill": "Flinch Free",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Intimidator",
+		"Skill": "Intimidator",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Glutton's",
+		"Skill": "Speed Eating",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Friendship Charm",
+		"Skill": "Wide-Range",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Maintenance",
+		"Skill": "Tool Specialist",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Bombardier",
+		"Skill": "Bombardier",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Mushroom",
+		"Skill": "Mushroomancer",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Extension",
+		"Skill": "Item Prolonger",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Light Eater's",
+		"Skill": "Free Meal",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Botany",
+		"Skill": "Botanist",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Geology",
+		"Skill": "Geologist",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "",
+		"Skill": "",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "",
+		"Skill": "",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "",
+		"Skill": "",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	},
+	{
+		"Name": "Hope",
+		"Skills": ["Recovery Up", "Self-Improvement"],
+		"Rarity": 5,
+		"Levels": null
+	},
+	{
+		"Name": "",
+		"Skill": "",
+		"Levels":
+		[
+			{
+				"Level": 1,
+				"Rarity": ,
+				"Cost": ,
+				"Materials":
+				{
+					"":
+				}
+			}
+		]
+	}
+]

@@ -1,0 +1,3393 @@
+[
+  {
+    "Name": "Potion",
+    "Icon": "Medicine",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Mega Potion",
+    "Icon": "Medicine Great",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Antidote",
+    "Icon": "Vial",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Max Potion",
+    "Icon": "Pill",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Ancient Potion",
+    "Icon": "Pill Great",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Nulberry",
+    "Icon": "Seed",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Ration",
+    "Icon": "Meat",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Well-done Steak",
+    "Icon": "Meat",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Rare Steak",
+    "Icon": "Meat",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "Burnt Meat",
+    "Icon": "Meat",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Lifepowder",
+    "Icon": "Sac",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "Raw Meat",
+    "Icon": "Meat",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Barrel Bomb",
+    "Icon": "Bomb",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Large Barrel Bomb",
+    "Icon": "Bomb",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Flash Pod",
+    "Icon": "Slinger",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Stone",
+    "Icon": "Slinger",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Capture Net",
+    "Icon": "Net",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Pitfall Trap",
+    "Icon": "Trap",
+    "Icon Color": "Moss"
+  },
+  {
+    "Name": "Shock Trap",
+    "Icon": "Trap",
+    "Icon Color": "Lemon"
+  },
+  {
+    "Name": "Whetstone",
+    "Icon": "Whetstone",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Binoculars",
+    "Icon": "Binoculars",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Camping Kit",
+    "Icon": "Tent",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Portable BBQ Grill",
+    "Icon": "Spit",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Herb",
+    "Icon": "Herb",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Antidote Herb",
+    "Icon": "Herb",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Honey",
+    "Icon": "Webbing",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Bitterbug Broth",
+    "Icon": "Chemical",
+    "Icon Color": "Blue" 
+  },
+  {
+    "Name": "Flashbug Phosphor",
+    "Icon": "Chemical",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Godbug Essence",
+    "Icon": "Chemical",
+    "Icon Color": "White" 
+  },
+  {
+    "Name": "Thunderbug Capacitor",
+    "Icon": "Chemical",
+    "Icon Color": "Lemon"
+  },
+  {
+    "Name": "Doshaguma Hide",
+    "Icon": "Hide",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Doshaguma Fur",
+    "Icon": "Hide",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Doshaguma Claw",
+    "Icon": "Claw",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Doshaguma Fang",
+    "Icon": "Claw",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Beast Gem",
+    "Icon": "Ball",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Normal Ammo",
+    "Icon": "Ammo",
+    "Icon Color": "White" 
+  },
+  {
+    "Name": "Pierce Ammo",
+    "Icon": "Ammo Pierce",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Spread Ammo",
+    "Icon": "Ammo Spread",
+    "Icon Color": "Moss"
+  },
+  {
+    "Name": "Sticky Ammo",
+    "Icon": "Ammo Sticky",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Cluster Bomb",
+    "Icon": "Ammo Cluster",
+    "Icon Color": "Rose"
+  },
+  {
+    "Name": "Flaming Ammo",
+    "Icon": "Ammo Pierce",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Water Ammo",
+    "Icon": "Ammo Pierce",
+    "Icon Color": "Dark Blue"
+  },
+  {
+    "Name": "Thunder Ammo",
+    "Icon": "Ammo Pierce",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Freeze Ammo",
+    "Icon": "Ammo Pierce",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Dragon Ammo",
+    "Icon": "Ammo Pierce",
+    "Icon Color": "Rose"
+  },
+  {
+    "Name": "Poison Ammo",
+    "Icon": "Ammo",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Paralysis Ammo",
+    "Icon": "Ammo",
+    "Icon Color": "Lemon"
+  },
+  {
+    "Name": "Sleep Ammo",
+    "Icon": "Ammo",
+    "Icon Color": "Light Blue"
+  },
+  {
+    "Name": "Slicing Ammo",
+    "Icon": "Ammo Sticky",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Thorngrass Pod",
+    "Icon": "Slinger",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Iron Ore",
+    "Icon": "Ore",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Machalite Ore",
+    "Icon": "Ore",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Dragonite Ore",
+    "Icon": "Ore",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Carbalite Ore",
+    "Icon": "Ore",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Earth Crystal",
+    "Icon": "Ore",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Mystery Bone",
+    "Icon": "Bone",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Sturdy Bone",
+    "Icon": "Bone",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Brute Bone",
+    "Icon": "Bone",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Colossal Bone",
+    "Icon": "Bone",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Dragonbone Relic",
+    "Icon": "Bone",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "Mandragora",
+    "Icon": "Mushroom",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Blue Mushroom",
+    "Icon": "Mushroom",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Burst Pod",
+    "Icon": "Slinger",
+    "Icon Color": "Emerald"
+  },
+  {
+    "Name": "Screamer Pod",
+    "Icon": "Slinger",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Bleeding Pod",
+    "Icon": "Slinger",
+    "Icon Color": "Moss"
+  },
+  {
+    "Name": "Dung Pod",
+    "Icon": "Slinger",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Trap Tool",
+    "Icon": "Box",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Exciteshroom",
+    "Icon": "Mushroom",
+    "Icon Color": "Moss"
+  },
+  {
+    "Name": "Smokenut",
+    "Icon": "Seed",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Ivy",
+    "Icon": "Herb",
+    "Icon Color": "Moss"
+  },
+  {
+    "Name": "Farcaster",
+    "Icon": "Smoke Bomb",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Balahara Shell",
+    "Icon": "Shell",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Balahara Scale",
+    "Icon": "Scale",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Balahara Skull",
+    "Icon": "Head",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Balahara Tail",
+    "Icon": "Tail",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Chatacabra Jaw",
+    "Icon": "Head",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Chatacabra Hide",
+    "Icon": "Hide",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Chatacabra Shell",
+    "Icon": "Shell",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Chatacabra Scale",
+    "Icon": "Scale",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Quematrice Scale",
+    "Icon": "Scale",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Quematrice Hide",
+    "Icon": "Hide",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Quematrice Crest",
+    "Icon": "Head",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Quematrice Tail",
+    "Icon": "Tail",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Wyvern Gem",
+    "Icon": "Ball",
+    "Icon Color": "Light Blue"
+  },
+  {
+    "Name": "Herbivore Shell",
+    "Icon": "Shell",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Bulaqchi Shell",
+    "Icon": "Bug",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Talioth Scale",
+    "Icon": "Scale",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Sharp Fang",
+    "Icon": "Claw",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Wingdrake Hide",
+    "Icon": "Hide",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "Acute Fang",
+    "Icon": "Claw",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Dung",
+    "Icon": "Dung",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Rolled-up Dung",
+    "Icon": "Dung",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Rathian Scale+",
+    "Icon": "Scale",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Rathian Carapace",
+    "Icon": "Shell",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Rathian Webbing",
+    "Icon": "Wing",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Rathian Spike+",
+    "Icon": "Monster Part",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Rathian Ruby",
+    "Icon": "Ball",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Toadstool",
+    "Icon": "Mushroom",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Parashroom",
+    "Icon": "Mushroom",
+    "Icon Color": "Lemon"
+  },
+  {
+    "Name": "Sleep Herb",
+    "Icon": "Herb",
+    "Icon Color": "Light Blue"
+  },
+  {
+    "Name": "Fire Herb",
+    "Icon": "Herb",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Flowfern",
+    "Icon": "Herb",
+    "Icon Color": "Dark Blue"
+  },
+  {
+    "Name": "Snow Herb",
+    "Icon": "Herb",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Dragonfell Berry",
+    "Icon": "Seed",
+    "Icon Color": "Rose"
+  },
+  {
+    "Name": "First-aid Med",
+    "Icon": "Medicine",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "EZ Ration",
+    "Icon": "Meat",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "EZ Flash Bomb",
+    "Icon": "Slinger",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "EZ Shock Trap",
+    "Icon": "Trap",
+    "Icon Color": "Lemon"
+  },
+  {
+    "Name": "EZ Pitfall Trap",
+    "Icon": "Trap",
+    "Icon Color": "Moss"
+  },
+  {
+    "Name": "Gloamgrass Bud",
+    "Icon": "Herb",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "Might Seed",
+    "Icon": "Seed",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Adamant Seed",
+    "Icon": "Seed",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Nitroshroom",
+    "Icon": "Mushroom",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Devil's Blight",
+    "Icon": "Mushroom",
+    "Icon Color": "Rose"
+  },
+  {
+    "Name": "Blastnut",
+    "Icon": "Husk",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Slashberry",
+    "Icon": "Husk",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Rey Dau Scale",
+    "Icon": "Scale",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Rey Dau Shell",
+    "Icon": "Shell",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Rey Dau Thunderhorn",
+    "Icon": "Claw",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Rey Dau Wingtalon",
+    "Icon": "Claw",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Rey Dau Tail",
+    "Icon": "Tail",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Rey Dau Plate",
+    "Icon": "Plate",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Tranq Blade",
+    "Icon": "Knife",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Smoke Bomb",
+    "Icon": "Smoke Bomb",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Powercharm",
+    "Icon": "Sac",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Armorcharm",
+    "Icon": "Sac",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Wyvern Ammo",
+    "Icon": "Ammo Cluster",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Grounding Pod",
+    "Icon": "Slinger",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Mystery Orb - Armor",
+    "Icon": "Decoration",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Glowing Orb - Armor",
+    "Icon": "Decoration",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Ancient Orb - Armor",
+    "Icon": "Decoration",
+    "Icon Color": "Light Blue"
+  },
+  {
+    "Name": "Damaged Weapon Shard",
+    "Icon": "INVALID",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Rusted Weapon Shard",
+    "Icon": "INVALID",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Ghillie Mantle",
+    "Icon": "Cape",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Fishing Rod",
+    "Icon": "Bait",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Energy Drink",
+    "Icon": "Vial",
+    "Icon Color": "Lemon"
+  },
+  {
+    "Name": "Dash Juice",
+    "Icon": "Drug",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Immunizer",
+    "Icon": "Drug",
+    "Icon Color": "Tan" 
+  },
+  {
+    "Name": "Cool Drink",
+    "Icon": "Vial",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Hot Drink",
+    "Icon": "Vial",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Demondrug",
+    "Icon": "Drug",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Might Pill",
+    "Icon": "Pill",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Mega Demondrug",
+    "Icon": "Drug Great",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Armorskin",
+    "Icon": "Drug",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Adamant Pill",
+    "Icon": "Pill",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Mega Armorskin",
+    "Icon": "Drug Great",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Herbal Medicine",
+    "Icon": "Pill",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Herbal Powder",
+    "Icon": "Sac",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Demon Powder",
+    "Icon": "Sac",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Hardshell Powder",
+    "Icon": "Sac",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Dust of Life",
+    "Icon": "Sac Great",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "Cleanser",
+    "Icon": "Vial",
+    "Icon Color": "Light Blue"
+  },
+  {
+    "Name": "Poison Smoke Bomb",
+    "Icon": "Smoke Bomb",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Tranq Bomb",
+    "Icon": "Smoke Bomb",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Throwing Knife",
+    "Icon": "Knife",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Poison Pod",
+    "Icon": "Slinger",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Para Pod",
+    "Icon": "Slinger",
+    "Icon Color": "Lemon"
+  },
+  {
+    "Name": "Drugged Meat",
+    "Icon": "Meat",
+    "Icon Color": "Light Blue"
+  },
+  {
+    "Name": "Brightmoss",
+    "Icon": "Slinger",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Torch Pod",
+    "Icon": "Slinger",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Puddle Pod",
+    "Icon": "Slinger",
+    "Icon Color": "Dark Blue"
+  },
+  {
+    "Name": "Bomb Pod",
+    "Icon": "Slinger",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Piercing Pod",
+    "Icon": "Slinger",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Paint Pod",
+    "Icon": "Slinger",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Luring Pod",
+    "Icon": "Slinger",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Mega Barrel Bomb",
+    "Icon": "Bomb Great",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "First-aid Med+",
+    "Icon": "Medicine Great",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "EZ Max Potion",
+    "Icon": "Pill",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "EZ Lifepowder",
+    "Icon": "Sac",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "EZ Herbal Powder",
+    "Icon": "Sac",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "EZ Demon Powder",
+    "Icon": "Sac",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "EZ Hardshell Powder",
+    "Icon": "Sac",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "EZ Dust of Life",
+    "Icon": "Sac Great",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "EZ Tranq Bomb",
+    "Icon": "Smoke Bomb",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "EZ Dung Pod",
+    "Icon": "Slinger",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "EZ Sonic Bomb",
+    "Icon": "Slinger",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Tinged Meat",
+    "Icon": "Meat",
+    "Icon Color": "Lemon"
+  },
+  {
+    "Name": "EZ Large Barrel Bomb",
+    "Icon": "Bomb Great",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "EZ Farcaster",
+    "Icon": "Smoke Bomb",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Poisoned Meat",
+    "Icon": "Meat",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Deodorant",
+    "Icon": "Smoke Bomb",
+    "Icon Color": "Light Blue"
+  },
+  {
+    "Name": "Kunafa Cheese",
+    "Icon": "Ingredient Cheese Ingredients",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "Sharp Kunafa Cheese",
+    "Icon": "Ingredient Cheese Ingredients",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "Droolshroom",
+    "Icon": "Ingredient Mushroom Ingredients",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Delishroom",
+    "Icon": "Ingredient Mushroom Ingredients",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Mud Shrimp",
+    "Icon": "Ingredient Shrimp Ingredients",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Turbid Shrimp",
+    "Icon": "Ingredient Shrimp Ingredients",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Fluffy Egg",
+    "Icon": "Ingredient Egg Ingredients",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "Airy Egg",
+    "Icon": "Ingredient Egg Ingredients",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "Sild Garlic",
+    "Icon": "Ingredient Garlic Ingredients",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "Specialty Sild Garlic",
+    "Icon": "Ingredient Garlic Ingredients",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "Wild Herb",
+    "Icon": "Herb Ingredients",
+    "Icon Color": "Moss"
+  },
+  {
+    "Name": "Eastern Honey",
+    "Icon": "Webbing Ingredients",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Monster Chili",
+    "Icon": "Seed Ingredients",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Jeweled Mullet Roe",
+    "Icon": "Fish Ingredients",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Wild Seed Oil",
+    "Icon": "Chemical Ingredients",
+    "Icon Color": "Light Green"
+  },
+  {
+    "Name": "Truffle Du Conga",
+    "Icon": "Mushroom Ingredients",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Sinister Cloth",
+    "Icon": "Question Mark",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Great Hornfly",
+    "Icon": "Bug",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Windward Aloe",
+    "Category": "Field Points",
+    "Icon": "Herb",
+    "Icon Color": "Light Green"
+  },
+  {
+    "Name": "Fine Windward Aloe",
+    "Category": "Field Points",
+    "Icon": "Herb",
+    "Icon Color": "Light Green"
+  },
+  {
+    "Name": "Great Windward Aloe",
+    "Category": "Field Points",
+    "Icon": "Herb",
+    "Icon Color": "Moss"
+  },
+  {
+    "Name": "Sandpepper",
+    "Category": "Field Points",
+    "Icon": "Seed",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Fiery Sandpepper",
+    "Category": "Field Points",
+    "Icon": "Seed",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Fulgurite Shard",
+    "Category": "Field Points",
+    "Icon": "Ore",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Pure Fulgurite",
+    "Category": "Field Points",
+    "Icon": "Ore",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Thundering Fulgurite",
+    "Category": "Field Points",
+    "Icon": "Ore",
+    "Icon Color": "Dark Blue"
+  },
+  {
+    "Name": "Scarlet Amber Shard",
+    "Category": "Field Points",
+    "Icon": "Ore",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Fine Scarlet Amber",
+    "Category": "Field Points",
+    "Icon": "Ore",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Eternal Scarlet Amber",
+    "Category": "Field Points",
+    "Icon": "Ore",
+    "Icon Color": "Rose"
+  },
+  {
+    "Name": "Queensbloom Pollen",
+    "Category": "Field Points",
+    "Icon": "Sac",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Shiny Treasure",
+    "Category": "Field Points",
+    "Icon": "Question Mark",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Sparkly Treasure",
+    "Category": "Field Points",
+    "Icon": "Question Mark",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Bulky Treasure",
+    "Category": "Field Points",
+    "Icon": "Question Mark",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "Auric Oil",
+    "Category": "Field Points",
+    "Icon": "Chemical",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Antimite",
+    "Category": "Field Points",
+    "Icon": "Ore",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Fine Antimite",
+    "Category": "Field Points",
+    "Icon": "Ore",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Antimite Mass",
+    "Category": "Field Points",
+    "Icon": "Ore",
+    "Icon Color": "Dpurple"
+  },
+  {
+    "Name": "Hirabami Molting",
+    "Category": "Field Points",
+    "Icon": "Monster Part",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Wyvernscale Vase",
+    "Category": "Field Points",
+    "Icon": "Question Mark",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Dragonscale Vase",
+    "Category": "Field Points",
+    "Icon": "Question Mark",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Large Goldenscale Vase",
+    "Category": "Field Points",
+    "Icon": "Question Mark",
+    "Icon Color": "Lemon"
+  },
+  {
+    "Name": "Wyveria Lantern",
+    "Category": "Field Points",
+    "Icon": "Seed",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Mature Wyveria Lantern",
+    "Category": "Field Points",
+    "Icon": "Seed",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Origin Wylk Gem",
+    "Category": "Field Points",
+    "Icon": "Ball",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Milky Cocoon Web",
+    "Category": "Field Points",
+    "Icon": "Spiderweb",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Wylk Pebble",
+    "Category": "Field Points",
+    "Icon": "Ore",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Wylk Gem",
+    "Category": "Field Points",
+    "Icon": "Ore",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Time-honed Wylk Gem",
+    "Category": "Field Points",
+    "Icon": "Ore",
+    "Icon Color": "Light Blue"
+  },
+  {
+    "Name": "Ancient Fossil",
+    "Category": "Field Points",
+    "Icon": "Bone",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Drifting Sea Pot",
+    "Category": "Field Points",
+    "Icon": "Shell",
+    "Icon Color": "Emerald"
+  },
+  {
+    "Name": "Royal Sea Pot",
+    "Category": "Field Points",
+    "Icon": "Shell",
+    "Icon Color": "Emerald"
+  },
+  {
+    "Name": "Gobletweed",
+    "Category": "Field Points",
+    "Icon": "Herb",
+    "Icon Color": "Light Green"
+  },
+  {
+    "Name": "Chaliceweed",
+    "Category": "Field Points",
+    "Icon": "Herb",
+    "Icon Color": "Light Green"
+  },
+  {
+    "Name": "Nightflower Pollen",
+    "Category": "Field Points",
+    "Icon": "Sac",
+    "Icon Color": "Violet"
+  },
+  {
+    "Name": "Fossilized Opal",
+    "Category": "Field Points",
+    "Icon": "Bone",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Fossilized Fire Opal",
+    "Category": "Field Points",
+    "Icon": "Bone",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Genesis Opal",
+    "Category": "Field Points",
+    "Icon": "Bone",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Wyvernsprout",
+    "Category": "Field Points",
+    "Icon": "Corpse",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Whetfish Fin",
+    "Icon": "Scale",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Sushifish Scale",
+    "Icon": "Scale",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Lala Barina Shell",
+    "Icon": "Shell",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Lala Barina Claw",
+    "Icon": "Claw",
+    "Icon Color": "Rose"
+  },
+  {
+    "Name": "Lala Barina Stinger",
+    "Icon": "Monster Part",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Lala Barina Certificate",
+    "Icon": "Ticket",
+    "Icon Color": "Rose"
+  },
+  {
+    "Name": "Lala Barina Floret",
+    "Icon": "Hide",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Screamer Pod",
+    "Icon": "Slinger",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Krano Copper",
+    "Icon": "Ore",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Krano Pyrite",
+    "Icon": "Ore",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Thunder Pod",
+    "Icon": "Slinger",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Frost Pod",
+    "Icon": "Slinger",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Dragon Pod",
+    "Icon": "Slinger",
+    "Icon Color": "Rose"
+  },
+  {
+    "Name": "Fresh Honey",
+    "Icon": "Webbing",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Frostburst",
+    "Icon": "Slinger",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Dragonstrike Nut",
+    "Icon": "Husk",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Bomberry",
+    "Icon": "Husk",
+    "Icon Color": "Rose"
+  },
+  {
+    "Name": "Chatacabra Certificate",
+    "Icon": "Ticket",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Chatacabra Scale+",
+    "Icon": "Scale",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Chatacabra Jaw+",
+    "Icon": "Head",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Chatacabra Hide+",
+    "Icon": "Hide",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Chatacabra Carapace",
+    "Icon": "Shell",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Chatacabra Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Xu Wu Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Quematrice Igniter",
+    "Icon": "Chemical",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Quematrice Certificate",
+    "Icon": "Ticket",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Quematrice Scale+",
+    "Icon": "Scale",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Quematrice Hide+",
+    "Icon": "Hide",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Quematrice Igniter+",
+    "Icon": "Chemical",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Quematrice Crest+",
+    "Icon": "Head",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Quematrice Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Lala Barina Floret+",
+    "Icon": "Hide",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Lala Barina Carapace",
+    "Icon": "Shell",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Lala Barina Claw+",
+    "Icon": "Claw",
+    "Icon Color": "Rose"
+  },
+  {
+    "Name": "Lala Barina Stinger+",
+    "Icon": "Monster Part",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Lala Barina Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "Rose"
+  },
+  {
+    "Name": "Balahara Certificate",
+    "Icon": "Ticket",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Balahara Scale+",
+    "Icon": "Scale",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Balahara Carapace",
+    "Icon": "Shell",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Balahara Skull+",
+    "Icon": "Head",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Balahara Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Doshaguma Certificate",
+    "Icon": "Ticket",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Doshaguma Fur+",
+    "Icon": "Hide",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Doshaguma Hide+",
+    "Icon": "Hide",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Doshaguma Claw+",
+    "Icon": "Claw",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Doshaguma Fang+",
+    "Icon": "Claw",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Doshaguma Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Uth Duna Scale",
+    "Icon": "Scale",
+    "Icon Color": "Violet"
+  },
+  {
+    "Name": "Uth Duna Hide",
+    "Icon": "Hide",
+    "Icon Color": "Violet"
+  },
+  {
+    "Name": "Uth Duna Cilia",
+    "Icon": "Hide",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Uth Duna Tentacle",
+    "Icon": "Monster Part",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Uth Duna Claw",
+    "Icon": "Claw",
+    "Icon Color": "Violet"
+  },
+  {
+    "Name": "Uth Duna Plate",
+    "Icon": "Plate",
+    "Icon Color": "Violet"
+  },
+  {
+    "Name": "Uth Duna Certificate",
+    "Icon": "Ticket",
+    "Icon Color": "Violet"
+  },
+  {
+    "Name": "Uth Duna Scale+",
+    "Icon": "Scale",
+    "Icon Color": "Violet"
+  },
+  {
+    "Name": "Uth Duna Hide+",
+    "Icon": "Hide",
+    "Icon Color": "Violet"
+  },
+  {
+    "Name": "Uth Duna Cilia+",
+    "Icon": "Hide",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Uth Duna Tentacle+",
+    "Icon": "Monster Part",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Uth Duna Claw+",
+    "Icon": "Claw",
+    "Icon Color": "Violet"
+  },
+  {
+    "Name": "Uth Duna Watergem",
+    "Icon": "Ball",
+    "Icon Color": "Violet"
+  },
+  {
+    "Name": "Uth Duna Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "Violet"
+  },
+  {
+    "Name": "Rompopolo Hide",
+    "Icon": "Hide",
+    "Icon Color": "Dark Blue"
+  },
+  {
+    "Name": "Rompopolo Claw",
+    "Icon": "Claw",
+    "Icon Color": "Dark Blue"
+  },
+  {
+    "Name": "Spotted Poison Hide",
+    "Icon": "Hide",
+    "Icon Color": "Dark Blue"
+  },
+  {
+    "Name": "Rompopolo Beak",
+    "Icon": "Head",
+    "Icon Color": "Dark Blue"
+  },
+  {
+    "Name": "Rompopolo Certificate",
+    "Icon": "Ticket",
+    "Icon Color": "Dark Blue"
+  },
+  {
+    "Name": "Rompopolo Hide+",
+    "Icon": "Hide",
+    "Icon Color": "Dark Blue"
+  },
+  {
+    "Name": "Rompopolo Claw+",
+    "Icon": "Claw",
+    "Icon Color": "Dark Blue"
+  },
+  {
+    "Name": "Spotted Poison Hide+",
+    "Icon": "Hide",
+    "Icon Color": "Dark Blue"
+  },
+  {
+    "Name": "Rompopolo Beak+",
+    "Icon": "Head",
+    "Icon Color": "Dark Blue"
+  },
+  {
+    "Name": "Rompopolo Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "Dark Blue"
+  },
+  {
+    "Name": "Rey Dau Certificate",
+    "Icon": "Ticket",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Rey Dau Scale+",
+    "Icon": "Scale",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Rey Dau Carapace",
+    "Icon": "Shell",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Rey Dau Bolthorn",
+    "Icon": "Claw",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Rey Dau Fulgurtalon",
+    "Icon": "Claw",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Rey Dau Boltgem",
+    "Icon": "Ball",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Rey Dau Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Hirabami Scale",
+    "Icon": "Scale",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Hirabami Hide",
+    "Icon": "Hide",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Hirabami Webbing",
+    "Icon": "Webbing",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Hirabami Tail Claw",
+    "Icon": "Claw",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Hirabami Certificate",
+    "Icon": "Ticket",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Hirabami Scale+",
+    "Icon": "Scale",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Hirabami Hide+",
+    "Icon": "Hide",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Hirabami Webbing+",
+    "Icon": "Webbing",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Hirabami Tail Claw+",
+    "Icon": "Claw",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Hirabami Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Ajarakan Scale",
+    "Icon": "Scale",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Ajarakan Shell",
+    "Icon": "Shell",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Ajarakan Ridge",
+    "Icon": "Monster Part",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Ajarakan Tail",
+    "Icon": "Tail",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Ajarakan Jewel",
+    "Icon": "Ore",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Ajarakan Marrow",
+    "Icon": "Monster Part",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Ajarakan Certificate",
+    "Icon": "Ticket",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Ajarakan Scale+",
+    "Icon": "Scale",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Ajarakan Carapace",
+    "Icon": "Shell",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Ajarakan Ridge+",
+    "Icon": "Monster Part",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Ajarakan Jewel+",
+    "Icon": "Ore",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Ajarakan Medulla",
+    "Icon": "Monster Part",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Ajarakan Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Nu Udra Hide",
+    "Icon": "Hide",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Nu Udra Spike",
+    "Icon": "Claw",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Nu Udra Horn",
+    "Icon": "Claw",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Nu Udra Tentacle",
+    "Icon": "Monster Part",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Nu Udra Oilmucus",
+    "Icon": "Chemical",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Nu Udra Cerebrospinal Fluid",
+    "Icon": "Chemical",
+    "Icon Color": "Light Blue"
+  },
+  {
+    "Name": "Nu Udra Certificate",
+    "Icon": "Ticket",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Nu Udra Hide+",
+    "Icon": "Hide",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Nu Udra Spike+",
+    "Icon": "Claw",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Nu Udra Horn+",
+    "Icon": "Claw",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Nu Udra Tentacle+",
+    "Icon": "Monster Part",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Nu Udra Oilmucus+",
+    "Icon": "Chemical",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Nu Udra Flamegem",
+    "Icon": "Ball",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Nu Udra Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Guardian Doshaguma Fur",
+    "Icon": "Hide",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Doshaguma Hide",
+    "Icon": "Hide",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Doshaguma Claw",
+    "Icon": "Claw",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Doshaguma Fang",
+    "Icon": "Claw",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "G. Doshaguma Certificate",
+    "Icon": "Ticket",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Doshaguma Fur+",
+    "Icon": "Hide",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Doshaguma Hide+",
+    "Icon": "Hide",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Doshaguma Claw+",
+    "Icon": "Claw",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Doshaguma Fang+",
+    "Icon": "Claw",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "G. Doshaguma Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Rathalos Scale",
+    "Icon": "Scale",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Rathalos Shell",
+    "Icon": "Shell",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Rathalos Webbing",
+    "Icon": "Wing",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Rathalos Tail",
+    "Icon": "Tail",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "G. Rathalos Certificate",
+    "Icon": "Ticket",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Rathalos Scale+",
+    "Icon": "Scale",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Rathalos Carapace",
+    "Icon": "Shell",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Rathalos Wing",
+    "Icon": "Wing",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Equipped Mantles",
+    "Icon": "Cape",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "G. Rathalos Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Rath Medulla",
+    "Icon": "Monster Part",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Demon Ammo",
+    "Icon": "Ammo Sticky",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Armor Ammo",
+    "Icon": "Ammo Sticky",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Recover Ammo",
+    "Icon": "Ammo Sticky",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Tranq Ammo",
+    "Icon": "Ammo",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Exhaust Ammo",
+    "Icon": "Ammo",
+    "Icon Color": "Emerald"
+  },
+  {
+    "Name": "Frenzy Shard",
+    "Icon": "Crystal",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Jin Dahaad Scale+",
+    "Icon": "Scale",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Jin Dahaad Carapace",
+    "Icon": "Shell",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Jin Dahaad Iceplate",
+    "Icon": "Shell",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Jin Dahaad Claw+",
+    "Icon": "Claw",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Jin Dahaad Horn",
+    "Icon": "Claw",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Jin Dahaad Icegem",
+    "Icon": "Ball",
+    "Icon Color": "Light Blue"
+  },
+  {
+    "Name": "Jin Dahaad Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Guardian Ebony Scale",
+    "Icon": "Scale",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Ebony Sinew",
+    "Icon": "Monster Part",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Ebony Claw",
+    "Icon": "Claw",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Ebony Fang",
+    "Icon": "Claw",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Ebony Tail",
+    "Icon": "Tail",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Ebony Plate",
+    "Icon": "Plate",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "G. Ebony Odogaron Certificate",
+    "Icon": "Ticket",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Ebony Scale+",
+    "Icon": "Scale",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Ebony Sinew+",
+    "Icon": "Monster Part",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Ebony Claw+",
+    "Icon": "Claw",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Ebony Fang+",
+    "Icon": "Claw",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Ebony Gem",
+    "Icon": "Ball",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "G. Ebony Odogaron Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Nourishing Extract",
+    "Icon": "Chemical",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Xu Wu Hide",
+    "Icon": "Hide",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Golden Corneum",
+    "Icon": "Ore",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Xu Wu Tentacle",
+    "Icon": "Monster Part",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Xu Wu Claw",
+    "Icon": "Claw",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Xu Wu Fang",
+    "Icon": "Claw",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Xu Wu Cerebrospinal Fluid",
+    "Icon": "Chemical",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Xu Wu Certificate",
+    "Icon": "Ticket",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Xu Wu Hide+",
+    "Icon": "Hide",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Golden Corneum+",
+    "Icon": "Ore",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Xu Wu Tentacle+",
+    "Icon": "Monster Part",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Xu Wu Claw+",
+    "Icon": "Claw",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Xu Wu Fang+",
+    "Icon": "Claw",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Xu Wu Umbragem",
+    "Icon": "Ball",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Guardian Scale",
+    "Icon": "Scale",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Scale+",
+    "Icon": "Scale",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Arkveld Tail",
+    "Icon": "Tail",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Large Dung Pod",
+    "Icon": "Slinger Great",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "EZ Large Dung Pod",
+    "Icon": "Slinger Great",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Arkveld Scale+",
+    "Icon": "Scale",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Arkveld Armorplate",
+    "Icon": "Shell",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "White Arkveld Pelt",
+    "Icon": "Hide",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Arkveld Calloushell",
+    "Icon": "Wing",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Arkveld Horn+",
+    "Icon": "Claw",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Arkveld Gem",
+    "Icon": "Ball",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Arkveld Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Heavy Blunt Pod",
+    "Icon": "Slinger Great",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "Heavy Slicing Pod",
+    "Icon": "Slinger Great",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Heavy Explosion Pod",
+    "Icon": "Slinger Great",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Basic Material",
+    "Icon": "Pouch",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Valuable Material",
+    "Icon": "Pouch Great",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Drearisite Scraps",
+    "Icon": "Ore",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Scarred Scale",
+    "Icon": "Scale",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "Ancient Wyvern Coin",
+    "Category": "Field Points",
+    "Icon": "Coin",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Heavy Piercing Pod",
+    "Icon": "Slinger Great",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Chillshroom",
+    "Icon": "Mushroom",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Hot Pepper",
+    "Icon": "Herb",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Ancient Weapon Fragment",
+    "Icon": "INVALID",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Nerscylla Shear",
+    "Icon": "Claw",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Fulgur Scale+",
+    "Icon": "Scale",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Fulgur Pelt+",
+    "Icon": "Hide",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Fulgur Fang+",
+    "Icon": "Claw",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Fulgur Nosebone+",
+    "Icon": "Bone",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Fulgur Tail",
+    "Icon": "Tail",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Fulgur Gem",
+    "Icon": "Ball",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Herbivore Carapace",
+    "Icon": "Shell",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Bulaqchi Carapace",
+    "Icon": "Bug",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Monster Fluid",
+    "Icon": "Chemical",
+    "Icon Color": "Light Blue"
+  },
+  {
+    "Name": "Monster Broth",
+    "Icon": "Chemical",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Talioth Scale+",
+    "Icon": "Scale",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Wingdrake Hide+",
+    "Icon": "Hide",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "Piragill Fin",
+    "Icon": "Monster Part",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Piragill Fin+",
+    "Icon": "Monster Part",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Kranodath Skull",
+    "Icon": "Head",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Kranodath Skull+",
+    "Icon": "Head",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Comaqchi Shell",
+    "Icon": "Bug",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Comaqchi Carapace",
+    "Icon": "Bug",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Guardian Seikret Feather",
+    "Icon": "Hide",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Guardian Seikret Feather+",
+    "Icon": "Hide",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Congalala Pelt",
+    "Icon": "Hide",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Congalala Claw",
+    "Icon": "Claw",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Congalala Fang",
+    "Icon": "Claw",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Vibrant Pelt",
+    "Icon": "Hide",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Congalala Certificate",
+    "Icon": "Ticket",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Congalala Pelt+",
+    "Icon": "Hide",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Congalala Claw+",
+    "Icon": "Claw",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Congalala Fang+",
+    "Icon": "Claw",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Vibrant Pelt+",
+    "Icon": "Hide",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Nerscylla Shell",
+    "Icon": "Shell",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Nerscylla Chelicera",
+    "Icon": "Claw",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Nerscylla Claw",
+    "Icon": "Claw",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Nerscylla Spike",
+    "Icon": "Monster Part",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Nerscylla Certificate",
+    "Icon": "Ticket",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Nerscylla Carapace",
+    "Icon": "Shell",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Nerscylla Claw+",
+    "Icon": "Claw",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Nerscylla Spike+",
+    "Icon": "Monster Part",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Nerscylla Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Kut-Ku Scale+",
+    "Icon": "Scale",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Kut-Ku Carapace",
+    "Icon": "Shell",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Kut-Ku Ear",
+    "Icon": "Monster Part",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Giant Beak",
+    "Icon": "Head",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Kut-Ku Wing",
+    "Icon": "Wing",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Yian Kut-Ku Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Rubbery Hide",
+    "Icon": "Hide",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Rubbery Hide+",
+    "Icon": "Hide",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Gypceros Wing",
+    "Icon": "Wing",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Gypceros Head",
+    "Icon": "Head",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Gypceros Tail",
+    "Icon": "Tail",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Gypceros Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Bird Wyvern Gem",
+    "Icon": "Ball",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Dash Extract",
+    "Icon": "Chemical",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Rathian Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Blangonga Pelt+",
+    "Icon": "Hide",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Blangonga Fang+",
+    "Icon": "Claw",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Blangonga Whisker",
+    "Icon": "Monster Part",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Blangonga Tail",
+    "Icon": "Tail",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Blangonga Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Gravios Carapace",
+    "Icon": "Shell",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Gravios Skull",
+    "Icon": "Head",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Gravios Pleura+",
+    "Icon": "Shell",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Gravios Medulla",
+    "Icon": "Monster Part",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Gravios Wing",
+    "Icon": "Wing",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Gravios Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Rathalos Scale+",
+    "Icon": "Scale",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Rathalos Carapace",
+    "Icon": "Shell",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Rathalos Wing",
+    "Icon": "Wing",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Rathalos Tail",
+    "Icon": "Tail",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Rathalos Ruby",
+    "Icon": "Ball",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Rathalos Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Gore Magala Scale+",
+    "Icon": "Scale",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Gore Magala Carapace",
+    "Icon": "Shell",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Gore Magala Wing+",
+    "Icon": "Wing",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Gore Magala Ripclaw+",
+    "Icon": "Claw",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Gore Magala Tail",
+    "Icon": "Tail",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Gore Magala Feeler+",
+    "Icon": "Claw",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Gore Magala Nyctgem",
+    "Icon": "Ball",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Gore Magala Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Frenzy Crystal",
+    "Icon": "Crystal",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Conga Pelt",
+    "Icon": "Hide",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Conga Pelt+",
+    "Icon": "Hide",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Vespoid Shell",
+    "Icon": "Bug",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Vespoid Carapace",
+    "Icon": "Bug",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Vespoid Wing",
+    "Icon": "Webbing",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Vespoid Innerwing",
+    "Icon": "Webbing",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Blango Pelt+",
+    "Icon": "Hide",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Lightcrystal",
+    "Icon": "Ore",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Novacrystal",
+    "Icon": "Ore",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Firestone",
+    "Icon": "Ore",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Firecell Stone",
+    "Icon": "Ore",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Fucium Ore",
+    "Icon": "Ore",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Icium",
+    "Icon": "Ore",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Fulgur Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Congalala Certificate S",
+    "Icon": "Ticket",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Charred Oilbone",
+    "Icon": "Bone",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Frozen Icebone",
+    "Icon": "Bone",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Tough Guardian Bone",
+    "Icon": "Bone",
+    "Icon Color": "Light Blue"
+  },
+  {
+    "Name": "Quality Bone",
+    "Icon": "Bone",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Crushed Crystal",
+    "Icon": "Ore",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Cloudy Crystal",
+    "Icon": "Ore",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Coruscating Crystal",
+    "Icon": "Ore",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Flame Sac",
+    "Icon": "Sac",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Inferno Sac",
+    "Icon": "Sac",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Aqua Sac",
+    "Icon": "Sac",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Torrent Sac",
+    "Icon": "Sac",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Thunder Sac",
+    "Icon": "Sac",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Frost Sac",
+    "Icon": "Sac",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Freezer Sac",
+    "Icon": "Sac",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Poison Sac",
+    "Icon": "Sac",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Toxin Sac",
+    "Icon": "Sac",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Lala Barina Mucus",
+    "Icon": "Chemical",
+    "Icon Color": "Rose"
+  },
+  {
+    "Name": "Lala Barina Mucus+",
+    "Icon": "Chemical",
+    "Icon Color": "Rose"
+  },
+  {
+    "Name": "Sleep Sac",
+    "Icon": "Sac",
+    "Icon Color": "Light Blue"
+  },
+  {
+    "Name": "Coma Sac",
+    "Icon": "Sac",
+    "Icon Color": "Light Blue"
+  },
+  {
+    "Name": "Guardian Blood",
+    "Icon": "Chemical",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Blood+",
+    "Icon": "Chemical",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Great Hibiscus",
+    "Icon": "Herb",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Dalthydon Wool",
+    "Icon": "Hide",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "Azuz Tanned Leather",
+    "Icon": "Hide",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Suja Textiles",
+    "Icon": "Hide",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Sild Cotton",
+    "Icon": "Hide",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Gajau Hide",
+    "Icon": "Hide",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Speartuna Fin",
+    "Icon": "Monster Part",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Commission Ticket",
+    "Icon": "Ticket",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "Mimiphyta Ticket",
+    "Icon": "Ticket",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Mystery Orb - Sword",
+    "Icon": "Decoration",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Glowing Orb - Sword",
+    "Icon": "Decoration",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Ancient Orb - Sword",
+    "Icon": "Decoration",
+    "Icon Color": "Lemon"
+  },
+  {
+    "Name": "Armor Sphere",
+    "Icon": "Armor Sphere",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Armor Sphere+",
+    "Icon": "Armor Sphere",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Advanced Armor Sphere",
+    "Icon": "Armor Sphere",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Hard Armor Sphere",
+    "Icon": "Armor Sphere",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Rocksteady Mantle",
+    "Icon": "Cape",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Mending Mantle",
+    "Icon": "Cape",
+    "Icon Color": "Light Green"
+  },
+  {
+    "Name": "Evasion Mantle",
+    "Icon": "Cape",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Corrupted Mantle",
+    "Icon": "Cape",
+    "Icon Color": "Dpurple"
+  },
+  {
+    "Name": "Wyvern Egg",
+    "Icon": "Egg",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Charred Lizard",
+    "Icon": "Meat",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Wild Jerky",
+    "Icon": "Meat",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Catalyst",
+    "Icon": "Sac",
+    "Icon Color": "Moss" 
+  },
+  {
+    "Name": "Gunpowder",
+    "Icon": "Sac",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Small Barrel",
+    "Icon": "Barrel",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Large Barrel",
+    "Icon": "Barrel",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Spider Web",
+    "Icon": "Spiderweb",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Net",
+    "Icon": "Spiderweb",
+    "Icon Color": "Moss"
+  },
+  {
+    "Name": "Gunpowderfish Scale",
+    "Icon": "Scale",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Burst Arowana Scale",
+    "Icon": "Scale",
+    "Icon Color": "Green"
+  },
+  {
+    "Name": "Bomb Arowana Scale",
+    "Icon": "Scale",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Gilded Scale",
+    "Icon": "Scale",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Golden Scale",
+    "Icon": "Scale",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Platinum Scale",
+    "Icon": "Scale",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Steel Melding Ticket",
+    "Icon": "Ticket",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Silver Melding Ticket",
+    "Icon": "Ticket",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Steel Relic Ticket",
+    "Icon": "Ticket",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Silver Relic Ticket",
+    "Icon": "Ticket",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Steel Egg",
+    "Icon": "Egg",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Silver Egg",
+    "Icon": "Egg",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Golden Egg",
+    "Icon": "Egg",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Heavy Armor Sphere",
+    "Icon": "Armor Sphere",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Monster Keenbone",
+    "Icon": "Bone",
+    "Icon Color": "Pink"
+  },
+  {
+    "Name": "Monster Hardbone",
+    "Icon": "Bone",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Stoutbone",
+    "Icon": "Bone",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Great Stoutbone",
+    "Icon": "Bone",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Hunter Symbol I",
+    "Icon": "Ticket",
+    "Icon Color": "Tan"
+  },
+  {
+    "Name": "Hunter Symbol II",
+    "Icon": "Ticket",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Hunter Symbol III",
+    "Icon": "Ticket",
+    "Icon Color": "Lemon"
+  },
+  {
+    "Name": "Gold Melding Ticket",
+    "Icon": "Ticket Great",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Gold Relic Ticket",
+    "Icon": "Ticket Great",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Guardian Pelt",
+    "Icon": "Hide",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Pelt+",
+    "Icon": "Hide",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Drearisite",
+    "Icon": "Ore",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Specklite",
+    "Icon": "Ore",
+    "Icon Color": "Light Blue"
+  },
+  {
+    "Name": "Argecite",
+    "Icon": "Ore",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Oricalcite",
+    "Icon": "Ore Great",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Common Wood Minnow",
+    "Icon": "Bait",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Golden Bughead",
+    "Icon": "Bait",
+    "Icon Color": "Lemon"
+  },
+  {
+    "Name": "Emerald Jitterbait",
+    "Icon": "Bait",
+    "Icon Color": "Moss"
+  },
+  {
+    "Name": "Tuff Joint Bait",
+    "Icon": "Bait",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Duster Rig",
+    "Icon": "Bait",
+    "Icon Color": "Light Blue"
+  },
+  {
+    "Name": "Tentacle Jig",
+    "Icon": "Bait",
+    "Icon Color": "Rose"
+  },
+  {
+    "Name": "Close-range Coating",
+    "Icon": "Coating",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Power Coating",
+    "Icon": "Coating",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Pierce Coating",
+    "Icon": "Coating",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Paralysis Coating",
+    "Icon": "Coating",
+    "Icon Color": "Lemon"
+  },
+  {
+    "Name": "Poison Coating",
+    "Icon": "Coating",
+    "Icon Color": "Purple"
+  },
+  {
+    "Name": "Sleep Coating",
+    "Icon": "Coating",
+    "Icon Color": "Light Blue"
+  },
+  {
+    "Name": "Blast Coating",
+    "Icon": "Coating",
+    "Icon Color": "Vermilion"
+  },
+  {
+    "Name": "Exhaust Coating",
+    "Icon": "Coating",
+    "Icon Color": "Emerald"
+  },
+  {
+    "Name": "Whetfish Fin+",
+    "Icon": "Scale Great",
+    "Icon Color": "Yellow"
+  },
+  {
+    "Name": "Great Sushifish Scale",
+    "Icon": "Scale Great",
+    "Icon Color": "Orange"
+  },
+  {
+    "Name": "Old Weapon Shard - Blade",
+    "Icon": "INVALID",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Old Weapon Shard - Tube",
+    "Icon": "INVALID",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Old Weapon Shard - Disc",
+    "Icon": "INVALID",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Old Weapon Shard - Device",
+    "Icon": "INVALID",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Gracium",
+    "Icon": "Ore",
+    "Icon Color": "Blue"
+  },
+  {
+    "Name": "Wyverian Bloodstone Shard",
+    "Icon": "Ore",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Wyverian Bloodstone (S)",
+    "Icon": "Ore",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Wyverian Bloodstone",
+    "Icon": "Ore",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Wyverian Bloodstone (L)",
+    "Icon": "Ore",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Wyverian Bloodstone Chunk",
+    "Icon": "Ore",
+    "Icon Color": "Red"
+  },
+  {
+    "Name": "Balahara Black Pearl",
+    "Icon": "Scale",
+    "Icon Color": "Gray"
+  },
+  {
+    "Name": "Guardian Rathalos Ruby",
+    "Icon": "Ball",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Guardian Rathalos Plate",
+    "Icon": "Plate",
+    "Icon Color": "White"
+  },
+  {
+    "Name": "Jin Dahaad Tail",
+    "Icon": "Tail",
+    "Icon Color": "Brown"
+  },
+  {
+    "Name": "Expedition Headgear Ticket",
+    "Icon": "Ticket",
+    "Icon Color": "White"
+  },
+  {
+	"Name": "Mizutsune Scale+",
+	"Icon": "Scale",
+	"Icon Color": "White"
+  },
+  {
+	"Name": "Mizutsune Purplefur+",
+	"Icon": "Hide",
+	"Icon Color": "Dark Purple"
+  },
+  {
+	"Name": "Mizutsune Claw+",
+	"Icon": "Claw",
+	"Icon Color": "Dark Purple"
+  },
+  {
+	"Name": "Mizutsune Fin+",
+	"Icon": "Monster Part",
+	"Icon Color": "Pink"
+  },
+  {
+	"Name": "Mizutsune Tail+",
+	"Icon": "Tail",
+	"Icon Color": "Dark Purple"
+  },
+  {
+	"Name": "Bubblefoam+",
+	"Icon": "Chemical",
+	"Icon Color": "Purple"
+  },
+  {
+	"Name": "Mizutsune Water Orb",
+	"Icon": "Ball",
+	"Icon Color": "Dark Purple"
+  },
+  {
+	"Name": "Mizutsune Certificate S",
+	"Icon": "Ticket",
+	"Icon Color": "Dark Purple"
+  },
+  {
+	"Name": "Zoh Shia Crystalscale",
+	"Icon": "Scale",
+	"Icon Color": "White"
+  },
+  {
+	"Name": "Zoh Shia Layershell",
+	"Icon": "Shell",
+	"Icon Color": "White"
+  },
+  {
+	"Name": "Zoh Shia Stakeclaw",
+	"Icon": "Claw",
+	"Icon Color": "White"
+  },
+  {
+	"Name": "Zoh Shia Crystalhorn",
+	"Icon": "Claw",
+	"Icon Color": "White"
+  },
+  {
+	"Name": "Zoh Shia Crystaltail",
+	"Icon": "Tail",
+	"Icon Color": "White"
+  },
+  {
+	"Name": "Blackember Mass",
+	"Icon": "Question Mark",
+	"Icon Color": "Gray"
+  },
+  {
+	"Name": "Faux Whitegleam Orb",
+	"Icon": "Ball",
+	"Icon Color": "White"
+  },
+  {
+	"Name": "Zoh Shia Certificate S",
+	"Icon": "Ticket",
+	"Icon Color": "White"
+  },
+  {
+	"Name": "Chata Coin",
+	"Icon": "Coin",
+	"Icon Color": "White"
+  },
+  {
+	"Name": "Rathian Coin",
+	"Icon": "Coin",
+	"Icon Color": "Green"
+  },
+  {
+	"Name": "Pinnacle Coin",
+	"Icon": "Coin",
+	"Icon Color": "Yellow"
+  },
+  {
+	"Name": "Barrel Bowling Voucher",
+	"Icon": "Ticket",
+	"Icon Color": "Yellow"
+  },
+  {
+	"Name": "Pick-a-meal Voucher",
+	"Icon": "Meal Ticket",
+	"Icon Color": "Yellow"
+  },
+  {
+	"Name": "Kunafa Meal Voucher",
+	"Icon": "Meal Ticket",
+	"Icon Color": "Tan"
+  },
+  {
+	"Name": "Azuz Meal Voucher",
+	"Icon": "Meal Ticket",
+	"Icon Color": "Vermilion"
+  },
+  {
+	"Name": "Sild Meal Voucher",
+	"Icon": "Meal Ticket",
+	"Icon Color": "Emerald"
+  },
+  {
+	"Name": "Suja Meal Voucher",
+	"Icon": "Meal Ticket",
+	"Icon Color": "Light Green"
+  }
+]

@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Gypceros α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Gypceros α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Gypceros α
+|Rarity                        = 5
+|Weapon Name                   = Felyne Gypceros Glare α
+|Weapon Attack Type            = Blunt
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 34
+|Weapon Affinity               = 0
+|Weapon Ranged Attack          = 26
+|Weapon Description            = An ancient weapon governing resurrection. Its mystic power makes rank fish fresh again.
+|Weapon Forge Cost             = 1200z
+|Weapon Ailment Type           = Poison
+|Weapon Ailment Damage         = 30
+|Weapon Material 1 Name        = Gypceros Tail
+|Weapon Material 1 Icon Type   = Tail
+|Weapon Material 1 Icon Color  = Blue
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = Felyne Gypceros Crast α
+|Head Defense                  = 26
+|Head Fire Res                 = -4
+|Head Water Res                = 3
+|Head Thunder Res              = 4
+|Head Ice Res                  = -1
+|Head Dragon Res               = 1
+|Head Description              = August headwear with a wise gaze. The crest is said to glow when the gods return.
+|Head Forge Cost               = 1200z
+|Head Material 1 Name          = Gypceros Head
+|Head Material 1 Icon Type     = Head
+|Head Material 1 Icon Color    = Blue
+|Head Material 1 Quantity      = 1
+|Torso Name                    = Felyne Gypceros Tunic α
+|Torso Defense                 = 26
+|Torso Fire Res                = -4
+|Torso Water Res               = 3
+|Torso Thunder Res             = 4
+|Torso Ice Res                 = -1
+|Torso Dragon Res              = 1
+|Torso Description             = Gypceros armor based on ancient technology. The trim swaths the wearer in divine light.
+|Torso Forge Cost              = 1200z
+|Torso Material 1 Name         = Rubbery Hide+
+|Torso Material 1 Icon Type    = Hide
+|Torso Material 1 Icon Color   = Blue
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

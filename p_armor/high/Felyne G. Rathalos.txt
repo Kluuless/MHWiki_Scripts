@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne G. Rathalos α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne G. Rathalos α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne G. Rathalos α
+|Rarity                        = 6
+|Weapon Name                   = F Guardian Rath Blade α
+|Weapon Attack Type            = Severing
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 46
+|Weapon Affinity               = 15
+|Weapon Ranged Attack          = 30
+|Weapon Description            = A Guardian Rathalos weapon that commands its bearer to lash out at any who draw near.
+|Weapon Forge Cost             = 2000z
+|Weapon Ailment Type           = Fire
+|Weapon Ailment Damage         = 18
+|Weapon Material 1 Name        = Guardian Rathalos Wing
+|Weapon Material 1 Icon Type   = Wing
+|Weapon Material 1 Icon Color  = White
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = F Guardian Rath Helm α
+|Head Defense                  = 38
+|Head Fire Res                 = 3
+|Head Water Res                = 1
+|Head Thunder Res              = -2
+|Head Ice Res                  = 1
+|Head Dragon Res               = -5
+|Head Description              = A helm made of Guardian Rathalos materials. Something tugs at the wearer. "I was meant to be more than a Palico…"
+|Head Forge Cost               = 2000z
+|Head Material 1 Name          = Guardian Rathalos Scale+
+|Head Material 1 Icon Type     = Scale
+|Head Material 1 Icon Color    = White
+|Head Material 1 Quantity      = 1
+|Torso Name                    = F Guardian Rath Mail α
+|Torso Defense                 = 38
+|Torso Fire Res                = 3
+|Torso Water Res               = 1
+|Torso Thunder Res             = -2
+|Torso Ice Res                 = 1
+|Torso Dragon Res              = -5
+|Torso Description             = The bleached-white portions of this Guardian Rathalos armor glow faintly, and are warm to the touch.
+|Torso Forge Cost              = 2000z
+|Torso Material 1 Name         = Guardian Rathalos Carapace
+|Torso Material 1 Icon Type    = Shell
+|Torso Material 1 Icon Color   = White
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

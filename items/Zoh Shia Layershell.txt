@@ -1,0 +1,39 @@
+{{GenericNav|MHWilds}}
+<br>
+{{MHWildsInfobox
+|English Name = Zoh Shia Layershell|Japanese Name = ???|Type = Equipment Material|Image = MHWilds-Shell Icon White.png|Description = The coiled nature of Zoh Shia's layered shell looks as though it protects as much as it constricts.|Rarity = 6|Price = 4800|Carry Limit = -}}
+
+=Crafting Recipes=
+{| class="wikitable" style="text-align:center;"
+! Number !! Result !! !! Material A !! !! Material B
+|-
+|}
+=Sources=
+==Quests==
+<div class="threecol" style="clear:both;">
+<div>
+</div>
+</div>
+==Monsters==
+<div class="threecol">
+<div>
+</div>
+</div>
+==Gathering <ref>[[User:Cola|Cola's]] interactive MHWilds map (https://c-ola.github.io/wildsmap/)</ref>==
+<div class="threecol">
+<div>
+</div>
+</div>
+==Other==
+=Forging=
+==Weapons==
+<div class="threecol">
+<div>
+</div>
+</div>
+==Armor==
+<div class="threecol">
+<div>
+</div>
+</div>
+[[Category:MHWilds Items]]

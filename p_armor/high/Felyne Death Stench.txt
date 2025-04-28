@@ -1,0 +1,62 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Death Stench α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Death Stench α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Death Stench α
+|Rarity                        = 6
+|Weapon Name                   = Felyne Deathgear Scythe α
+|Weapon Attack Type            = Severing
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 45
+|Weapon Affinity               = 0
+|Weapon Ranged Attack          = 26
+|Weapon Description            = A fearsome scythe that cleaves away consciousness. Even the largest prey fall instantly into restful slumber.
+|Weapon Forge Cost             = 1800z
+|Weapon Ailment Type           = Dragon
+|Weapon Ailment Damage         = 28
+|Weapon Material 1 Name        = Sinister Cloth
+|Weapon Material 1 Icon Type   = Question Mark
+|Weapon Material 1 Icon Color  = Gray
+|Weapon Material 1 Quantity    = 1
+|Weapon Material 2 Name        = Wingdrake Hide+
+|Weapon Material 2 Icon Type   = Hide
+|Weapon Material 2 Icon Color  = Tan
+|Weapon Material 2 Quantity    = 1
+|Head Name                     = Felyne Deathgear Hood α
+|Head Defense                  = 34
+|Head Fire Res                 = 3
+|Head Water Res                = 2
+|Head Thunder Res              = -2
+|Head Ice Res                  = 3
+|Head Dragon Res               = 4
+|Head Description              = This deathly hood would scare the pants right off your Palico. If they actually wore pants.
+|Head Forge Cost               = 1800z
+|Head Material 1 Name          = Sinister Cloth
+|Head Material 1 Icon Type     = Question Mark
+|Head Material 1 Icon Color    = Gray
+|Head Material 1 Quantity      = 1
+|Head Material 2 Name          = Wingdrake Hide+
+|Head Material 2 Icon Type     = Hide
+|Head Material 2 Icon Color    = Tan
+|Head Material 2 Quantity      = 1
+|Torso Name                    = Felyne Deathgear Cowl α
+|Torso Defense                 = 34
+|Torso Fire Res                = 3
+|Torso Water Res               = 2
+|Torso Thunder Res             = -2
+|Torso Ice Res                 = 3
+|Torso Dragon Res              = 4
+|Torso Description             = A spooky black shroud. Possibly cursed. The wearer experiences constant chills up their spine.
+|Torso Forge Cost              = 1800z
+|Torso Material 1 Name         = Sinister Cloth
+|Torso Material 1 Icon Type    = Question Mark
+|Torso Material 1 Icon Color   = Gray
+|Torso Material 1 Quantity     = 1
+|Torso Material 2 Name         = Wingdrake Hide+
+|Torso Material 2 Icon Type    = Hide
+|Torso Material 2 Icon Color   = Tan
+|Torso Material 2 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

@@ -1,0 +1,46 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Suja α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Suja α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Suja α
+|Rarity                        = 6
+|Weapon Name                   = <!-- No Felyne Suja α Weapon -->
+|Weapon Forge Cost             = 1800z
+|Head Name                     = Felyne Suja Frog α
+|Head Defense                  = 34
+|Head Fire Res                 = 1
+|Head Water Res                = 1
+|Head Thunder Res              = 1
+|Head Ice Res                  = 4
+|Head Dragon Res               = 1
+|Head Description              = An amphibious pal scooped up in the Peaks of Accord. Giving it a ride on your noggin grants good luck. Today will be a nice day!
+|Head Forge Cost               = 1800z
+|Head Material 1 Name          = Suja Textiles
+|Head Material 1 Icon Type     = Hide
+|Head Material 1 Icon Color    = Blue
+|Head Material 1 Quantity      = 1
+|Head Material 2 Name          = Fucium Ore
+|Head Material 2 Icon Type     = Ore
+|Head Material 2 Icon Color    = Pink
+|Head Material 2 Quantity      = 1
+|Torso Name                    = Felyne Suja Vest α
+|Torso Defense                 = 34
+|Torso Fire Res                = 1
+|Torso Water Res               = 1
+|Torso Thunder Res             = 1
+|Torso Ice Res                 = 4
+|Torso Dragon Res              = 1
+|Torso Description             = This Felyne garb from the Peaks of Accord looks lightweight, but was woven with protective sigils passed down from ancient times.
+|Torso Forge Cost              = 1800z
+|Torso Material 1 Name         = Suja Textiles
+|Torso Material 1 Icon Type    = Hide
+|Torso Material 1 Icon Color   = Blue
+|Torso Material 1 Quantity     = 1
+|Torso Material 2 Name         = Fucium Ore
+|Torso Material 2 Icon Type    = Ore
+|Torso Material 2 Icon Color   = Pink
+|Torso Material 2 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

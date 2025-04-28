@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Rompopolo α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Rompopolo α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Rompopolo α
+|Rarity                        = 5
+|Weapon Name                   = F Rompopolo Blaster α
+|Weapon Attack Type            = Blunt
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 30
+|Weapon Affinity               = 0
+|Weapon Ranged Attack          = 34
+|Weapon Description            = This Rompopolo weapon is designed to supply a constant flow of poison, but doesn't actually shoot any.
+|Weapon Forge Cost             = 1200z
+|Weapon Ailment Type           = Poison
+|Weapon Ailment Damage         = 24
+|Weapon Material 1 Name        = Rompopolo Claw+
+|Weapon Material 1 Icon Type   = Claw
+|Weapon Material 1 Icon Color  = Dark Blue
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = F Rompopolo Brain α
+|Head Defense                  = 26
+|Head Fire Res                 = 0
+|Head Water Res                = -3
+|Head Thunder Res              = 0
+|Head Ice Res                  = 0
+|Head Dragon Res               = 1
+|Head Description              = This Rompopolo headgear may LOOK like a brain floating in a jar, but… best not to think about it.
+|Head Forge Cost               = 1200z
+|Head Material 1 Name          = Rompopolo Beak+
+|Head Material 1 Icon Type     = Head
+|Head Material 1 Icon Color    = Dark Blue
+|Head Material 1 Quantity      = 1
+|Torso Name                    = F Rompopolo Suit α
+|Torso Defense                 = 26
+|Torso Fire Res                = 0
+|Torso Water Res               = -3
+|Torso Thunder Res             = 0
+|Torso Ice Res                 = 0
+|Torso Dragon Res              = 1
+|Torso Description             = The wearer is immune to the Rompopolo poison pumped through this suit. Those around it, though…
+|Torso Forge Cost              = 1200z
+|Torso Material 1 Name         = Rompopolo Hide+
+|Torso Material 1 Icon Type    = Hide
+|Torso Material 1 Icon Color   = Dark Blue
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

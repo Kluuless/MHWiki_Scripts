@@ -1,0 +1,48 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Hope α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Hope α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Hope α
+|Rarity                        = 5
+|Weapon Name                   = Felyne Hope Hammer α
+|Weapon Attack Type            = Blunt
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 30
+|Weapon Affinity               = 0
+|Weapon Ranged Attack          = 25
+|Weapon Description            = A hammer made for the expedition. Better aimed toward research than hunting, but it's very easy to use!
+|Weapon Forge Cost             = 1000z
+|Weapon Material 1 Name        = Sturdy Bone
+|Weapon Material 1 Icon Type   = Bone
+|Weapon Material 1 Icon Color  = White
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = Felyne Hope Helm α
+|Head Defense                  = 22
+|Head Fire Res                 = 1
+|Head Water Res                = 0
+|Head Thunder Res              = 1
+|Head Ice Res                  = 0
+|Head Dragon Res               = 0
+|Head Description              = A helm made for the expedition. A fusion of traditional Palico techniques and new technology.
+|Head Forge Cost               = 1000z
+|Head Material 1 Name          = Sturdy Bone
+|Head Material 1 Icon Type     = Bone
+|Head Material 1 Icon Color    = White
+|Head Material 1 Quantity      = 1
+|Torso Name                    = Felyne Hope Suit α
+|Torso Defense                 = 22
+|Torso Fire Res                = 1
+|Torso Water Res               = 0
+|Torso Thunder Res             = 1
+|Torso Ice Res                 = 0
+|Torso Dragon Res              = 0
+|Torso Description             = Armor made for the expedition. Enough pockets to carry a shop-full of support items.
+|Torso Forge Cost              = 1000z
+|Torso Material 1 Name         = Sturdy Bone
+|Torso Material 1 Icon Type    = Bone
+|Torso Material 1 Icon Color   = White
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

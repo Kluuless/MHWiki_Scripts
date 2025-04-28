@@ -1,0 +1,48 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Chatacabra set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Chatacabra Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Chatacabra
+|Rarity                        = 1
+|Weapon Name                   = Felyne Chata Clobberer
+|Weapon Attack Type            = Blunt
+|Weapon Defense                = 3
+|Weapon Melee Attack           = 5
+|Weapon Affinity               = 0
+|Weapon Ranged Attack          = 3
+|Weapon Description            = A hammer modeled after the tough jaw of a Chatacabra. Even has the tongue in there!
+|Weapon Forge Cost             = 100z
+|Weapon Material 1 Name        = Chatacabra Jaw
+|Weapon Material 1 Icon Type   = Head
+|Weapon Material 1 Icon Color  = Green
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = F Cabra Hood
+|Head Defense                  = 6
+|Head Fire Res                 = 1
+|Head Water Res                = 2
+|Head Thunder Res              = -3
+|Head Ice Res                  = -1
+|Head Dragon Res               = 1
+|Head Description              = The opening of this Chatacabra hood is pulled extra snug to keep stray sand from getting inside.
+|Head Forge Cost               = 100z
+|Head Material 1 Name          = Chatacabra Hide
+|Head Material 1 Icon Type     = Hide
+|Head Material 1 Icon Color    = Green
+|Head Material 1 Quantity      = 1
+|Torso Name                    = F Cabra Jumpsuit
+|Torso Defense                 = 6
+|Torso Fire Res                = 1
+|Torso Water Res               = 2
+|Torso Thunder Res             = -3
+|Torso Ice Res                 = -1
+|Torso Dragon Res              = 1
+|Torso Description             = Designed with mobility in mind, this Chatacabra one-piece is as comfy as it is safe.
+|Torso Forge Cost              = 100z
+|Torso Material 1 Name         = Chatacabra Scale
+|Torso Material 1 Icon Type    = Scale
+|Torso Material 1 Icon Color   = Green
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

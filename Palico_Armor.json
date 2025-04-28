@@ -797,14 +797,14 @@
       "Headgear": {
         "Name": "F Guardian Ebony Helm",
         "Forging Materials": [
-          "Guardian Ebony Odogaron Scale"
+          "Guardian Ebony Scale"
         ],
         "Description": "A helm made of Guardian Ebony Odogaron materials. Something tugs at the wearer. \"I was meant to be more than a Palico…\""
       },
       "Body Armor": {
         "Name": "F Guardian Ebony Mail",
         "Forging Materials": [
-          "Guardian Ebony Odogaron Sinew"
+          "Guardian Ebony Sinew"
         ],
         "Description": "The bleached-white portions of this Guardian Ebony Odogaron armor glow faintly, and are warm to the touch."
       },
@@ -1702,14 +1702,14 @@
       "Headgear": {
         "Name": "F Guardian Ebony Helm α",
         "Forging Materials": [
-          "Guardian Ebony Odogaron Scale+"
+          "Guardian Ebony Scale+"
         ],
         "Description": "A helm made of Guardian Ebony Odogaron materials. Something tugs at the wearer. \"I was meant to be more than a Palico…\""
       },
       "Body Armor": {
         "Name": "F Guardian Ebony Mail α",
         "Forging Materials": [
-          "Guardian Ebony Odogaron Sinew+"
+          "Guardian Ebony Sinew+"
         ],
         "Description": "The bleached-white portions of this Guardian Ebony Odogaron armor glow faintly, and are warm to the touch."
       },
@@ -1942,7 +1942,7 @@
       "Required Cost": 1800,
       "Weapon": {
         "Name": null,
-        "Forging Materials": null,
+        "Forging Materials": [],
         "Attack": {
           "Melee": null,
           "Ranged": null
@@ -1983,7 +1983,7 @@
       "Required Cost": 1800,
       "Weapon": {
         "Name": null,
-        "Forging Materials": null,
+        "Forging Materials": [],
         "Attack": {
           "Melee": null,
           "Ranged": null
@@ -2006,7 +2006,7 @@
         "Name": "Felyne Azuz Body α",
         "Forging Materials": [
           "Azuz Tanned Leather",
-          "Firesetone"
+          "Firestone"
         ],
         "Description": "Some…armor(?) unearthed in the Oilwell Basin. Those who don it report their body suddenly moving against their will."
       },
@@ -2024,7 +2024,7 @@
       "Required Cost": 1800,
       "Weapon": {
         "Name": null,
-        "Forging Materials": null,
+        "Forging Materials": [],
         "Attack": {
           "Melee": null,
           "Ranged": null
@@ -2065,7 +2065,7 @@
       "Required Cost": 1800,
       "Weapon": {
         "Name": null,
-        "Forging Materials": null,
+        "Forging Materials": [],
         "Attack": {
           "Melee": null,
           "Ranged": null
@@ -2541,6 +2541,92 @@
         "Thunder Res": 2,
         "Ice Res": 2,
         "Dragon Res": 2
+      }
+    },
+    "Felyne Mizutsune α": {
+      "Rarity": 6,
+      "Required Cost": 2000,
+      "Weapon": {
+        "Name": "F Mizutsune Parasol α",
+        "Forging Materials": [
+          "Mizutsune Claw+"
+        ],
+        "Attack": {
+          "Melee": 40,
+          "Ranged": 42
+        },
+        "Attack Type": "Blunt",
+        "Element": {
+          "Water": 28
+        },
+        "Affinity": 10,
+        "Defense Bonus": 0,
+        "Description": "An umbrella with an alluring Eastern pattern. Famous among Felyne collectors."
+      },
+      "Headgear": {
+        "Name": "F Mizutsune Kasa α",
+        "Forging Materials": [
+          "Mizutsune Purplefur+"
+        ],
+        "Description": "Headgear made from Mizutsune materials. The distinct conical hat and fetching mask make this a hit at festivals."
+      },
+      "Body Armor": {
+        "Name": "F Mizutsune Suit α",
+        "Forging Materials": [
+          "Mizutsune Scale+"
+        ],
+        "Description": "Armor made from Mizutsune materials. This traditional Eastern garb is so tricky it takes two sets of paws to put on."
+      },
+      "Defenses": {
+        "Defense": 38,
+        "Fire Res": 0,
+        "Water Res": 2,
+        "Thunder Res": -3,
+        "Ice Res": 1,
+        "Dragon Res": -1
+      }
+    },
+    "Felyne Numinous α": {
+      "Rarity": 8,
+      "Required Cost": 3000,
+      "Weapon": {
+        "Name": "F Blazing Spear α",
+        "Forging Materials": [
+          "Blackember Mass"
+        ],
+        "Attack": {
+          "Melee": 60,
+          "Ranged": 60
+        },
+        "Attack Type": "Severing",
+        "Element": {
+          "Dragon": 10
+        },
+        "Affinity": 0,
+        "Defense Bonus": 0,
+        "Description": "A weapon made from Zoh Shia's spoils. Its peaceful form responds wildly to the wielder's rage."
+      },
+      "Headgear": {
+        "Name": "F Numinous Crown α",
+        "Forging Materials": [
+          "Zoh Shia Crystalhorn"
+        ],
+        "Description": "Head armor imbued with Zoh Shia's soul. Its innocent smile twists in response to its wearer's despair."
+      },
+      "Body Armor": {
+        "Name": "F Numinous Robe α",
+        "Forging Materials": [
+          "Zoh Shia Crystalscale"
+        ],
+        "Description": "Body armor imbued with Zoh Shia's soul. The wings twitch ominously in response to the wearer's cravings."
+      },
+      "Defenses": {
+        "Defense": 60,
+        "Fire Res": -1,
+        "Water Res": 2,
+        "Thunder Res": 2,
+        "Ice Res": 0,
+        "Dragon Res": -4
       }
     }
   }

@@ -1,0 +1,227 @@
+[
+  {
+	"Name": "Mizutsune Scale+",
+	"Rarity": "6",
+	"Category": "Equipment Material",
+	"Description": "A high-quality Mizutsune scale. Older scales polished over time can be very valuable.",
+	"Sell Price": "1750",
+	"Icon": "Scale",
+	"Icon Color": "White"
+  },
+  {
+	"Name": "Mizutsune Purplefur+",
+	"Rarity": "6",
+	"Category": "Equipment Material",
+	"Description": "High-quality purple Mizutsune fur. More foam-absorbent than its lighter counterpart.",
+	"Sell Price": "2625",
+	"Icon": "Hide",
+	"Icon Color": "Dark Purple"
+  },
+  {
+	"Name": "Mizutsune Claw+",
+	"Rarity": "6",
+	"Category": "Equipment Material",
+	"Description": "Friction-reducing bubblefoam helps this deadly claw slice through prey like sushi.",
+	"Sell Price": "3500",
+	"Icon": "Claw",
+	"Icon Color": "Dark Purple"
+  },
+  {
+	"Name": "Mizutsune Fin+",
+	"Rarity": "6",
+	"Category": "Equipment Material",
+	"Description": "A high-quality Mizutsune fin. Bubblefoam gives it an elegant pattern prettier than dye.",
+	"Sell Price": "3500",
+	"Icon": "Monster Part",
+	"Icon Color": "Pink"
+  },
+  {
+	"Name": "Mizutsune Tail",
+	"Rarity": "6",
+	"Category": "Equipment Material",
+	"Description": "A flowing Mizutsune tail. It's prized for its supple fur and beautiful scales.",
+	"Sell Price": "3850",
+	"Icon": "Tail",
+	"Icon Color": "Dark Purple"
+  },
+  {
+	"Name": "Bubblefoam+",
+	"Rarity": "6",
+	"Category": "Equipment Material",
+	"Description": "The top layer of the Mizutsune fluid. Removes impurities and is used in many rituals.",
+	"Sell Price": "3150",
+	"Icon": "Chemical",
+	"Icon Color": "Purple"
+  },
+  {
+	"Name": "Mizutsune Water Orb",
+	"Rarity": "7",
+	"Category": "Equipment Material",
+	"Description": "A multicolored orb formed from a crystalized Mizutsune scale and bubblefoam.",
+	"Sell Price": "10500",
+	"Icon": "Ball",
+	"Icon Color": "Dark Purple"
+  },
+  {
+	"Name": "Mizutsune Certificate S",
+	"Rarity": "6",
+	"Category": "Equipment Material",
+	"Description": "A Guild certificate awarded to those who have hunted a Mizutsune. Used to make equipment.",
+	"Sell Price": "1750",
+	"Icon": "Ticket",
+	"Icon Color": "Dark Purple"
+  },
+  {
+	"Name": "Zoh Shia Crystalscale",
+	"Rarity": "6",
+	"Category": "Equipment Material",
+	"Description": "A crystallized Zoh Shia scale. Its dull glow evinces the great energy it contains.",
+	"Sell Price": "3200",
+	"Icon": "Scale",
+	"Icon Color": "White"
+  },
+  {
+	"Name": "Zoh Shia Layershell",
+	"Rarity": "6",
+	"Category": "Equipment Material",
+	"Description": "The coiled nature of Zoh Shia's layered shell looks as though it protects as much as it constricts.",
+	"Sell Price": "4800",
+	"Icon": "Shell",
+	"Icon Color": "White"
+  },
+  {
+	"Name": "Zoh Shia Stakeclaw",
+	"Rarity": "6",
+	"Category": "Equipment Material",
+	"Description": "Stake-like Zoh Shia claws extended by hardened Wylk. The Wylkcrystal growths are eerily uniform.",
+	"Sell Price": "5760",
+	"Icon": "Claw",
+	"Icon Color": "White"
+  },
+  {
+	"Name": "Zoh Shia Crystalhorn",
+	"Rarity": "6",
+	"Category": "Equipment Material",
+	"Description": "A crystal-coated Zoh Shia horn. Heavy and wedge-like, as though it were used to seal something.",
+	"Sell Price": "6400",
+	"Icon": "Claw",
+	"Icon Color": "White"
+  },
+  {
+	"Name": "Zoh Shia Crystaltail",
+	"Rarity": "6",
+	"Category": "Equipment Material",
+	"Description": "A crystal-covered Zoh Shia tail. The crystals continue to grow even after the tail is severed.",
+	"Sell Price": "7040",
+	"Icon": "Tail",
+	"Icon Color": "White"
+  },
+  {
+	"Name": "Blackember Mass",
+	"Rarity": "6",
+	"Category": "Equipment Material",
+	"Description": "A small, swollen mass from the inside of Zoh Shia. It pulses with an alien-like quality.",
+	"Sell Price": "6400",
+	"Icon": "Question Mark",
+	"Icon Color": "Gray"
+  },
+  {
+	"Name": "Faux Whitegleam Orb",
+	"Rarity": "7",
+	"Category": "Equipment Material",
+	"Description": "An inorganic orb from inside Zoh Shia. Something wriggles deep within its elaborate design.",
+	"Sell Price": "19200",
+	"Icon": "Ball",
+	"Icon Color": "White"
+  },
+  {
+	"Name": "Zoh Shia Certificate S",
+	"Rarity": "6",
+	"Category": "Equipment Material",
+	"Description": "A Guild certificate awarded to those who have hunted Zoh Shia. Used to make equipment.",
+	"Sell Price": "3200",
+	"Icon": "Ticket",
+	"Icon Color": "White"
+  },
+  {
+	"Name": "Chata Coin",
+	"Rarity": "6",
+	"Category": "Equipment Material",
+	"Description": "A coin given to those who have bested a Chatacabra in the Arena.",
+	"Sell Price": "300",
+	"Icon": "Coin",
+	"Icon Color": "White"
+  },
+  {
+	"Name": "Rathian Coin",
+	"Rarity": "6",
+	"Category": "Equipment Material",
+	"Description": "A coin given to those who have bested a Rathian in the Arena.",
+	"Sell Price": "400",
+	"Icon": "Coin",
+	"Icon Color": "Green"
+  },
+  {
+	"Name": "Pinnacle Coin",
+	"Rarity": "6",
+	"Category": "Equipment Material",
+	"Description": "A commemorative coin bestowed on hunters who have mastered the craft. The value of its sheen? Priceless.",
+	"Sell Price": "500",
+	"Icon": "Coin",
+	"Icon Color": "Yellow"
+  },
+  {
+	"Name": "Barrel Bowling Voucher",
+	"Rarity": "4",
+	"Category": "Facility Item",
+	"Description": "A voucher for a chance to play a Grand Hub mini-game. Has a whimsical DIY look.",
+	"Sell Price": "600",
+	"Icon": "Ticket",
+	"Icon Color": "Yellow"
+  },
+  {
+	"Name": "Pick-a-meal Voucher",
+	"Rarity": "5",
+	"Category": "Facility Item",
+	"Description": "Exchange this voucher in the Grand Hub Canteen for one order of your favorite regional meal.",
+	"Sell Price": "500",
+	"Icon": "Meal Ticket",
+	"Icon Color": "Yellow"
+  },
+  {
+	"Name": "Kunafa Meal Voucher",
+	"Rarity": "4",
+	"Category": "Facility Item",
+	"Description": "Exchange this voucher in the Grand Hub Canteen for one order of the Kunafa regional meal.",
+	"Sell Price": "400",
+	"Icon": "Meal Ticket",
+	"Icon Color": "Tan"
+  },
+  {
+	"Name": "Azuz Meal Voucher",
+	"Rarity": "4",
+	"Category": "Facility Item",
+	"Description": "Exchange this voucher in the Grand Hub Canteen for one order of the Azuz regional meal.",
+	"Sell Price": "400",
+	"Icon": "Meal Ticket",
+	"Icon Color": "Brown"
+  },
+  {
+	"Name": "Sild Meal Voucher",
+	"Rarity": "4",
+	"Category": "Facility Item",
+	"Description": "Exchange this voucher in the Grand Hub Canteen for one order of the Sild regional meal.",
+	"Sell Price": "400",
+	"Icon": "Meal Ticket",
+	"Icon Color": "White"
+  },
+  {
+	"Name": "Suja Meal Voucher",
+	"Rarity": "4",
+	"Category": "Facility Item",
+	"Description": "Exchange this voucher in the Grand Hub Canteen for one order of the Suja regional meal.",
+	"Sell Price": "400",
+	"Icon": "Meal Ticket",
+	"Icon Color": "Blue"
+  }
+]

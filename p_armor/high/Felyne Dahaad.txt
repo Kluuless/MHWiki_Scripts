@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Dahaad α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Dahaad α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Dahaad α
+|Rarity                        = 7
+|Weapon Name                   = Felyne Dahaad Mace α
+|Weapon Attack Type            = Blunt
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 40
+|Weapon Affinity               = 0
+|Weapon Ranged Attack          = 48
+|Weapon Description            = A Jin Dahaad scepter that resembles the regalia of a queen who once ruled with an ice-cold fist.
+|Weapon Forge Cost             = 2500z
+|Weapon Ailment Type           = Ice
+|Weapon Ailment Damage         = 30
+|Weapon Material 1 Name        = Jin Dahaad Iceplate
+|Weapon Material 1 Icon Type   = Shell
+|Weapon Material 1 Icon Color  = Brown
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = Felyne Dahaad Corona α
+|Head Defense                  = 50
+|Head Fire Res                 = -4
+|Head Water Res                = 2
+|Head Thunder Res              = -1
+|Head Ice Res                  = 5
+|Head Dragon Res               = -1
+|Head Description              = Regal Jin Dahaad headgear modeled after the crown worn by a queen who presided over a thousand-year peace.
+|Head Forge Cost               = 2500z
+|Head Material 1 Name          = Jin Dahaad Scale+
+|Head Material 1 Icon Type     = Scale
+|Head Material 1 Icon Color    = Brown
+|Head Material 1 Quantity      = 1
+|Torso Name                    = Felyne Dahaad Gown α
+|Torso Defense                 = 50
+|Torso Fire Res                = -4
+|Torso Water Res               = 2
+|Torso Thunder Res             = -1
+|Torso Ice Res                 = 5
+|Torso Dragon Res              = -1
+|Torso Description             = An elegant Jin Dahaad dress that embodies the glory and grace of a queen.
+|Torso Forge Cost              = 2500z
+|Torso Material 1 Name         = Jin Dahaad Carapace
+|Torso Material 1 Icon Type    = Shell
+|Torso Material 1 Icon Color   = Brown
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

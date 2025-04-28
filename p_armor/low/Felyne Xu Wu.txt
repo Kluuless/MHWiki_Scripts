@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Xu Wu set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Xu Wu Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Xu Wu
+|Rarity                        = 4
+|Weapon Name                   = Felyne Xu Wu Orb
+|Weapon Attack Type            = Blunt
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 18
+|Weapon Affinity               = -10
+|Weapon Ranged Attack          = 18
+|Weapon Description            = This Xu Wu crystal orb shows the cruelest future; and the talisman shows the path to avoid its coming.
+|Weapon Forge Cost             = 400z
+|Weapon Ailment Type           = Water
+|Weapon Ailment Damage         = 18
+|Weapon Material 1 Name        = Xu Wu Tentacle
+|Weapon Material 1 Icon Type   = Monster Part
+|Weapon Material 1 Icon Color  = Gray
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = Felyne Xu Wu Veil
+|Head Defense                  = 18
+|Head Fire Res                 = 1
+|Head Water Res                = 1
+|Head Thunder Res              = 1
+|Head Ice Res                  = -3
+|Head Dragon Res               = 2
+|Head Description              = This veil of Xu Wu materials grants the wearer eyes that peer into both past and future.
+|Head Forge Cost               = 400z
+|Head Material 1 Name          = Golden Corneum
+|Head Material 1 Icon Type     = Ore
+|Head Material 1 Icon Color    = Yellow
+|Head Material 1 Quantity      = 1
+|Torso Name                    = Felyne Xu Wu Suit
+|Torso Defense                 = 18
+|Torso Fire Res                = 1
+|Torso Water Res               = 1
+|Torso Thunder Res             = 1
+|Torso Ice Res                 = -3
+|Torso Dragon Res              = 2
+|Torso Description             = Those who don this Xu Wu armor will always find the true path, even in the darkest night.
+|Torso Forge Cost              = 400z
+|Torso Material 1 Name         = Xu Wu Hide
+|Torso Material 1 Icon Type    = Hide
+|Torso Material 1 Icon Color   = Gray
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Uth Duna α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Uth Duna α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Uth Duna α
+|Rarity                        = 7
+|Weapon Name                   = Felyne Duna Spear
+|Weapon Attack Type            = Severing
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 48
+|Weapon Affinity               = 0
+|Weapon Ranged Attack          = 40
+|Weapon Description            = This weapon made from Uth Duna parts stands as a symbol of the forest's boundless blessing.
+|Weapon Forge Cost             = 2500z
+|Weapon Ailment Type           = Water
+|Weapon Ailment Damage         = 30
+|Weapon Material 1 Name        = Uth Duna Claw+
+|Weapon Material 1 Icon Type   = Claw
+|Weapon Material 1 Icon Color  = Violet
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = Felyne Duna Mask α
+|Head Defense                  = 50
+|Head Fire Res                 = -1
+|Head Water Res                = 4
+|Head Thunder Res              = -3
+|Head Ice Res                  = 0
+|Head Dragon Res               = 0
+|Head Description              = It is said that those who don this Uth Duna mask are able to commune with the forest.
+|Head Forge Cost               = 2500z
+|Head Material 1 Name          = Uth Duna Cilia+
+|Head Material 1 Icon Type     = Hide
+|Head Material 1 Icon Color    = Pink
+|Head Material 1 Quantity      = 1
+|Torso Name                    = Felyne Duna Cape α
+|Torso Defense                 = 50
+|Torso Fire Res                = -1
+|Torso Water Res               = 4
+|Torso Thunder Res             = -3
+|Torso Ice Res                 = 0
+|Torso Dragon Res              = 0
+|Torso Description             = Surprisingly breathable, this Uth Duna armor allows the wearer to feel the forest's respiration.
+|Torso Forge Cost              = 2500z
+|Torso Material 1 Name         = Uth Duna Scale+
+|Torso Material 1 Icon Type    = Scale
+|Torso Material 1 Icon Color   = Violet
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

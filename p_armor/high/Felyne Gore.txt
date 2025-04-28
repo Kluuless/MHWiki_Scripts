@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Gore α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Gore α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Gore α
+|Rarity                        = 7
+|Weapon Name                   = Felyne Katzenfunzel α
+|Weapon Attack Type            = Severing
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 52
+|Weapon Affinity               = 10
+|Weapon Ranged Attack          = 52
+|Weapon Description            = The fell glow of this evil Gore Magala weapon casts more shadow than light.
+|Weapon Forge Cost             = 2500z
+|Weapon Ailment Type           = Dragon
+|Weapon Ailment Damage         = 20
+|Weapon Material 1 Name        = Gore Magala Ripclaw+
+|Weapon Material 1 Icon Type   = Claw
+|Weapon Material 1 Icon Color  = Gray
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = Felyne Gore Horror α
+|Head Defense                  = 50
+|Head Fire Res                 = -2
+|Head Water Res                = 3
+|Head Thunder Res              = -1
+|Head Ice Res                  = 2
+|Head Dragon Res               = -1
+|Head Description              = The flames of despair find a home in the gaze of any who dare don this Gore Magala helm.
+|Head Forge Cost               = 2500z
+|Head Material 1 Name          = Gore Magala Scale+
+|Head Material 1 Icon Type     = Scale
+|Head Material 1 Icon Color    = Gray
+|Head Material 1 Quantity      = 1
+|Torso Name                    = Felyne Gore Ghost α
+|Torso Defense                 = 50
+|Torso Fire Res                = -2
+|Torso Water Res               = 3
+|Torso Thunder Res             = -1
+|Torso Ice Res                 = 2
+|Torso Dragon Res              = -1
+|Torso Description             = This Gore Magala armor brings its wearer absolute victory… and assured doom.
+|Torso Forge Cost              = 2500z
+|Torso Material 1 Name         = Gore Magala Carapace
+|Torso Material 1 Icon Type    = Shell
+|Torso Material 1 Icon Color   = Gray
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne G. Ark set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne G. Ark Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne G. Ark
+|Rarity                        = 4
+|Weapon Name                   = F Guardian Ark Sword
+|Weapon Attack Type            = Severing
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 28
+|Weapon Affinity               = -10
+|Weapon Ranged Attack          = 24
+|Weapon Description            = Each slash of this Guardian Arkveld Sword causes newfound strength to well up in its wielder.
+|Weapon Forge Cost             = 700z
+|Weapon Ailment Type           = Dragon
+|Weapon Ailment Damage         = 15
+|Weapon Material 1 Name        = Guardian Blood
+|Weapon Material 1 Icon Type   = Chemical
+|Weapon Material 1 Icon Color  = White
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = F Guardian Ark Helm
+|Head Defense                  = 22
+|Head Fire Res                 = 2
+|Head Water Res                = 0
+|Head Thunder Res              = -1
+|Head Ice Res                  = 0
+|Head Dragon Res               = -4
+|Head Description              = Any who wear this Guardian Arkveld helm are guided by a formless, relentless hand to press onward.
+|Head Forge Cost               = 700z
+|Head Material 1 Name          = Guardian Pelt
+|Head Material 1 Icon Type     = Hide
+|Head Material 1 Icon Color    = White
+|Head Material 1 Quantity      = 1
+|Torso Name                    = F Guardian Ark Mail
+|Torso Defense                 = 22
+|Torso Fire Res                = 2
+|Torso Water Res               = 0
+|Torso Thunder Res             = -1
+|Torso Ice Res                 = 0
+|Torso Dragon Res              = -4
+|Torso Description             = Palicoes clad in this Guardian Arkveld armor cease to feel any trace of exhaustion or fatigue… they think.
+|Torso Forge Cost              = 700z
+|Torso Material 1 Name         = Guardian Scale
+|Torso Material 1 Icon Type    = Scale
+|Torso Material 1 Icon Color   = White
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

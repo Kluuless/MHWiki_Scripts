@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Ajarakan α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Ajarakan α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Ajarakan α
+|Rarity                        = 6
+|Weapon Name                   = F Ajarakan Staff α
+|Weapon Attack Type            = Blunt
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 44
+|Weapon Affinity               = 10
+|Weapon Ranged Attack          = 32
+|Weapon Description            = An Ajarakan staff that ignites the wielder's fighting spirit and burns the wicked to ash.
+|Weapon Forge Cost             = 2000z
+|Weapon Ailment Type           = Blast
+|Weapon Ailment Damage         = 20
+|Weapon Material 1 Name        = Ajarakan Jewel+
+|Weapon Material 1 Icon Type   = Ore
+|Weapon Material 1 Icon Color  = Vermilion
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = F Ajarakan Helm α
+|Head Defense                  = 38
+|Head Fire Res                 = 3
+|Head Water Res                = -3
+|Head Thunder Res              = 1
+|Head Ice Res                  = -2
+|Head Dragon Res               = 0
+|Head Description              = An Ajarakan helm said to emit a mighty shriek that has the power to repel all evil.
+|Head Forge Cost               = 2000z
+|Head Material 1 Name          = Ajarakan Scale+
+|Head Material 1 Icon Type     = Scale
+|Head Material 1 Icon Color    = Vermilion
+|Head Material 1 Quantity      = 1
+|Torso Name                    = F Ajarakan Mail α
+|Torso Defense                 = 38
+|Torso Fire Res                = 3
+|Torso Water Res               = -3
+|Torso Thunder Res             = 1
+|Torso Ice Res                 = -2
+|Torso Dragon Res              = 0
+|Torso Description             = This Ajarakan armor grants the wearer evil-banishing powers. Also, a rockin' bod. Me-ow!
+|Torso Forge Cost              = 2000z
+|Torso Material 1 Name         = Ajarakan Carapace
+|Torso Material 1 Icon Type    = Shell
+|Torso Material 1 Icon Color   = Vermilion
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

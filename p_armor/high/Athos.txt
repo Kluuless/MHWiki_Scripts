@@ -1,0 +1,60 @@
+{{GenericNav|MHWilds}}
+
+The Athos α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Athos α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Athos α
+|Rarity                        = 8
+|Weapon Name                   = Athos's Hinge Blade α
+|Weapon Attack Type            = Severing
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 40
+|Weapon Affinity               = 0
+|Weapon Ranged Attack          = 56
+|Weapon Description            = A keen blade to match Athos, Astrum Unit's elite Palico. Twisting the haft transforms the weapon into a boomerang.
+|Weapon Forge Cost             = 2800z
+|Weapon Material 1 Name        = Hunter Symbol III
+|Weapon Material 1 Icon Type   = Ticket
+|Weapon Material 1 Icon Color  = Lemon
+|Weapon Material 1 Quantity    = 1
+|Weapon Material 2 Name        = Fucium Ore
+|Weapon Material 2 Icon Type   = Ore
+|Weapon Material 2 Icon Color  = Pink
+|Weapon Material 2 Quantity    = 1
+|Head Name                     = Athos's Scar
+|Head Defense                  = 50
+|Head Fire Res                 = 2
+|Head Water Res                = 2
+|Head Thunder Res              = 2
+|Head Ice Res                  = 2
+|Head Dragon Res               = 2
+|Head Description              = A stick-on scar to match Athos, Astrum Unit's elite Palico. I'm not asking her how she got it. ''You'' ask her…
+|Head Forge Cost               = 2800z
+|Head Material 1 Name          = Hunter Symbol III
+|Head Material 1 Icon Type     = Ticket
+|Head Material 1 Icon Color    = Lemon
+|Head Material 1 Quantity      = 1
+|Head Material 2 Name          = Fucium Ore
+|Head Material 2 Icon Type     = Ore
+|Head Material 2 Icon Color    = Pink
+|Head Material 2 Quantity      = 1
+|Torso Name                    = Athos's Armor α
+|Torso Defense                 = 50
+|Torso Fire Res                = 2
+|Torso Water Res               = 2
+|Torso Thunder Res             = 2
+|Torso Ice Res                 = 2
+|Torso Dragon Res              = 2
+|Torso Description             = Knightly mail to match Athos, Astrum Unit's elite Palico. The striking fur cape is fit for nobility.
+|Torso Forge Cost              = 2800z
+|Torso Material 1 Name         = Hunter Symbol III
+|Torso Material 1 Icon Type    = Ticket
+|Torso Material 1 Icon Color   = Lemon
+|Torso Material 1 Quantity     = 1
+|Torso Material 2 Name         = Fucium Ore
+|Torso Material 2 Icon Type    = Ore
+|Torso Material 2 Icon Color   = Pink
+|Torso Material 2 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

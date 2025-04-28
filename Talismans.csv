@@ -1,0 +1,161 @@
+Name,Rarity,Description,Skill Name,Skill Pts.,Forging Price,Forge Mat 1,Forge Mat 1 Qty,Forge Mat 2,Forge Mat 2 Qty,Forge Mat 3,Forge Mat 3 Qty,Forge Mat 4,Forge Mat 4 Qty
+Fury Charm I,5,A charm that grants the Resentment Skill.,Resentment,1,3000,Nerscylla Carapace,6,Nerscylla Spike+,4,Rompopolo Beak+,3,Wyvern Gem,1
+Fury Charm II,7,A charm that grants the Resentment Skill.,Resentment,2,9000,Hunter Symbol III,5,Hunter Symbol II,3,Nu Udra Flamegem,1,Ajarakan Medulla,1
+Counterattack Charm I,5,A charm that grants the Adrenaline Rush Skill.,Adrenaline Rush,1,3000,Hirabami Webbing+,4,Hirabami Tail Claw+,3,Lala Barina Stinger+,2,Wyvern Gem,1
+Counterattack Charm II,7,A charm that grants the Adrenaline Rush Skill.,Adrenaline Rush,2,9000,Hunter Symbol III,5,Hunter Symbol II,3,Rathalos Ruby,1,Gore Magala Nyctgem,1
+Unscathed Charm I,5,A charm that grants the Peak Performance Skill.,Peak Performance,1,3000,Hirabami Scale+,6,Hirabami Webbing+,4,Vibrant Pelt+,3,Beast Gem,1
+Unscathed Charm II,7,A charm that grants the Peak Performance Skill.,Peak Performance,2,9000,Hunter Symbol III,5,Hunter Symbol II,3,Jin Dahaad Icegem,1,Gravios Medulla,2
+Counter Charm I,5,A charm that grants the Counterstrike Skill.,Counterstrike,1,3000,Rathian Webbing,3,Gypceros Head,3,Talioth Scale,5,Bird Wyvern Gem,1
+Counter Charm II,6,A charm that grants the Counterstrike Skill.,Counterstrike,2,6000,Blangonga Pelt+,6,Blangonga Whisker,5,Blango Pelt+,5,Beast Gem,1
+Counter Charm III,7,A charm that grants the Counterstrike Skill.,Counterstrike,3,9000,Hunter Symbol III,3,Nu Udra Horn+,3,Guardian Rathalos Wing,4,Rathalos Ruby,1
+Exploiter Charm I,5,A charm that grants the Weakness Exploit Skill.,Weakness Exploit,1,3000,Rathian Carapace,6,Rathian Spike+,3,Chatacabra Carapace,4,Rathian Ruby,1
+Exploiter Charm II,7,A charm that grants the Weakness Exploit Skill.,Weakness Exploit,2,9000,Hunter Symbol III,5,Hunter Symbol II,3,Arkveld Gem,1,Guardian Rathalos Gem,1
+Mighty Charm I,5,A charm that grants the Maximum Might Skill.,Maximum Might,1,3000,Nerscylla Claw+,6,Nerscylla Shear,6,Gypceros Head,3,Bird Wyvern Gem,1
+Mighty Charm II,7,A charm that grants the Maximum Might Skill.,Maximum Might,2,9000,Hunter Symbol III,5,Hunter Symbol II,3,Xu Wu Umbragem,1,Rey Dau Boltgem,1
+Convert Charm I,5,A charm that grants the Convert Element Skill.,Convert Element,1,9000,Hunter Symbol III,5,Arkveld Scale+,4,Arkveld Horn+,3,Arkveld Gem,1
+Convert Charm II,8,A charm that grants the Convert Element Skill.,Convert Element,2,16000,Zoh Shia Layershell,6,Zoh Shia Crystalhorn,4,Zoh Shia Crystaltail,2,Faux Whitegleam Orb,1
+Defense Charm I,2,A charm that grants the Defense Boost Skill.,Defense Boost,1,500,Doshaguma Claw,1,Balahara Shell,2,Balahara Skull,1,Machalite Ore,2
+Defense Charm II,4,A charm that grants the Defense Boost Skill.,Defense Boost,2,1500,Guardian Doshaguma Hide,2,Guardian Doshaguma Claw,1,Guardian Doshaguma Fang,1,Dragonite Ore,2
+Defense Charm III,5,A charm that grants the Defense Boost Skill.,Defense Boost,3,3000,Chatacabra Carapace,3,Chatacabra Scale+,4,Quematrice Crest+,2,Firecell Stone,1
+Defense Charm IV,6,A charm that grants the Defense Boost Skill.,Defense Boost,4,6000,Gravios Carapace,2,Gravios Wing,2,Guardian Doshaguma Hide+,4,Guardian Doshaguma Claw+,2
+Blessing Charm I,2,A charm that grants the Divine Blessing Skill.,Divine Blessing,1,500,Chatacabra Scale,2,Quematrice Scale,1,Lala Barina Mucus,1,Earth Crystal,2
+Blessing Charm II,4,A charm that grants the Divine Blessing Skill.,Divine Blessing,2,1500,Hirabami Hide,1,Hirabami Webbing,1,Uth Duna Tentacle,2,Dragonite Ore,2
+Blessing Charm III,5,A charm that grants the Divine Blessing Skill.,Divine Blessing,3,3000,Hirabami Webbing+,4,Rathian Spike+,3,Novacrystal,1,Wyvern Gem,1
+Fire Charm I,2,A charm that grants the Fire Resistance Skill.,Fire Resistance,1,500,Quematrice Scale,2,Quematrice Igniter,1,Iron Ore,2,-,-
+Fire Charm II,4,A charm that grants the Fire Resistance Skill.,Fire Resistance,2,1500,Ajarakan Scale,2,Ajarakan Jewel,1,Kranodath Skull,2,Firestone,1
+Fire Charm III,5,A charm that grants the Fire Resistance Skill.,Fire Resistance,3,3000,Quematrice Scale+,4,Quematrice Igniter+,3,Talioth Scale+,3,Firecell Stone,1
+Water Charm I,2,A charm that grants the Water Resistance Skill.,Water Resistance,1,500,Balahara Scale,2,Balahara Skull,1,Earth Crystal,2,-,-
+Water Charm II,4,A charm that grants the Water Resistance Skill.,Water Resistance,2,1500,Uth Duna Scale,2,Uth Duna Cilia,1,Piragill Fin,2,Icium,2
+Water Charm III,5,A charm that grants the Water Resistance Skill.,Water Resistance,3,3000,Balahara Carapace,4,Balahara Scale+,3,Piragill Fin+,3,Gracium,4
+Thunder Charm I,3,A charm that grants the Thunder Resistance Skill.,Thunder Resistance,1,500,Rompopolo Hide,2,Spotted Poison Hide,1,Earth Crystal,2,-,-
+Thunder Charm II,4,A charm that grants the Thunder Resistance Skill.,Thunder Resistance,2,1500,Rey Dau Scale,2,Rey Dau Wingtalon,1,Bulaqchi Shell,2,Machalite Ore,2
+Thunder Charm III,5,A charm that grants the Thunder Resistance Skill.,Thunder Resistance,3,3000,Rompopolo Hide+,4,Spotted Poison Hide+,3,Talioth Scale+,3,Lightcrystal,2
+Ice Charm I,3,A charm that grants the Ice Resistance Skill.,Ice Resistance,1,500,Congalala Pelt,2,Congalala Fang,1,Earth Crystal,2,-,-
+Ice Charm II,4,A charm that grants the Ice Resistance Skill.,Ice Resistance,2,1500,Hirabami Scale,2,Hirabami Webbing,1,Comaqchi Shell,2,Icium,2
+Ice Charm III,5,A charm that grants the Ice Resistance Skill.,Ice Resistance,3,3000,Hirabami Scale+,4,Hirabami Webbing+,3,Blango Pelt+,3,Gracium,4
+Dragon Charm I,3,A charm that grants the Dragon Resistance Skill.,Dragon Resistance,1,500,Lala Barina Shell,2,Lala Barina Mucus,1,Earth Crystal,2,-,-
+Dragon Charm II,4,A charm that grants the Dragon Resistance Skill.,Dragon Resistance,2,1500,Guardian Doshaguma Fur,2,Guardian Doshaguma Claw,1,Vespoid Shell,2,Firestone,1
+Dragon Charm III,5,A charm that grants the Dragon Resistance Skill.,Dragon Resistance,3,3000,Nerscylla Carapace,4,Nerscylla Shear,2,Vespoid Carapace,2,Novacrystal,1
+Poison Charm I,3,A charm that grants the Poison Resistance Skill.,Poison Resistance,1,500,Rompoplo Claw,2,Rompopolo Beak,1,Monster Fluid,4,-,-
+Poison Charm II,4,A charm that grants the Poison Resistance Skill.,Poison Resistance,2,1500,Nerscylla Shell,2,Nerscylla Spike,1,Bulaqchi Shell,2,Sturdy Bone,2
+Poison Charm III,5,A charm that grants the Poison Resistance Skill.,Poison Resistance,3,3000,Rompopolo Claw+,4,Kut-Ku Carapace,3,Vespoid Carapace,3,Quality Bone,4
+Paralysis Charm I,2,A charm that grants the Paralysis Resistance Skill.,Paralysis Resistance,1,500,Lala Barina Floret,2,Lala Barina Mucus,1,Vespoid Shell,1,-,-
+Paralysis Charm II,4,A charm that grants the Paralysis Resistance Skill.,Paralysis Resistance,2,1500,Nerscylla Claw,2,Lala Barina Shell,1,Vespoid Wing,2,Charred Oilbone,2
+Paralysis Charm III,5,A charm that grants the Paralysis Resistance Skill.,Paralysis Resistance,3,3000,Nerscylla Spike+,3,Lala Barina Floret+,4,Vespoid Carapace,3,Colossal Bone,4
+Sleep Charm I,3,A charm that grants the Sleep Resistance Skill.,Sleep Resistance,1,500,Congalala Claw,2,Congalala Pelt,1,Bulaqchi Shell,1,-,-
+Sleep Charm II,4,A charm that grants the Sleep Resistance Skill.,Sleep Resistance,2,1500,Nerscylla Claw,3,Nerscylla Chelicera,2,Comaqchi Shell,3,Frozen Icebone,3
+Sleep Charm III,5,A charm that grants the Sleep Resistance Skill.,Sleep Resistance,3,3000,Nerscylla Claw+,4,Nerscylla Shear,2,Comaqchi Carapace,3,Quality Bone,4
+Guard Charm I,3,A charm that grants the Iron Skin Skill.,Iron Skin,1,500,Doshaguma Hide,2,Doshaguma Fang,1,Piragill Fin,1,Iron Ore,2
+Guard Charm II,5,A charm that grants the Iron Skin Skill.,Iron Skin,2,3000,Balahara Scale+,6,Balahara Skull+,3,Piragill Fin+,5,Carbalite Ore,4
+Guard Charm III,6,A charm that grants the Iron Skin Skill.,Iron Skin,3,6000,Guardian Doshaguma Hide+,6,Guardian Doshaguma Fang+,4,Guardian Seikret Feather+,5,Beast Gem,1
+Blight Charm I,6,A charm that grants the Blight Resistance Skill.,Blight Resistance,1,6000,Blangonga Pelt+,4,Guardian Fulgur Pelt+,4,Balahara Scale+,2,Hirabami Scale+,2
+Blight Charm II,7,A charm that grants the Blight Resistance Skill.,Blight Resistance,2,9000,Arkveld Scale+,6,White Arkveld Pelt,4,Novacrystal,1,Wyvern Gem,1
+Stun Charm I,3,A charm that grants the Stun Resistance Skill.,Stun Resistance,1,500,Balahara Skull,2,Balahara Shell,1,Talioth Scale,1,-,-
+Stun Charm II,4,A charm that grants the Stun Resistance Skill.,Stun Resistance,2,1500,Ajarakan Ridge,2,Ajarakan Shell,2,Kranodath Skull,2,Sturdy Bone,2
+Stun Charm III,5,A charm that grants the Stun Resistance Skill.,Stun Resistance,3,3000,Balahara Skull+,4,Balahara Carapace,3,Kranodath Skul+,3,Dragonbone Relic,4
+Bleed Charm I,3,A charm that grants the Bleeding Resistance Skill.,Bleeding Resistance,1,500,Guardian Ebony Sinew,2,Guardian Ebony Scale,1,Talioth Scale,1,Iron Ore,2
+Bleed Charm II,5,A charm that grants the Bleeding Resistance Skill.,Bleeding Resistance,2,3000,Hirabami Hide+,6,Hirabami Webbing+,4,Blango Pelt+,5,Carbalite Ore,4
+Bleed Charm III,6,A charm that grants the Bleeding Resistance Skill.,Bleeding Resistance,3,6000,Guardian Ebony Scale+,6,Guardian Ebony Sinew+,4,Guardian Seikret Feather+,2,Beast Gem,1
+Escape Charm I,4,A charm that grants the Bind Resistance Skill.,Bind Resistance,1,1500,Nerscylla Shell,2,Nerscylla Claw,1,Vespoid Shell,1,Earth Crystal,2
+Escape Charm II,6,A charm that grants the Bind Resistance Skill.,Bind Resistance,2,6000,Guardian Ebony Sinew+,4,Guardian Ebony Claw+,3,Nerscylla Spike,2,Carbalite Ore,4
+Escape Charm III,7,A charm that grants the Bind Resistance Skill.,Bind Resistance,3,9000,Jin Dahaad Iceplate,4,Jin Dahaad Claw+,3,Blangonga Fang+,4,Freezer Sac,4
+Blast Charm I,3,A charm that grants the Blast Resistance Skill.,Blast Resistance,1,500,Quematrice Hide,2,Quematrice Igniter,1,Wingdrake Hide,1,-,-
+Blast Charm II,4,A charm that grants the Blast Resistance Skill.,Blast Resistance,2,1500,Ajarakan Scale,2,Ajarakan Ridge,1,Herbivore Shell,2,Firestone,1
+Blast Charm III,5,A charm that grants the Blast Resistance Skill.,Blast Resistance,3,3000,Ajarakan Scale+,5,Rathian Scale+,3,Wingdrake Hide+,3,Firecell Stone,1
+Recovery Charm I,3,A charm that grants the Recovery Up Skill.,Recovery Up,1,500,Lala Barina Floret,2,Lala Barina Mucus,1,Congalala Pelt,1,Sturdy Bone,2
+Recovery Charm II,4,A charm that grants the Recovery Up Skill.,Recovery Up,2,1500,Nerscylla Claw,2,Nerscylla Chelicera,1,Spotted Poison Hide,1,Charred Oilbone,2
+Recovery Charm III,5,A charm that grants the Recovery Up Skill.,Recovery Up,3,3000,Lala Barina Floret+,6,Lala Barina Mucus+,4,Giant Beak,4,Bird Wyvern Gem,1
+Speed Heal Charm I,2,A charm that grants the Recovery Speed Skill.,Recovery Speed,1,500,Doshaguma Hide,2,Doshaguma Fang,1,Chatacabra Hide,1,Brute Bone,1
+Speed Heal Charm II,4,A charm that grants the Recovery Speed Skill.,Recovery Speed,2,1500,Hirabami Hide,2,Hirabami Webbing,1,Lala Barina Certificate,1,Frozen Icebone,2
+Speed Heal Charm III,5,A charm that grants the Recovery Speed Skill.,Recovery Speed,3,3000,Gypceros Wing,4,Gypceros Tail,1,Rompopolo Beak+,2,Dragonbone Relic,1
+Survival Charm I,3,A charm that grants the Survival Expert Skill.,Survival Expert,1,500,Lala Barina Floret,2,Lala Barina Shell,1,Vespoid Shell,1,-,-
+Survival Charm II,5,A charm that grants the Survival Expert Skill.,Survival Expert,2,3000,Lala Barina Floret+,5,Lala Barain Carapace,3,Herbivore Carapace,4,Carbalite Ore,4
+Survival Charm III,6,A charm that grants the Survival Expert Skill.,Survival Expert,3,6000,Blangonga Pelt+,5,Blangonga Fang+,3,Vespoid Innerwing,3,Dragonbone Relic,1
+Fitness Charm I,4,A charm that grants the Constitution Skill.,Constitution,1,1500,Ajarakan Scale,2,Ajarakan Jewel,1,Ajarakan Ridge,1,Kranodath Skull,1
+Fitness Charm II,5,A charm that grants the Constitution Skill.,Constitution,2,3000,Kut-Ku Scale+,6,Kut-Ku Wing,4,Kut-Ku Ear,3,Carbalite Ore,5
+Fitness Charm III,6,A charm that grants the Constitution Skill.,Constitution,3,6000,Guardian Ebony Claw+,4,Guardian Ebony Fang+,3,Guardian Doshaguma Claw+,3,Beast Gem,1
+Fitness Charm IV,7,A charm that grants the Constitution Skill.,Constitution,4,9000,Gore Magala Wing+,4,Gore Magala Tail,2,Guardian Odogaron Gem,1,Gore Magala Nyctgem,1
+Surge Charm I,4,A charm that grants the Stamina Surge Skill.,Stamina Surge,1,1500,Xu Wu Hide,2,Xu Wu Claw,1,Nu Udra Hide,1,Xu Wu Cerebrospinal Fluid,1
+Surge Charm II,5,A charm that grants the Stamina Surge Skill.,Stamina Surge,2,3000,Rubbery Hide+,4,Gypceros Tail,2,Lightcrystal,2,Bird Wyvern Gem,1
+Surge Charm III,6,A charm that grants the Stamina Surge Skill.,Stamina Surge,3,6000,Golden Corneum+,6,Xu Wu Claw+,4,Doshaguma Fang+,3,Xu Wu Umbragem,1
+Marathon Charm I,4,A charm that grants the Marathon Runner Skill.,Marathon Runner,1,1500,Guardian Doshaguma Fur,2,Guardian Doshaguma Claw,1,Guardian Doshaguma Fang,1,Guardian Seikret Feather,1
+Marathon Charm II,5,A charm that grants the Marathon Runner Skill.,Marathon Runner,2,3000,Rubbery Hide+,4,Gypceros Head,3,Chatacabra Scale+,3,Bird Wyvern Gem,1
+Marathon Charm III,6,A charm that grants the Marathon Runner Skill.,Marathon Runner,3,6000,Guardian Fulgur Scale+,6,Guardian Fulgur Fang+,4,Doshaguma Claw+,3,Guardian Fulgur Gem,1
+Hungerless Charm I,2,A charm that grants the Hunger Resistance Skill.,Hunger Resistance,1,500,Balahara Scale,2,Balahara Tail,1,Sharp Fang,1,-,-
+Hungerless Charm II,4,A charm that grants the Hunger Resistance Skill.,Hunger Resistance,2,1500,Hirabami Scale,2,Hirabami Webbing,1,Talioth Scale,2,Frozen Icebone,2
+Hungerless Charm III,5,A charm that grants the Hunger Resistance Skill.,Hunger Resistance,3,3000,Chatacabra Scale+,4,Chatacabra Carapace,2,Congalala Fang+,1,Dragonbone Relic,1
+Challenger Charm I,5,A charm that grants the Agitator Skill.,Agitator,1,3000,Rathian Scale +,6,Rathian Webbing,3,Kut-Ku Scale+,5,Wyvern Gem,1
+Challenger Charm II,7,A charm that grants the Agitator Skill.,Agitator,2,9000,Hunter's Symbol III,5,Hunter's Symbol II,3,Uth Duna Watergem,1,Guardian Rathalos Ruby,1
+Power Charm I,5,A charm that grants the Latent Power Skill.,Latent Power,1,3000,Hirabami Scale+,6,Quematrice Igniter+,3,Quematrice Crest,3,Wyvern Gem,1
+Power Charm II,7,A charm that grants the Latent Power Skill.,Latent Power,2,9000,Hunter Symbol III,5,Hunter Symbol II,3,Rey Dau Boltgem,1,Guardian Fulgur Gem,1
+Grit Charm I,4,A charm that grants the Heroics Skill.,Heroics,1,1500,Guardian Doshaguma Fur,2,Guardian Doshaguma Claw,1,Guardian Seikret Feather,2,Dragonite Ore,2
+Grit Charm II,6,A charm that grants the Heroics Skill.,Heroics,2,6000,Guardian Doshaguma Fur+,6,Guardian Doshaguma Claw+,4,Guardian Seikret Feather+,5,Firecell Stone,1
+Grit Charm III,7,A charm that grants the Heroics Skill.,Heroics,3,9000,Hunter Symbol III,3,Rey Dau Bolthorn,3,Xu Wu Claw+,4,Xu Wu Umbragem,1
+Foray Charm I,4,A charm that grants the Foray Skill.,Foray,1,1500,Spotted Poison Hide,2,Lala Barina Floret,1,Vespoid Wing,2,Earth Crystal,2
+Foray Charm II,6,A charm that grants the Foray Skill.,Foray,2,6000,Hunter Symbol II,3,Gravios Pleura+,4,Rathian Spike+,3,Rathian Ruby,1
+Chain Charm I,5,A charm that grants the Burst Skill.,Burst,1,3000,Nerscylla Shear,3,Nerscylla Claw+,4,Congalala Claw+,6,Beast Gem,1
+Chain Charm II,7,A charm that grants the Burst Skill.,Burst,2,9000,Hunter Symbol III,5,Hunter Symbol II,3,Guardian Ebony Gem,1,Nu Udra Flamegem,1
+Chainblade Charm I,4,A charm that grants the Flayer Skill.,Flayer,1,1500,Guardian Blood,2,Guardian Scale,1,Guardian Pelt,1,Guardian Seikret Feather,1
+Chainblade Charm II,7,A charm that grants the Flayer Skill.,Flayer,2,9000,Hunter Symbol III,5,Arkveld Armorplate,5,Arkveld Calloushell,3,Arkveld Gem,1
+Breaker Charm I,5,A charm that grants the Partbreaker Skill.,Partbreaker,1,3000,Balahara Skull+,3,Chatacabra Carapace,4,Piragill Fin+,2,Beast Gem,1
+Breaker Charm II,7,A charm that grants the Partbreaker Skill.,Partbreaker,2,9000,Rey Dau Bolthorn,3,Ajarakan Jewel+,4,Kranodath Skull+,5,Ajarakan Medulla,1
+Phoenix Charm I,6,A charm that grants the Coalescence Skill.,Coalescence,1,6000,Guardian Rathalos Wing,4,Xu Wu Tentacle+,3,Guardian Seikret Feather,5,Beast Gem,1
+Phoenix Charm II,7,A charm that grants the Coalescence Skill.,Coalescence,2,9000,Gore Magala Scale+,6,Gore Magala Wing+,4,Gore Magala Feeler+,3,Gore Magala Nyctgem,1
+Descent Charm I,4,A charm that grants the Ambush Skill.,Ambush,1,1500,Golden Corneum,2,Xu Wu Tentacle,1,Xu Wu Fang,1,Firestone,1
+Descent Charm II,6,A charm that grants the Ambush Skill.,Ambush,2,6000,Golden Corneum+,6,Xu Wu Tentacle+,4,Xu Wu Fang+,2,Xu Wu Umbragem,1
+Descent Charm III,7,A charm that grants the Ambush Skill.,Ambush,3,9000,Hunter Symbol III,5,Hunter Symbol II,3,Nu Udra Flamegem,1,Ajarakan Medulla,1
+Sanity Charm I,5,A charm that grants the Antivirus Skill.,Antivirus,1,3000,Frenzy Shard,5,Nerscylla Shear,2,Hirabami Tail Claw+,2,Carbalite Ore,4
+Sanity Charm II,6,A charm that grants the Antivirus Skill.,Antivirus,2,6000,Frenzy Crystal,5,Blangonga Pelt+,4,Blangonga Whisker,3,Novacrystal,1
+Sanity Charm III,7,A charm that grants the Antivirus Skill.,Antivirus,3,9000,Gore Magala Scale+,6,Gore Magala Ripclaw+,4,Gore Magala Feeler+,2,Gore Magala Nyctgem,1
+Imbibe Charm I,7,A charm that grants the Elemental Absorption Skill.,Elemental Absorption,1,9000,Hunter Symbol III,5,White Arkveld Pelt,4,Arkveld Tail,2,Arkveld Gem,1
+Evasion Charm I,4,A charm that grants the Evade Window Skill.,Evade Window,1,1500,Hirabami Scale,1,Hirabami Tail Claw,1,Doshaguma Claw,1,Icium,2
+Evasion Charm II,5,A charm that grants the Evade Window Skill.,Evade Window,2,3000,Hirabami Hide+,6,Hirabami Tail Claw+,3,Herbivore Carapace,5,Firecell Stone,1
+Evasion Charm III,6,A charm that grants the Evade Window Skill.,Evade Window,3,6000,Rathalos Scale+,6,Rathalos Wing,4,Ajarakan Ridge+,3,Rathalos Ruby,1
+Leaping Charm I,4,A charm that grants the Evade Extender Skill.,Evade Extender,1,1500,Balahara Shell,2,Balahara Skull,1,Nerscylla Claw,1,Dragonite Ore,2
+Leaping Charm II,5,A charm that grants the Evade Extender Skill.,Evade Extender,2,3000,Balahara Carapace,6,Lala Barina Claw+,4,Talioth Scale+,5,Wyvern Gem,1
+Leaping Charm III,6,A charm that grants the Evade Extender Skill.,Evade Extender,3,9000,Rathalos Carapace,6,Rathalos Wing,4,Ajarakan Ridge+,3,Rathalos Ruby,1
+Earplugs Charm I,6,A charm that grants the Earplugs Skill.,Earplugs,1,6000,Rathalos Carapace,6,Rathalos Wing,4,Kut-Ku Ear,2,Rathalos Ruby,1
+Sheathe Charm I,4,A charm that grants the Quick Sheathe Skill.,Quick Sheathe,1,1500,Hirabami Tail Claw,1,Balahara Scale,2,Balahara Skull,1,Dragonite Ore,2
+Sheathe Charm II,5,A charm that grants the Quick Sheathe Skill.,Quick Sheathe,2,3000,Spotted Poison Hide+,4,Rompopolo Beak+,3,Kranodath Skull+,5,Ajarakan Marrow,1
+Sheathe Charm III,6,A charm that grants the Quick Sheathe Skill.,Quick Sheathe,3,6000,Guardian Fulgur Fang+,4,Guardian Fulgur Nosebone+,3,Guardian Rathalos Wing,3,Guardian Fulgur Gem,1
+Windproof Charm I,4,A charm that grants the Windproof Skill.,Windproof,1,1500,Guardian Doshaguma Hide,2,Guardian Doshaguma Fang,1,Congalala Pelt,1,Dragonite Ore,2
+Windproof Charm II,5,A charm that grants the Windproof Skill.,Windproof,2,3000,Kut-Ku Carapace,6,Kut-Ku Wing,4,Giant Beak,2,Bird Wyvern Gem,1
+Windproof Charm III,6,A charm that grants the Windproof Skill.,Windproof,3,6000,Guardian Rathalos Carapace,6,Guardian Rathalos Wing,4,Rathian Spike+,3,Rathian Ruby,1
+Tremor Charm I,4,A charm that grants the Tremor Resistance Skill.,Tremor Resistance,1,1500,Ajarakan Shell,2,Ajarakan Ridge,1,Congalala Claw,1,Dragonite Ore,2
+Tremor Charm II,5,A charm that grants the Tremor Resistance Skill.,Tremor Resistance,2,3000,Balahara Carapace,4,Chatacabra Hide+,6,Chatacabra Carapace,4,Carbalite Ore,4
+Tremor Charm III,6,A charm that grants the Tremor Resistance Skill.,Tremor Resistance,3,6000,Gravios Carapace,6,Gravios Pleura+,3,Guardian Doshaguma Claw+,3,Firecell Stone,2
+Impact Charm I,3,A charm that grants the Flinch Free Skill.,Flinch Free,1,500,Quematrice Scale,2,Quematrice Hide,1,Kranodath Skull,2,Iron Ore,2
+Impact Charm II,4,A charm that grants the Flinch Free Skill.,Flinch Free,2,1500,Guardian Rathalos Shell,2,Guardian Rathalos Webbing,1,Piragill Fin,2,Machalite Ore,2
+Impact Charm III,5,A charm that grants the Flinch Free Skill.,Flinch Free,3,3000,Quematrice Scale+,4,Quematrice Crest+,2,Piragill Fin+,4,Dragonbone Relic,1
+Intimidator Charm I,3,A charm that grants the Intimidator Skill.,Intimidator,1,500,Doshaguma Fur,2,Doshaguma Claw,1,Monster Fluid,2,Iron Ore,2
+Intimidator Charm II,5,A charm that grants the Intimidator Skill.,Intimidator,2,3000,Rathian Scale+,5,Rathian Webbing,3,Monster Broth,3,Carbalite Ore,4
+Intimidator Charm II,6,A charm that grants the Intimidator Skill.,Intimidator,3,6000,Guardian Rathalos Scale+,5,Guardian Rathalos Wing,3,Guardian Rathlos Tail,1,Firecell Stone,2
+Glutton's Charm I,2,A charm that grants the Speed Eating Skill.,Speed Eating,1,500,Doshaguma Fur,2,Doshaguma Fang,1,Chatacabra Scale,1,Brute Bone,1
+Glutton's Charm II,4,A charm that grants the Speed Eating Skill.,Speed Eating,2,1500,Guardian Ebony Claw,1,Guardian Ebony Fang,1,Nu Udra Horn,2,Tough Guardian Bone,1
+Glutton's Charm III,5,A charm that grants the Speed Eating Skill.,Speed Eating,3,3000,Guardian Fulgur Fang+,4,Rathian Webbing,2,Chatacabra Jaw+,4,Rath Medulla,1
+Friendship Charm I,3,A charm that grants the Wide-Range Skill.,Wide-Range,1,500,Rompoplo Hide,2,Spotted Poison Hide,1,Wingdrake Hide,1,Earth Crystal,2
+Friendship Charm II,4,A charm that grants the Wide-Range Skill.,Wide-Range,2,1500,Hirabami Hide,2,Hirabami Tail Claw,1,Herbivore Shell,2,Machalite Ore,2
+Friendship Charm III,5,A charm that grants the Wide-Range Skill.,Wide-Range,3,1500,Guardian Rathalos Scale,3,Guardian Rathalos Tail,1,Comaqchi Shell,3,Dragonite Ore,2
+Friendship Charm IV,5,A charm that grants the Wide-Range Skill.,Wide-Range,4,3000,HIrabami Tail Claw+,3,Spotted Poison Hide+,4,Wingdrake Hide+,5,Wyvern Gem,1
+Maintenance Charm I,4,A charm that grants the Tool Specialist Skill.,Tool Specialist,1,1500,Uth Duna Scale,2,Uth Duna Cilia,1,Piragill Fin,2,Machalite Ore,2
+Maintenance Charm II,6,A charm that grants the Tool Specialist Skill.,Tool Specialist,2,6000,Gravios Carapace,6,Gravios Skull,3,Vibrant Pelt+,2,Gravios Medulla,1
+Maintenance Charm III,7,A charm that grants the Tool Specialist Skill.,Tool Specialist,3,9000,Hunter Symbol III,3,Uth Duna  Scale+,4,Uth Duna Tentacle+,2,Uth Duna Watergem,1
+Bombardier Charm I,4,A charm that grants the Bombardier Skill.,Bombardier,1,1500,Ajarakan Shell,2,Ajarakan Jewel,1,Kranodath Skull,1,Firestone,1
+Bombardier Charm II,5,A charm that grants the Bombardier Skill.,Bombardier,2,3000,Quematrice Scale+,3,Quematrice Igniter+,2,Kranodath Skull+,4,Firecell Stone,1
+Bombardier Charm III,6,A charm that grants the Bombardier Skill.,Bombardier,3,6000,Ajarankan Carapace,4,Ajarakan Jewel+,2,Inferno Sac,2,Beast Gem,1
+Mushroom Charm I,4,A charm that grants the Mushroomancer Skill.,Mushroomancer,1,1500,Nerscylla Chelicera,11,Congalala Claw,2,Conga Pelt,1,Charred Oilbone,2
+Mushroom Charm II,6,A charm that grants the Mushroomancer Skill.,Mushroomancer,2,6000,Guardian Doshaguma Fang+,4,Guardian Doshaguma Claw+,3,Congalala Fang+,3,Beast Gem,1
+Mushroom Charm III,7,A charm that grants the Mushroomancer Skill.,Mushroomancer,3,9000,Hunter Symbol III,5,Hunter Symbol II,3,Guardian Fulgur Gem,1,Uth Duna Watergem,1
+Extension Charm I,3,A charm that grants the Item Prolonger Skill.,Item Prolonger,1,500,Chatacabra Scale,2,Chatacabra Hide,1,Herbivore Shell,1,Iron Ore,2
+Extension Charm II,4,A charm that grants the Item Prolonger Skill.,Item Prolonger,2,1500,Spotted Poison Hide,2,Doshaguma Hide,1,Bulaqchi Shell,2,Dragonite Ore,2
+Extension Charm III,5,A charm that grants the Item Prolonger Skill.,Item Prolonger,3,3000,Chatacabra Scale+,4,Chatacabra Jaw+,2,Lala Barina Mucus+,2,Novacrystal,1
+Light Eater's Charm I,4,A charm that grants the Free Meal Skill.,Free Meal,1,1500,Guardian Doshaguma Fang,1,Doshaguma Claw,2,Talioth Scale,1,Brute Bone,1
+Light Eater's Charm II,5,A charm that grants the Free Meal Skill.,Free Meal,2,3000,Congalala Pelt+,4,Congalala Fang+,2,Conga Pelt+,3,Quality Bone,1
+Light Eater's Charm III,6,A charm that grants the Free Meal Skill.,Free Meal,3,6000,Doshaguma Fur+,4,Doshaguma Claw+,2,Ajarakan Scale+,4,Dragonbone Relic,1
+Botany Charm I,2,A charm that grants the Botanist Skill.,Botanist,1,500,Congalala Claw,2,Congalala Fang,1,Conga Pelt,1,-,-
+Botany Charm II,4,A charm that grants the Botanist Skill.,Botanist,2,1500,Nerscylla Claw,2,Congalala Pelt,1,Herbivore Shell,2,Brute Bone,2
+Botany Charm III,4,A charm that grants the Botanist Skill.,Botanist,3,1500,Guardian Rathalos Scale,2,Nerscylla Spike,2,Comaqchi Shell,2,Charred Oilbone,2
+Botany Charm IV,5,A charm that grants the Botanist Skill.,Botanist,4,3000,Nerscylla Spike+,4,Congalala Fang+,4,Conga Pelt+,5,Dragonbone Relic,1
+Geology Charm I,2,A charm that grants the Geologist Skill.,Geologist,1,500,Balahara Scale,2,Balahara Shell,1,Sturdy Bone,2,-,-
+Geology Charm II,4,A charm that grants the Geologist Skill.,Geologist,2,1500,Rompoplo Claw,2,Rompopolo Beak,2,Machalite Ore,2,Dragonite Ore,2
+Geology Charm III,5,A charm that grants the Geologist Skill.,Geologist,3,3000,Balahara Scale+,6,Balahara Skull+,4,Novacrystal,1,Wyvern Gem,1

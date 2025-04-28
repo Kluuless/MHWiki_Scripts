@@ -1,0 +1,46 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Azuz α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Azuz α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Azuz α
+|Rarity                        = 6
+|Weapon Name                   = <!-- No Felyne Azuz α Weapon -->
+|Weapon Forge Cost             = 1800z
+|Head Name                     = Felyne Azuz Head α
+|Head Defense                  = 34
+|Head Fire Res                 = 4
+|Head Water Res                = 1
+|Head Thunder Res              = 1
+|Head Ice Res                  = 1
+|Head Dragon Res               = 1
+|Head Description              = A…helmet(?) unearthed in the Oilwell Basin. Any who put it on report strange and unintelligible mutterings filling their mind.
+|Head Forge Cost               = 1800z
+|Head Material 1 Name          = Azuz Tanned Leather
+|Head Material 1 Icon Type     = Hide
+|Head Material 1 Icon Color    = Brown
+|Head Material 1 Quantity      = 1
+|Head Material 2 Name          = Charred Oilbone
+|Head Material 2 Icon Type     = Bone
+|Head Material 2 Icon Color    = Gray
+|Head Material 2 Quantity      = 1
+|Torso Name                    = Felyne Azuz Body α
+|Torso Defense                 = 34
+|Torso Fire Res                = 4
+|Torso Water Res               = 1
+|Torso Thunder Res             = 1
+|Torso Ice Res                 = 1
+|Torso Dragon Res              = 1
+|Torso Description             = Some…armor(?) unearthed in the Oilwell Basin. Those who don it report their body suddenly moving against their will.
+|Torso Forge Cost              = 1800z
+|Torso Material 1 Name         = Azuz Tanned Leather
+|Torso Material 1 Icon Type    = Hide
+|Torso Material 1 Icon Color   = Brown
+|Torso Material 1 Quantity     = 1
+|Torso Material 2 Name         = Firestone
+|Torso Material 2 Icon Type    = Ore
+|Torso Material 2 Icon Color   = Vermilion
+|Torso Material 2 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

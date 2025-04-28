@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Arkveld α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Arkveld α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Arkveld α
+|Rarity                        = 8
+|Weapon Name                   = Felyne Arkveld Sword α
+|Weapon Attack Type            = Severing
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 44
+|Weapon Affinity               = 0
+|Weapon Ranged Attack          = 54
+|Weapon Description            = The squire of a lost kingdom fought against fate alongside their knightly master with this Arkveld blade in paw.
+|Weapon Forge Cost             = 3000z
+|Weapon Ailment Type           = Dragon
+|Weapon Ailment Damage         = 40
+|Weapon Material 1 Name        = Arkveld Calloushell
+|Weapon Material 1 Icon Type   = Wing
+|Weapon Material 1 Icon Color  = White
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = Felyne Arkveld Helm α
+|Head Defense                  = 54
+|Head Fire Res                 = 2
+|Head Water Res                = 0
+|Head Thunder Res              = -1
+|Head Ice Res                  = 0
+|Head Dragon Res               = -3
+|Head Description              = An Arkveld Helmet modeled after that of a squire who served the knight of a fallen kingdom.
+|Head Forge Cost               = 3000z
+|Head Material 1 Name          = White Arkveld Pelt
+|Head Material 1 Icon Type     = Hide
+|Head Material 1 Icon Color    = White
+|Head Material 1 Quantity      = 1
+|Torso Name                    = Felyne Arkveld Mail α
+|Torso Defense                 = 54
+|Torso Fire Res                = 2
+|Torso Water Res               = 0
+|Torso Thunder Res             = -1
+|Torso Ice Res                 = 0
+|Torso Dragon Res              = -3
+|Torso Description             = Arkveld mail modeled after a squire said to have faithfully served their master until the very end.
+|Torso Forge Cost              = 3000z
+|Torso Material 1 Name         = Arkveld Scale+
+|Torso Material 1 Icon Type    = Scale
+|Torso Material 1 Icon Color   = White
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

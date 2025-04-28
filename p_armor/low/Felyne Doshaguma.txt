@@ -1,0 +1,48 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Doshaguma set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Doshaguma Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Doshaguma
+|Rarity                        = 2
+|Weapon Name                   = F Doshaguma Knuckle
+|Weapon Attack Type            = Blunt
+|Weapon Defense                = 5
+|Weapon Melee Attack           = 13
+|Weapon Affinity               = -5
+|Weapon Ranged Attack          = 13
+|Weapon Description            = Taking up this Doshaguma weapon makes the wielder want to chomp its fangs into, well, everything.
+|Weapon Forge Cost             = 200z
+|Weapon Material 1 Name        = Doshaguma Fang
+|Weapon Material 1 Icon Type   = Claw
+|Weapon Material 1 Icon Color  = Brown
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = F Doshaguma Helm
+|Head Defense                  = 10
+|Head Fire Res                 = -3
+|Head Water Res                = 2
+|Head Thunder Res              = -1
+|Head Ice Res                  = -1
+|Head Dragon Res               = 4
+|Head Description              = The wild hair bursting from this Doshaguma helm is for intimidation. The little braids are for cuteness.
+|Head Forge Cost               = 200z
+|Head Material 1 Name          = Doshaguma Fur
+|Head Material 1 Icon Type     = Hide
+|Head Material 1 Icon Color    = Brown
+|Head Material 1 Quantity      = 1
+|Torso Name                    = F Doshaguma Mail
+|Torso Defense                 = 10
+|Torso Fire Res                = -3
+|Torso Water Res               = 2
+|Torso Thunder Res             = -1
+|Torso Ice Res                 = -1
+|Torso Dragon Res              = 4
+|Torso Description             = The restraints compromising this Doshaguma mail are fearsome, but a bit tough to move in…
+|Torso Forge Cost              = 200z
+|Torso Material 1 Name         = Doshaguma Hide
+|Torso Material 1 Icon Type    = Hide
+|Torso Material 1 Icon Color   = Brown
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

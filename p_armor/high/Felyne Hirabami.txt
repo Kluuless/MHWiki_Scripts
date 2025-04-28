@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Hirabami α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Hirabami α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Hirabami α
+|Rarity                        = 5
+|Weapon Name                   = Felyne Hirabami Fan α
+|Weapon Attack Type            = Severing
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 34
+|Weapon Affinity               = 0
+|Weapon Ranged Attack          = 38
+|Weapon Description            = A legendary fan of Hirabami hide, able to conjure the wind and rain with a single swing…is what inspired this replica.
+|Weapon Forge Cost             = 1500z
+|Weapon Ailment Type           = Ice
+|Weapon Ailment Damage         = 28
+|Weapon Material 1 Name        = Hirabami Tail Claw+
+|Weapon Material 1 Icon Type   = Claw
+|Weapon Material 1 Icon Color  = Purple
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = Felyne Hirabami Cap α
+|Head Defense                  = 30
+|Head Fire Res                 = -3
+|Head Water Res                = 2
+|Head Thunder Res              = -2
+|Head Ice Res                  = 3
+|Head Dragon Res               = 0
+|Head Description              = The oversized ribbon accent adds charm to this braided leather headgear made of Hirabami parts.
+|Head Forge Cost               = 1500z
+|Head Material 1 Name          = Hirabami Hide+
+|Head Material 1 Icon Type     = Hide
+|Head Material 1 Icon Color    = Purple
+|Head Material 1 Quantity      = 1
+|Torso Name                    = Felyne Hirabami Robe α
+|Torso Defense                 = 30
+|Torso Fire Res                = -3
+|Torso Water Res               = 2
+|Torso Thunder Res             = -2
+|Torso Ice Res                 = 3
+|Torso Dragon Res              = 0
+|Torso Description             = A robe fit for a sage from a faraway land. The long, billowy sleeves are both elegant and adorable.
+|Torso Forge Cost              = 1500z
+|Torso Material 1 Name         = Hirabami Scale+
+|Torso Material 1 Icon Type    = Scale
+|Torso Material 1 Icon Color   = Purple
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

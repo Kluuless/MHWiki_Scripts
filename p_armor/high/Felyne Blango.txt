@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Blango α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Blango α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Blango α
+|Rarity                        = 6
+|Weapon Name                   = Felyne Blango Banana α
+|Weapon Attack Type            = Severing
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 46
+|Weapon Affinity               = -10
+|Weapon Ranged Attack          = 44
+|Weapon Description            = Hewn from a Blangonga's tusk, this weapon bears the faint scent of bananas.
+|Weapon Forge Cost             = 2000z
+|Weapon Ailment Type           = Ice
+|Weapon Ailment Damage         = 18
+|Weapon Material 1 Name        = Blangonga Fang+
+|Weapon Material 1 Icon Type   = Claw
+|Weapon Material 1 Icon Color  = White
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = Felyne Blango Head α
+|Head Defense                  = 38
+|Head Fire Res                 = -4
+|Head Water Res                = 1
+|Head Thunder Res              = 0
+|Head Ice Res                  = 4
+|Head Dragon Res               = 0
+|Head Description              = Pop this Blangonga headgear on, and your "meows" will all come out as "oo-oo ah-ahs"!
+|Head Forge Cost               = 2000z
+|Head Material 1 Name          = Blangonga Pelt+
+|Head Material 1 Icon Type     = Hide
+|Head Material 1 Icon Color    = White
+|Head Material 1 Quantity      = 1
+|Torso Name                    = Fleyne Blango Body α
+|Torso Defense                 = 38
+|Torso Fire Res                = -4
+|Torso Water Res               = 1
+|Torso Thunder Res             = 0
+|Torso Ice Res                 = 4
+|Torso Dragon Res              = 0
+|Torso Description             = This fluffy Blangonga armor is heaven to wear, but it makes your legs look a bit stubby…
+|Torso Forge Cost              = 2000z
+|Torso Material 1 Name         = Blangonga Tail
+|Torso Material 1 Icon Type    = Tail
+|Torso Material 1 Icon Color   = White
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

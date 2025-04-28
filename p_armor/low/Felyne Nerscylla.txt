@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Nerscylla set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Nerscylla Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Nerscylla
+|Rarity                        = 3
+|Weapon Name                   = Felyne Nerscylla Wedge
+|Weapon Attack Type            = Severing
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 9
+|Weapon Affinity               = 15
+|Weapon Ranged Attack          = 9
+|Weapon Description            = Made from the keenest Nerscylla parts, its sharp edge snares prey as easily as spider silk.
+|Weapon Forge Cost             = 200z
+|Weapon Ailment Type           = Sleep
+|Weapon Ailment Damage         = 12
+|Weapon Material 1 Name        = Nerscylla Claw
+|Weapon Material 1 Icon Type   = Claw
+|Weapon Material 1 Icon Color  = White
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = Felyne Scylla Mask
+|Head Defense                  = 14
+|Head Fire Res                 = -2
+|Head Water Res                = 2
+|Head Thunder Res              = -2
+|Head Ice Res                  = 1
+|Head Dragon Res               = 2
+|Head Description              = A mask that covers the head. The opaque goggles are too cool for Palico school.
+|Head Forge Cost               = 200z
+|Head Material 1 Name          = Nerscylla Spike
+|Head Material 1 Icon Type     = Monster Part
+|Head Material 1 Icon Color    = White
+|Head Material 1 Quantity      = 1
+|Torso Name                    = Felyne Scylla Mail
+|Torso Defense                 = 14
+|Torso Fire Res                = -2
+|Torso Water Res               = 2
+|Torso Thunder Res             = -2
+|Torso Ice Res                 = 1
+|Torso Dragon Res              = 2
+|Torso Description             = A suit that covers the body. Painstakingly crafted, it exudes bewitching beauty.
+|Torso Forge Cost              = 200z
+|Torso Material 1 Name         = Nerscylla Shell
+|Torso Material 1 Icon Type    = Shell
+|Torso Material 1 Icon Color   = White
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

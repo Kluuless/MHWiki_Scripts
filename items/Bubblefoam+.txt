@@ -1,0 +1,39 @@
+{{GenericNav|MHWilds}}
+<br>
+{{MHWildsInfobox
+|English Name = Bubblefoam+|Japanese Name = ???|Type = Equipment Material|Image = MHWilds-Chemical Icon Purple.png|Description = The top layer of the Mizutsune fluid. Removes impurities and is used in many rituals.|Rarity = 6|Price = 3150|Carry Limit = -}}
+
+=Crafting Recipes=
+{| class="wikitable" style="text-align:center;"
+! Number !! Result !! !! Material A !! !! Material B
+|-
+|}
+=Sources=
+==Quests==
+<div class="threecol" style="clear:both;">
+<div>
+</div>
+</div>
+==Monsters==
+<div class="threecol">
+<div>
+</div>
+</div>
+==Gathering <ref>[[User:Cola|Cola's]] interactive MHWilds map (https://c-ola.github.io/wildsmap/)</ref>==
+<div class="threecol">
+<div>
+</div>
+</div>
+==Other==
+=Forging=
+==Weapons==
+<div class="threecol">
+<div>
+</div>
+</div>
+==Armor==
+<div class="threecol">
+<div>
+</div>
+</div>
+[[Category:MHWilds Items]]

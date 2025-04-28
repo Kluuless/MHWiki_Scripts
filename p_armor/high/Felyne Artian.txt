@@ -1,0 +1,60 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Artian α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Artian α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Artian α
+|Rarity                        = 6
+|Weapon Name                   = Felyne Artian Disk α
+|Weapon Attack Type            = Severing
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 44
+|Weapon Affinity               = 0
+|Weapon Ranged Attack          = 44
+|Weapon Description            = A disc-shaped weapon made from a mysterious mined metal. Slices its target into pieces.
+|Weapon Forge Cost             = 1800z
+|Weapon Material 1 Name        = Gracium
+|Weapon Material 1 Icon Type   = Ore
+|Weapon Material 1 Icon Color  = Blue
+|Weapon Material 1 Quantity    = 1
+|Weapon Material 2 Name        = Frenzy Shard
+|Weapon Material 2 Icon Type   = Crystal
+|Weapon Material 2 Icon Color  = Purple
+|Weapon Material 2 Quantity    = 1
+|Head Name                     = Felyne Artian Core α
+|Head Defense                  = 34
+|Head Fire Res                 = 1
+|Head Water Res                = -2
+|Head Thunder Res              = -2
+|Head Ice Res                  = 2
+|Head Dragon Res               = 3
+|Head Description              = A highly sturdy Palico helm made from a mysterious mined metal.
+|Head Forge Cost               = 1800z
+|Head Material 1 Name          = Gracium
+|Head Material 1 Icon Type     = Ore
+|Head Material 1 Icon Color    = Blue
+|Head Material 1 Quantity      = 1
+|Head Material 2 Name          = Frenzy Shard
+|Head Material 2 Icon Type     = Crystal
+|Head Material 2 Icon Color    = Purple
+|Head Material 2 Quantity      = 1
+|Torso Name                    = Felyne Artian Gear α
+|Torso Defense                 = 34
+|Torso Fire Res                = 1
+|Torso Water Res               = -2
+|Torso Thunder Res             = -2
+|Torso Ice Res                 = 2
+|Torso Dragon Res              = 3
+|Torso Description             = The materials in this suit inexplicably magnetize, keeping Palicoes afloat.
+|Torso Forge Cost              = 1800z
+|Torso Material 1 Name         = Gracium
+|Torso Material 1 Icon Type    = Ore
+|Torso Material 1 Icon Color   = Blue
+|Torso Material 1 Quantity     = 1
+|Torso Material 2 Name         = Frenzy Shard
+|Torso Material 2 Icon Type    = Crystal
+|Torso Material 2 Icon Color   = Purple
+|Torso Material 2 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

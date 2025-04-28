@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Balahara set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Balahara Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Balahara
+|Rarity                        = 2
+|Weapon Name                   = Felyne Balahara Drill
+|Weapon Attack Type            = Severing
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 6
+|Weapon Affinity               = 5
+|Weapon Ranged Attack          = 8
+|Weapon Description            = Equal parts weapon and tool, this Balahara drill can easily break down ore to collect.
+|Weapon Forge Cost             = 200z
+|Weapon Ailment Type           = Water
+|Weapon Ailment Damage         = 10
+|Weapon Material 1 Name        = Balahara Skull
+|Weapon Material 1 Icon Type   = Head
+|Weapon Material 1 Icon Color  = Gray
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = Felyne Balahara Helm
+|Head Defense                  = 10
+|Head Fire Res                 = -1
+|Head Water Res                = 2
+|Head Thunder Res              = -3
+|Head Ice Res                  = 1
+|Head Dragon Res               = 1
+|Head Description              = This Balahara helmet is stuffed to the gills with cutting-edge sensor technology.
+|Head Forge Cost               = 200z
+|Head Material 1 Name          = Balahara Scale
+|Head Material 1 Icon Type     = Scale
+|Head Material 1 Icon Color    = Gray
+|Head Material 1 Quantity      = 1
+|Torso Name                    = Felyne Balahara Mech
+|Torso Defense                 = 10
+|Torso Fire Res                = -1
+|Torso Water Res               = 2
+|Torso Thunder Res             = -3
+|Torso Ice Res                 = 1
+|Torso Dragon Res              = 1
+|Torso Description             = A stunning amalgam of the latest tech, this Balahara mech is the final word in Felyne warfare.
+|Torso Forge Cost              = 200z
+|Torso Material 1 Name         = Balahara Shell
+|Torso Material 1 Icon Type    = Shell
+|Torso Material 1 Icon Color   = Gray
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

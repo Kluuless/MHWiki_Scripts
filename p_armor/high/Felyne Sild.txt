@@ -1,0 +1,46 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Sild α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Sild α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Sild α
+|Rarity                        = 6
+|Weapon Name                   = <!-- No Felyne Sild α Weapon -->
+|Weapon Forge Cost             = 1800z
+|Head Name                     = Felyne Sild Hood α
+|Head Defense                  = 34
+|Head Fire Res                 = 1
+|Head Water Res                = 1
+|Head Thunder Res              = 1
+|Head Ice Res                  = 1
+|Head Dragon Res               = 4
+|Head Description              = Head protection from the Keepers' village that is historically worn only when carrying out dangerous work.
+|Head Forge Cost               = 1800z
+|Head Material 1 Name          = Sild Cotton
+|Head Material 1 Icon Type     = Hide
+|Head Material 1 Icon Color    = White
+|Head Material 1 Quantity      = 1
+|Head Material 2 Name          = Guardian Seikret Feather+
+|Head Material 2 Icon Type     = Hide
+|Head Material 2 Icon Color    = Green
+|Head Material 2 Quantity      = 1
+|Torso Name                    = Felyne Sild Suit α
+|Torso Defense                 = 34
+|Torso Fire Res                = 1
+|Torso Water Res               = 1
+|Torso Thunder Res             = 1
+|Torso Ice Res                 = 1
+|Torso Dragon Res              = 4
+|Torso Description             = This protective wear from the Keepers' village is so comfy, many Palicoes have taken to wearing it around the house.
+|Torso Forge Cost              = 1800z
+|Torso Material 1 Name         = Sild Cotton
+|Torso Material 1 Icon Type    = Hide
+|Torso Material 1 Icon Color   = White
+|Torso Material 1 Quantity     = 1
+|Torso Material 2 Name         = Guardian Seikret Feather+
+|Torso Material 2 Icon Type    = Hide
+|Torso Material 2 Icon Color   = Green
+|Torso Material 2 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

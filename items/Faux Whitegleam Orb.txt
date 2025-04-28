@@ -1,0 +1,39 @@
+{{GenericNav|MHWilds}}
+<br>
+{{MHWildsInfobox
+|English Name = Faux Whitegleam Orb|Japanese Name = ???|Type = Equipment Material|Image = MHWilds-Ball Icon White.png|Description = An inorganic orb from inside Zoh Shia. Something wriggles deep within its elaborate design.|Rarity = 7|Price = 19200|Carry Limit = -}}
+
+=Crafting Recipes=
+{| class="wikitable" style="text-align:center;"
+! Number !! Result !! !! Material A !! !! Material B
+|-
+|}
+=Sources=
+==Quests==
+<div class="threecol" style="clear:both;">
+<div>
+</div>
+</div>
+==Monsters==
+<div class="threecol">
+<div>
+</div>
+</div>
+==Gathering <ref>[[User:Cola|Cola's]] interactive MHWilds map (https://c-ola.github.io/wildsmap/)</ref>==
+<div class="threecol">
+<div>
+</div>
+</div>
+==Other==
+=Forging=
+==Weapons==
+<div class="threecol">
+<div>
+</div>
+</div>
+==Armor==
+<div class="threecol">
+<div>
+</div>
+</div>
+[[Category:MHWilds Items]]

@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Quematrice α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Quematrice α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Quematrice α
+|Rarity                        = 5
+|Weapon Name                   = Felyne Matrice Spear α
+|Weapon Attack Type            = Severing
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 30
+|Weapon Affinity               = 5
+|Weapon Ranged Attack          = 32
+|Weapon Description            = The banner hung from this Quematrice pike will rally the brave. To arms—or, uh, paws…
+|Weapon Forge Cost             = 1200z
+|Weapon Ailment Type           = Fire
+|Weapon Ailment Damage         = 18
+|Weapon Material 1 Name        = Quematrice Igniter+
+|Weapon Material 1 Icon Type   = Chemical
+|Weapon Material 1 Icon Color  = Red
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = Felyne Quema Helm α
+|Head Defense                  = 26
+|Head Fire Res                 = 2
+|Head Water Res                = -3
+|Head Thunder Res              = 0
+|Head Ice Res                  = -1
+|Head Dragon Res               = 0
+|Head Description              = The flaming red plumes on the crest of this Quematrice helm sets a Palico's heart ablaze.
+|Head Forge Cost               = 1200z
+|Head Material 1 Name          = Quematrice Crest+
+|Head Material 1 Icon Type     = Head
+|Head Material 1 Icon Color    = Red
+|Head Material 1 Quantity      = 1
+|Torso Name                    = Felyne Quema Mail α
+|Torso Defense                 = 26
+|Torso Fire Res                = 2
+|Torso Water Res               = -3
+|Torso Thunder Res             = 0
+|Torso Ice Res                 = -1
+|Torso Dragon Res              = 0
+|Torso Description             = The frilly hem and large train on this Quematrice mail make a Palico feel like they're flying.
+|Torso Forge Cost              = 1200z
+|Torso Material 1 Name         = Quematrice Scale+
+|Torso Material 1 Icon Type    = Scale
+|Torso Material 1 Icon Color   = Blue
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

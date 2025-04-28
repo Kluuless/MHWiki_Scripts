@@ -1,0 +1,62 @@
+{{GenericNav|MHWilds}}
+
+The Felyne G. Ark α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne G. Ark α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne G. Ark α
+|Rarity                        = 8
+|Weapon Name                   = F Guardian Ark Sword α
+|Weapon Attack Type            = Severing
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 58
+|Weapon Affinity               = -10
+|Weapon Ranged Attack          = 52
+|Weapon Description            = Each slash of this Guardian Arkveld Sword causes newfound strength to well up in its wielder.
+|Weapon Forge Cost             = 3000z
+|Weapon Ailment Type           = Dragon
+|Weapon Ailment Damage         = 18
+|Weapon Material 1 Name        = Hunter Symbol III
+|Weapon Material 1 Icon Type   = Ticket
+|Weapon Material 1 Icon Color  = Lemon
+|Weapon Material 1 Quantity    = 1
+|Weapon Material 2 Name        = Guardian Blood+
+|Weapon Material 2 Icon Type   = Chemical
+|Weapon Material 2 Icon Color  = White
+|Weapon Material 2 Quantity    = 1
+|Head Name                     = F Guardian Ark Helm α
+|Head Defense                  = 56
+|Head Fire Res                 = 2
+|Head Water Res                = 0
+|Head Thunder Res              = -1
+|Head Ice Res                  = 0
+|Head Dragon Res               = -4
+|Head Description              = Any who wear this Guardian Arkveld helm are guided by a formless, relentless hand to press onward.
+|Head Forge Cost               = 3000z
+|Head Material 1 Name          = Hunter Symbol III
+|Head Material 1 Icon Type     = Ticket
+|Head Material 1 Icon Color    = Lemon
+|Head Material 1 Quantity      = 1
+|Head Material 2 Name          = Guardian Pelt+
+|Head Material 2 Icon Type     = Hide
+|Head Material 2 Icon Color    = White
+|Head Material 2 Quantity      = 1
+|Torso Name                    = F Guardian Ark Mail
+|Torso Defense                 = 56
+|Torso Fire Res                = 2
+|Torso Water Res               = 0
+|Torso Thunder Res             = -1
+|Torso Ice Res                 = 0
+|Torso Dragon Res              = -4
+|Torso Description             = Palicoes clad in this Guardian Arkveld armor cease to feel any trace of exhaustion or fatigue… they think.
+|Torso Forge Cost              = 3000z
+|Torso Material 1 Name         = Hunter Symbol III
+|Torso Material 1 Icon Type    = Ticket
+|Torso Material 1 Icon Color   = Lemon
+|Torso Material 1 Quantity     = 1
+|Torso Material 2 Name         = Guardian Scale+
+|Torso Material 2 Icon Type    = Scale
+|Torso Material 2 Icon Color   = White
+|Torso Material 2 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

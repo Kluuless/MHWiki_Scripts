@@ -1,0 +1,1808 @@
+{| class="wikitable wide sortable mw-collapsible" style="text-align:center; white-space:normal;"
+! Name
+! Rarity
+! Description
+! Skills Granted
+! Forging Cost
+|-
+| {{GenericArmorLink|MHWilds|Fury Charm I|Talisman|5|Fury Charm I}}
+| 5
+| A charm that grants the Resentment Skill.
+| {{MHWildsSkillLink|Resentment|Attack}} x1
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Carapace|Shell|White}} x6<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Spike+|Monster Part|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Rompopolo Beak+|Head|Dark Blue}} x3<br>
+{{GenericItemOverlay|MHWilds|Wyvern Gem|Ball|Light Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Fury Charm II|Talisman|7|Fury Charm II}}
+| 7
+| A charm that grants the Resentment Skill.
+| {{MHWildsSkillLink|Resentment|Attack}} x2
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol III|Ticket|Lemon}} x5<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol II|Ticket|Yellow}} x3<br>
+{{GenericItemOverlay|MHWilds|Nu Udra Flamegem|Ball|Red}} x1<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Medulla|Monster Part|Vermilion}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Counterattack Charm I|Talisman|5|Counterattack Charm I}}
+| 5
+| A charm that grants the Adrenaline Rush Skill.
+| {{MHWildsSkillLink|Adrenaline Rush|Attack}} x1
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Hirabami Webbing+|Webbing|Purple}} x4<br>
+{{GenericItemOverlay|MHWilds|Hirabami Tail Claw+|Claw|Purple}} x3<br>
+{{GenericItemOverlay|MHWilds|Lala Barina Stinger+|Monster Part|Gray}} x2<br>
+{{GenericItemOverlay|MHWilds|Wyvern Gem|Ball|Light Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Counterattack Charm II|Talisman|7|Counterattack Charm II}}
+| 7
+| A charm that grants the Adrenaline Rush Skill.
+| {{MHWildsSkillLink|Adrenaline Rush|Attack}} x2
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol III|Ticket|Lemon}} x5<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol II|Ticket|Yellow}} x3<br>
+{{GenericItemOverlay|MHWilds|Rathalos Ruby|Ball|Red}} x1<br>
+{{GenericItemOverlay|MHWilds|Gore Magala Nyctgem|Ball|Gray}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Unscathed Charm I|Talisman|5|Unscathed Charm I}}
+| 5
+| A charm that grants the Peak Performance Skill.
+| {{MHWildsSkillLink|Peak Performance|Attack}} x1
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Hirabami Scale+|Scale|Purple}} x6<br>
+{{GenericItemOverlay|MHWilds|Hirabami Webbing+|Webbing|Purple}} x4<br>
+{{GenericItemOverlay|MHWilds|Vibrant Pelt+|Hide|Yellow}} x3<br>
+{{GenericItemOverlay|MHWilds|Beast Gem|Ball|Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Unscathed Charm II|Talisman|7|Unscathed Charm II}}
+| 7
+| A charm that grants the Peak Performance Skill.
+| {{MHWildsSkillLink|Peak Performance|Attack}} x2
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol III|Ticket|Lemon}} x5<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol II|Ticket|Yellow}} x3<br>
+{{GenericItemOverlay|MHWilds|Jin Dahaad Icegem|Ball|Light Blue}} x1<br>
+{{GenericItemOverlay|MHWilds|Gravios Medulla|Monster Part|Red}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Counter Charm I|Talisman|5|Counter Charm I}}
+| 5
+| A charm that grants the Counterstrike Skill.
+| {{MHWildsSkillLink|Counterstrike|Attack}} x1
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Rathian Webbing|Wing|Green}} x3<br>
+{{GenericItemOverlay|MHWilds|Gypceros Head|Head|Blue}} x3<br>
+{{GenericItemOverlay|MHWilds|Talioth Scale|Scale|Orange}} x5| 5
+<br>
+{{GenericItemOverlay|MHWilds|Bird Wyvern Gem|Ball|Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Counter Charm II|Talisman|6|Counter Charm II}}
+| 6
+| A charm that grants the Counterstrike Skill.
+| {{MHWildsSkillLink|Counterstrike|Attack}} x2
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Blangonga Pelt+|Hide|White}} x6| 6
+<br>
+{{GenericItemOverlay|MHWilds|Blangonga Whisker|Monster Part|White}} x5<br>
+{{GenericItemOverlay|MHWilds|Blango Pelt+|Hide|White}} x5<br>
+{{GenericItemOverlay|MHWilds|Beast Gem|Ball|Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Counter Charm III|Talisman|7|Counter Charm III}}
+| 7
+| A charm that grants the Counterstrike Skill.
+| {{MHWildsSkillLink|Counterstrike|Attack}} x3
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol III|Ticket|Lemon}} x3<br>
+{{GenericItemOverlay|MHWilds|Nu Udra Horn+|Claw|Yellow}} x3<br>
+{{GenericItemOverlay|MHWilds|Guardian Rathalos Wing|Wing|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Rathalos Ruby|Ball|Red}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Exploiter Charm I|Talisman|5|Exploiter Charm I}}
+| 5
+| A charm that grants the Weakness Exploit Skill.
+| {{MHWildsSkillLink|Weakness Exploit|Attack}} x1
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Rathian Carapace|Shell|Green}} x6<br>
+{{GenericItemOverlay|MHWilds|Rathian Spike+|Monster Part|Green}} x3<br>
+{{GenericItemOverlay|MHWilds|Chatacabra Carapace|Shell|Green}} x4<br>
+{{GenericItemOverlay|MHWilds|Rathian Ruby|Ball|Green}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Exploiter Charm II|Talisman|7|Exploiter Charm II}}
+| 7
+| A charm that grants the Weakness Exploit Skill.
+| {{MHWildsSkillLink|Weakness Exploit|Attack}} x2
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol III|Ticket|Lemon}} x5<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol II|Ticket|Yellow}} x3<br>
+{{GenericItemOverlay|MHWilds|Arkveld Gem|Ball|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Guardian Rathalos Gem||}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Mighty Charm I|Talisman|5|Mighty Charm I}}
+| 5
+| A charm that grants the Maximum Might Skill.
+| {{MHWildsSkillLink|Maximum Might|Attack}} x1
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Claw+|Claw|White}} x6<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Shear|Claw|White}} x6<br>
+{{GenericItemOverlay|MHWilds|Gypceros Head|Head|Blue}} x3<br>
+{{GenericItemOverlay|MHWilds|Bird Wyvern Gem|Ball|Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Mighty Charm II|Talisman|7|Mighty Charm II}}
+| 7
+| A charm that grants the Maximum Might Skill.
+| {{MHWildsSkillLink|Maximum Might|Attack}} x2
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol III|Ticket|Lemon}} x5<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol II|Ticket|Yellow}} x3<br>
+{{GenericItemOverlay|MHWilds|Xu Wu Umbragem|Ball|Gray}} x1<br>
+{{GenericItemOverlay|MHWilds|Rey Dau Boltgem|Ball|Yellow}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Convert Charm I|Talisman|5|Convert Charm I}}
+| 5
+| A charm that grants the Convert Element Skill.
+| {{MHWildsSkillLink|Convert Element|Attack}} x1
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol III|Ticket|Lemon}} x5| 5
+<br>
+{{GenericItemOverlay|MHWilds|Arkveld Scale+|Scale|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Arkveld Horn+|Claw|White}} x3<br>
+{{GenericItemOverlay|MHWilds|Arkveld Gem|Ball|White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Convert Charm II|Talisman|8|Convert Charm II}}
+| 8
+| A charm that grants the Convert Element Skill.
+| {{MHWildsSkillLink|Convert Element|Attack}} x2
+| 16000z<br>
+{{GenericItemOverlay|MHWilds|Zoh Shia Layershell|Shell|White}} x6<br>
+{{GenericItemOverlay|MHWilds|Zoh Shia Crystalhorn|Claw|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Zoh Shia Crystaltail|Tail|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Faux Whitegleam Orb|Ball|White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Defense Charm I|Talisman|2|Defense Charm I}}
+| 2
+| A charm that grants the Defense Boost Skill.
+| {{MHWildsSkillLink|Defense Boost|Defense}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Doshaguma Claw|Claw|Brown}} x1<br>
+{{GenericItemOverlay|MHWilds|Balahara Shell|Shell|Gray}} x2| 2
+<br>
+{{GenericItemOverlay|MHWilds|Balahara Skull|Head|Gray}} x1<br>
+{{GenericItemOverlay|MHWilds|Machalite Ore|Ore|Blue}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Defense Charm II|Talisman|4|Defense Charm II}}
+| 4
+| A charm that grants the Defense Boost Skill.
+| {{MHWildsSkillLink|Defense Boost|Defense}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Hide|Hide|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Claw|Claw|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Fang|Claw|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Dragonite Ore|Ore|Green}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Defense Charm III|Talisman|5|Defense Charm III}}
+| 5
+| A charm that grants the Defense Boost Skill.
+| {{MHWildsSkillLink|Defense Boost|Defense}} x3
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Chatacabra Carapace|Shell|Green}} x3<br>
+{{GenericItemOverlay|MHWilds|Chatacabra Scale+|Scale|Green}} x4<br>
+{{GenericItemOverlay|MHWilds|Quematrice Crest+|Head|Red}} x2<br>
+{{GenericItemOverlay|MHWilds|Firecell Stone|Ore|Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Defense Charm IV|Talisman|6|Defense Charm IV}}
+| 6
+| A charm that grants the Defense Boost Skill.
+| {{MHWildsSkillLink|Defense Boost|Defense}} x4
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Gravios Carapace|Shell|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Gravios Wing|Wing|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Hide+|Hide|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Claw+|Claw|White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Blessing Charm I|Talisman|2|Blessing Charm I}}
+| 2
+| A charm that grants the Divine Blessing Skill.
+| {{MHWildsSkillLink|Divine Blessing|Defense}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Chatacabra Scale|Scale|Green}} x2| 2
+<br>
+{{GenericItemOverlay|MHWilds|Quematrice Scale|Scale|Blue}} x1<br>
+{{GenericItemOverlay|MHWilds|Lala Barina Mucus|Chemical|Rose}} x1<br>
+{{GenericItemOverlay|MHWilds|Earth Crystal|Ore|White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Blessing Charm II|Talisman|4|Blessing Charm II}}
+| 4
+| A charm that grants the Divine Blessing Skill.
+| {{MHWildsSkillLink|Divine Blessing|Defense}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Hirabami Hide|Hide|Purple}} x1<br>
+{{GenericItemOverlay|MHWilds|Hirabami Webbing|Webbing|Purple}} x1<br>
+{{GenericItemOverlay|MHWilds|Uth Duna Tentacle|Monster Part|Pink}} x2<br>
+{{GenericItemOverlay|MHWilds|Dragonite Ore|Ore|Green}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Blessing Charm III|Talisman|5|Blessing Charm III}}
+| 5
+| A charm that grants the Divine Blessing Skill.
+| {{MHWildsSkillLink|Divine Blessing|Defense}} x3
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Hirabami Webbing+|Webbing|Purple}} x4<br>
+{{GenericItemOverlay|MHWilds|Rathian Spike+|Monster Part|Green}} x3<br>
+{{GenericItemOverlay|MHWilds|Novacrystal|Ore|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Wyvern Gem|Ball|Light Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Fire Charm I|Talisman|2|Fire Charm I}}
+| 2
+| A charm that grants the Fire Resistance Skill.
+| {{MHWildsSkillLink|Fire Resistance|Defense}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Quematrice Scale|Scale|Blue}} x2| 2
+<br>
+{{GenericItemOverlay|MHWilds|Quematrice Igniter|Chemical|Red}} x1<br>
+{{GenericItemOverlay|MHWilds|Iron Ore|Ore|Gray}} x2| 2
+<br>
+{{GenericItemOverlay|MHWilds|-||}} x-
+
+|-
+| {{GenericArmorLink|MHWilds|Fire Charm II|Talisman|4|Fire Charm II}}
+| 4
+| A charm that grants the Fire Resistance Skill.
+| {{MHWildsSkillLink|Fire Resistance|Defense}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Scale|Scale|Vermilion}} x2<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Jewel|Ore|Vermilion}} x1<br>
+{{GenericItemOverlay|MHWilds|Kranodath Skull|Head|Purple}} x2<br>
+{{GenericItemOverlay|MHWilds|Firestone|Ore|Vermilion}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Fire Charm III|Talisman|5|Fire Charm III}}
+| 5
+| A charm that grants the Fire Resistance Skill.
+| {{MHWildsSkillLink|Fire Resistance|Defense}} x3
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Quematrice Scale+|Scale|Blue}} x4<br>
+{{GenericItemOverlay|MHWilds|Quematrice Igniter+|Chemical|Red}} x3<br>
+{{GenericItemOverlay|MHWilds|Talioth Scale+|Scale|Orange}} x3<br>
+{{GenericItemOverlay|MHWilds|Firecell Stone|Ore|Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Water Charm I|Talisman|2|Water Charm I}}
+| 2
+| A charm that grants the Water Resistance Skill.
+| {{MHWildsSkillLink|Water Resistance|Defense}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Balahara Scale|Scale|Gray}} x2| 2
+<br>
+{{GenericItemOverlay|MHWilds|Balahara Skull|Head|Gray}} x1<br>
+{{GenericItemOverlay|MHWilds|Earth Crystal|Ore|White}} x2| 2
+<br>
+{{GenericItemOverlay|MHWilds|-||}} x-
+
+|-
+| {{GenericArmorLink|MHWilds|Water Charm II|Talisman|4|Water Charm II}}
+| 4
+| A charm that grants the Water Resistance Skill.
+| {{MHWildsSkillLink|Water Resistance|Defense}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Uth Duna Scale|Scale|Violet}} x2<br>
+{{GenericItemOverlay|MHWilds|Uth Duna Cilia|Hide|Pink}} x1<br>
+{{GenericItemOverlay|MHWilds|Piragill Fin|Monster Part|Red}} x2<br>
+{{GenericItemOverlay|MHWilds|Icium|Ore|White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Water Charm III|Talisman|5|Water Charm III}}
+| 5
+| A charm that grants the Water Resistance Skill.
+| {{MHWildsSkillLink|Water Resistance|Defense}} x3
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Balahara Carapace|Shell|Gray}} x4<br>
+{{GenericItemOverlay|MHWilds|Balahara Scale+|Scale|Gray}} x3<br>
+{{GenericItemOverlay|MHWilds|Piragill Fin+|Monster Part|Red}} x3<br>
+{{GenericItemOverlay|MHWilds|Gracium|Ore|Blue}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Thunder Charm I|Talisman|3|Thunder Charm I}}
+| 3
+| A charm that grants the Thunder Resistance Skill.
+| {{MHWildsSkillLink|Thunder Resistance|Defense}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Rompopolo Hide|Hide|Dark Blue}} x2<br>
+{{GenericItemOverlay|MHWilds|Spotted Poison Hide|Hide|Dark Blue}} x1<br>
+{{GenericItemOverlay|MHWilds|Earth Crystal|Ore|White}} x2<br>
+{{GenericItemOverlay|MHWilds|-||}} x-
+
+|-
+| {{GenericArmorLink|MHWilds|Thunder Charm II|Talisman|4|Thunder Charm II}}
+| 4
+| A charm that grants the Thunder Resistance Skill.
+| {{MHWildsSkillLink|Thunder Resistance|Defense}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Rey Dau Scale|Scale|Yellow}} x2<br>
+{{GenericItemOverlay|MHWilds|Rey Dau Wingtalon|Claw|Blue}} x1<br>
+{{GenericItemOverlay|MHWilds|Bulaqchi Shell|Bug|Yellow}} x2<br>
+{{GenericItemOverlay|MHWilds|Machalite Ore|Ore|Blue}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Thunder Charm III|Talisman|5|Thunder Charm III}}
+| 5
+| A charm that grants the Thunder Resistance Skill.
+| {{MHWildsSkillLink|Thunder Resistance|Defense}} x3
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Rompopolo Hide+|Hide|Dark Blue}} x4<br>
+{{GenericItemOverlay|MHWilds|Spotted Poison Hide+|Hide|Dark Blue}} x3<br>
+{{GenericItemOverlay|MHWilds|Talioth Scale+|Scale|Orange}} x3<br>
+{{GenericItemOverlay|MHWilds|Lightcrystal|Ore|Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Ice Charm I|Talisman|3|Ice Charm I}}
+| 3
+| A charm that grants the Ice Resistance Skill.
+| {{MHWildsSkillLink|Ice Resistance|Defense}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Congalala Pelt|Hide|Pink}} x2<br>
+{{GenericItemOverlay|MHWilds|Congalala Fang|Claw|Pink}} x1<br>
+{{GenericItemOverlay|MHWilds|Earth Crystal|Ore|White}} x2<br>
+{{GenericItemOverlay|MHWilds|-||}} x-
+
+|-
+| {{GenericArmorLink|MHWilds|Ice Charm II|Talisman|4|Ice Charm II}}
+| 4
+| A charm that grants the Ice Resistance Skill.
+| {{MHWildsSkillLink|Ice Resistance|Defense}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Hirabami Scale|Scale|Purple}} x2<br>
+{{GenericItemOverlay|MHWilds|Hirabami Webbing|Webbing|Purple}} x1<br>
+{{GenericItemOverlay|MHWilds|Comaqchi Shell|Bug|Pink}} x2<br>
+{{GenericItemOverlay|MHWilds|Icium|Ore|White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Ice Charm III|Talisman|5|Ice Charm III}}
+| 5
+| A charm that grants the Ice Resistance Skill.
+| {{MHWildsSkillLink|Ice Resistance|Defense}} x3
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Hirabami Scale+|Scale|Purple}} x4<br>
+{{GenericItemOverlay|MHWilds|Hirabami Webbing+|Webbing|Purple}} x3<br>
+{{GenericItemOverlay|MHWilds|Blango Pelt+|Hide|White}} x3<br>
+{{GenericItemOverlay|MHWilds|Gracium|Ore|Blue}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Dragon Charm I|Talisman|3|Dragon Charm I}}
+| 3
+| A charm that grants the Dragon Resistance Skill.
+| {{MHWildsSkillLink|Dragon Resistance|Defense}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Lala Barina Shell|Shell|Gray}} x2<br>
+{{GenericItemOverlay|MHWilds|Lala Barina Mucus|Chemical|Rose}} x1<br>
+{{GenericItemOverlay|MHWilds|Earth Crystal|Ore|White}} x2<br>
+{{GenericItemOverlay|MHWilds|-||}} x-
+
+|-
+| {{GenericArmorLink|MHWilds|Dragon Charm II|Talisman|4|Dragon Charm II}}
+| 4
+| A charm that grants the Dragon Resistance Skill.
+| {{MHWildsSkillLink|Dragon Resistance|Defense}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Fur|Hide|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Claw|Claw|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Vespoid Shell|Bug|Yellow}} x2<br>
+{{GenericItemOverlay|MHWilds|Firestone|Ore|Vermilion}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Dragon Charm III|Talisman|5|Dragon Charm III}}
+| 5
+| A charm that grants the Dragon Resistance Skill.
+| {{MHWildsSkillLink|Dragon Resistance|Defense}} x3
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Carapace|Shell|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Shear|Claw|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Vespoid Carapace|Bug|Yellow}} x2<br>
+{{GenericItemOverlay|MHWilds|Novacrystal|Ore|White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Poison Charm I|Talisman|3|Poison Charm I}}
+| 3
+| A charm that grants the Poison Resistance Skill.
+| {{MHWildsSkillLink|Poison Resistance|Defense}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Rompoplo Claw||}} x2<br>
+{{GenericItemOverlay|MHWilds|Rompopolo Beak|Head|Dark Blue}} x1<br>
+{{GenericItemOverlay|MHWilds|Monster Fluid|Chemical|Light Blue}} x4<br>
+{{GenericItemOverlay|MHWilds|-||}} x-
+
+|-
+| {{GenericArmorLink|MHWilds|Poison Charm II|Talisman|4|Poison Charm II}}
+| 4
+| A charm that grants the Poison Resistance Skill.
+| {{MHWildsSkillLink|Poison Resistance|Defense}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Shell|Shell|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Spike|Monster Part|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Bulaqchi Shell|Bug|Yellow}} x2<br>
+{{GenericItemOverlay|MHWilds|Sturdy Bone|Bone|White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Poison Charm III|Talisman|5|Poison Charm III}}
+| 5
+| A charm that grants the Poison Resistance Skill.
+| {{MHWildsSkillLink|Poison Resistance|Defense}} x3
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Rompopolo Claw+|Claw|Dark Blue}} x4<br>
+{{GenericItemOverlay|MHWilds|Kut-Ku Carapace|Shell|Pink}} x3<br>
+{{GenericItemOverlay|MHWilds|Vespoid Carapace|Bug|Yellow}} x3<br>
+{{GenericItemOverlay|MHWilds|Quality Bone|Bone|Yellow}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Paralysis Charm I|Talisman|2|Paralysis Charm I}}
+| 2
+| A charm that grants the Paralysis Resistance Skill.
+| {{MHWildsSkillLink|Paralysis Resistance|Defense}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Lala Barina Floret|Hide|White}} x2| 2
+<br>
+{{GenericItemOverlay|MHWilds|Lala Barina Mucus|Chemical|Rose}} x1<br>
+{{GenericItemOverlay|MHWilds|Vespoid Shell|Bug|Yellow}} x1<br>
+{{GenericItemOverlay|MHWilds|-||}} x-
+
+|-
+| {{GenericArmorLink|MHWilds|Paralysis Charm II|Talisman|4|Paralysis Charm II}}
+| 4
+| A charm that grants the Paralysis Resistance Skill.
+| {{MHWildsSkillLink|Paralysis Resistance|Defense}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Claw|Claw|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Lala Barina Shell|Shell|Gray}} x1<br>
+{{GenericItemOverlay|MHWilds|Vespoid Wing|Webbing|Yellow}} x2<br>
+{{GenericItemOverlay|MHWilds|Charred Oilbone|Bone|Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Paralysis Charm III|Talisman|5|Paralysis Charm III}}
+| 5
+| A charm that grants the Paralysis Resistance Skill.
+| {{MHWildsSkillLink|Paralysis Resistance|Defense}} x3
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Spike+|Monster Part|White}} x3<br>
+{{GenericItemOverlay|MHWilds|Lala Barina Floret+|Hide|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Vespoid Carapace|Bug|Yellow}} x3<br>
+{{GenericItemOverlay|MHWilds|Colossal Bone|Bone|White}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Sleep Charm I|Talisman|3|Sleep Charm I}}
+| 3
+| A charm that grants the Sleep Resistance Skill.
+| {{MHWildsSkillLink|Sleep Resistance|Defense}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Congalala Claw|Claw|Pink}} x2<br>
+{{GenericItemOverlay|MHWilds|Congalala Pelt|Hide|Pink}} x1<br>
+{{GenericItemOverlay|MHWilds|Bulaqchi Shell|Bug|Yellow}} x1<br>
+{{GenericItemOverlay|MHWilds|-||}} x-
+
+|-
+| {{GenericArmorLink|MHWilds|Sleep Charm II|Talisman|4|Sleep Charm II}}
+| 4
+| A charm that grants the Sleep Resistance Skill.
+| {{MHWildsSkillLink|Sleep Resistance|Defense}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Claw|Claw|White}} x3<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Chelicera|Claw|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Comaqchi Shell|Bug|Pink}} x3<br>
+{{GenericItemOverlay|MHWilds|Frozen Icebone|Bone|White}} x3
+
+|-
+| {{GenericArmorLink|MHWilds|Sleep Charm III|Talisman|5|Sleep Charm III}}
+| 5
+| A charm that grants the Sleep Resistance Skill.
+| {{MHWildsSkillLink|Sleep Resistance|Defense}} x3
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Claw+|Claw|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Shear|Claw|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Comaqchi Carapace|Bug|Pink}} x3<br>
+{{GenericItemOverlay|MHWilds|Quality Bone|Bone|Yellow}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Guard Charm I|Talisman|3|Guard Charm I}}
+| 3
+| A charm that grants the Iron Skin Skill.
+| {{MHWildsSkillLink|Iron Skin|Defense}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Doshaguma Hide|Hide|Brown}} x2<br>
+{{GenericItemOverlay|MHWilds|Doshaguma Fang|Claw|Brown}} x1<br>
+{{GenericItemOverlay|MHWilds|Piragill Fin|Monster Part|Red}} x1<br>
+{{GenericItemOverlay|MHWilds|Iron Ore|Ore|Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Guard Charm II|Talisman|5|Guard Charm II}}
+| 5
+| A charm that grants the Iron Skin Skill.
+| {{MHWildsSkillLink|Iron Skin|Defense}} x2
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Balahara Scale+|Scale|Gray}} x6<br>
+{{GenericItemOverlay|MHWilds|Balahara Skull+|Head|Gray}} x3<br>
+{{GenericItemOverlay|MHWilds|Piragill Fin+|Monster Part|Red}} x5| 5
+<br>
+{{GenericItemOverlay|MHWilds|Carbalite Ore|Ore|Purple}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Guard Charm III|Talisman|6|Guard Charm III}}
+| 6
+| A charm that grants the Iron Skin Skill.
+| {{MHWildsSkillLink|Iron Skin|Defense}} x3
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Hide+|Hide|White}} x6| 6
+<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Fang+|Claw|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Guardian Seikret Feather+|Hide|Green}} x5<br>
+{{GenericItemOverlay|MHWilds|Beast Gem|Ball|Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Blight Charm I|Talisman|6|Blight Charm I}}
+| 6
+| A charm that grants the Blight Resistance Skill.
+| {{MHWildsSkillLink|Blight Resistance|Defense}} x1
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Blangonga Pelt+|Hide|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Guardian Fulgur Pelt+|Hide|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Balahara Scale+|Scale|Gray}} x2<br>
+{{GenericItemOverlay|MHWilds|Hirabami Scale+|Scale|Purple}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Blight Charm II|Talisman|7|Blight Charm II}}
+| 7
+| A charm that grants the Blight Resistance Skill.
+| {{MHWildsSkillLink|Blight Resistance|Defense}} x2
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Arkveld Scale+|Scale|White}} x6<br>
+{{GenericItemOverlay|MHWilds|White Arkveld Pelt|Hide|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Novacrystal|Ore|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Wyvern Gem|Ball|Light Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Stun Charm I|Talisman|3|Stun Charm I}}
+| 3
+| A charm that grants the Stun Resistance Skill.
+| {{MHWildsSkillLink|Stun Resistance|Defense}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Balahara Skull|Head|Gray}} x2<br>
+{{GenericItemOverlay|MHWilds|Balahara Shell|Shell|Gray}} x1<br>
+{{GenericItemOverlay|MHWilds|Talioth Scale|Scale|Orange}} x1<br>
+{{GenericItemOverlay|MHWilds|-||}} x-
+
+|-
+| {{GenericArmorLink|MHWilds|Stun Charm II|Talisman|4|Stun Charm II}}
+| 4
+| A charm that grants the Stun Resistance Skill.
+| {{MHWildsSkillLink|Stun Resistance|Defense}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Ridge|Monster Part|Vermilion}} x2<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Shell|Shell|Vermilion}} x2<br>
+{{GenericItemOverlay|MHWilds|Kranodath Skull|Head|Purple}} x2<br>
+{{GenericItemOverlay|MHWilds|Sturdy Bone|Bone|White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Stun Charm III|Talisman|5|Stun Charm III}}
+| 5
+| A charm that grants the Stun Resistance Skill.
+| {{MHWildsSkillLink|Stun Resistance|Defense}} x3
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Balahara Skull+|Head|Gray}} x4<br>
+{{GenericItemOverlay|MHWilds|Balahara Carapace|Shell|Gray}} x3<br>
+{{GenericItemOverlay|MHWilds|Kranodath Skul+||}} x3<br>
+{{GenericItemOverlay|MHWilds|Dragonbone Relic|Bone|Tan}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Bleed Charm I|Talisman|3|Bleed Charm I}}
+| 3
+| A charm that grants the Bleeding Resistance Skill.
+| {{MHWildsSkillLink|Bleeding Resistance|Defense}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Guardian Ebony Sinew|Monster Part|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Guardian Ebony Scale|Scale|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Talioth Scale|Scale|Orange}} x1<br>
+{{GenericItemOverlay|MHWilds|Iron Ore|Ore|Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Bleed Charm II|Talisman|5|Bleed Charm II}}
+| 5
+| A charm that grants the Bleeding Resistance Skill.
+| {{MHWildsSkillLink|Bleeding Resistance|Defense}} x2
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Hirabami Hide+|Hide|Purple}} x6<br>
+{{GenericItemOverlay|MHWilds|Hirabami Webbing+|Webbing|Purple}} x4<br>
+{{GenericItemOverlay|MHWilds|Blango Pelt+|Hide|White}} x5| 5
+<br>
+{{GenericItemOverlay|MHWilds|Carbalite Ore|Ore|Purple}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Bleed Charm III|Talisman|6|Bleed Charm III}}
+| 6
+| A charm that grants the Bleeding Resistance Skill.
+| {{MHWildsSkillLink|Bleeding Resistance|Defense}} x3
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Guardian Ebony Scale+|Scale|White}} x6| 6
+<br>
+{{GenericItemOverlay|MHWilds|Guardian Ebony Sinew+|Monster Part|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Guardian Seikret Feather+|Hide|Green}} x2<br>
+{{GenericItemOverlay|MHWilds|Beast Gem|Ball|Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Escape Charm I|Talisman|4|Escape Charm I}}
+| 4
+| A charm that grants the Bind Resistance Skill.
+| {{MHWildsSkillLink|Bind Resistance|Defense}} x1
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Shell|Shell|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Claw|Claw|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Vespoid Shell|Bug|Yellow}} x1<br>
+{{GenericItemOverlay|MHWilds|Earth Crystal|Ore|White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Escape Charm II|Talisman|6|Escape Charm II}}
+| 6
+| A charm that grants the Bind Resistance Skill.
+| {{MHWildsSkillLink|Bind Resistance|Defense}} x2
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Guardian Ebony Sinew+|Monster Part|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Guardian Ebony Claw+|Claw|White}} x3<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Spike|Monster Part|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Carbalite Ore|Ore|Purple}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Escape Charm III|Talisman|7|Escape Charm III}}
+| 7
+| A charm that grants the Bind Resistance Skill.
+| {{MHWildsSkillLink|Bind Resistance|Defense}} x3
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Jin Dahaad Iceplate|Shell|Brown}} x4<br>
+{{GenericItemOverlay|MHWilds|Jin Dahaad Claw+|Claw|Brown}} x3<br>
+{{GenericItemOverlay|MHWilds|Blangonga Fang+|Claw|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Freezer Sac|Sac|White}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Blast Charm I|Talisman|3|Blast Charm I}}
+| 3
+| A charm that grants the Blast Resistance Skill.
+| {{MHWildsSkillLink|Blast Resistance|Defense}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Quematrice Hide|Hide|Blue}} x2<br>
+{{GenericItemOverlay|MHWilds|Quematrice Igniter|Chemical|Red}} x1<br>
+{{GenericItemOverlay|MHWilds|Wingdrake Hide|Hide|Tan}} x1<br>
+{{GenericItemOverlay|MHWilds|-||}} x-
+
+|-
+| {{GenericArmorLink|MHWilds|Blast Charm II|Talisman|4|Blast Charm II}}
+| 4
+| A charm that grants the Blast Resistance Skill.
+| {{MHWildsSkillLink|Blast Resistance|Defense}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Scale|Scale|Vermilion}} x2<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Ridge|Monster Part|Vermilion}} x1<br>
+{{GenericItemOverlay|MHWilds|Herbivore Shell|Shell|Brown}} x2<br>
+{{GenericItemOverlay|MHWilds|Firestone|Ore|Vermilion}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Blast Charm III|Talisman|5|Blast Charm III}}
+| 5
+| A charm that grants the Blast Resistance Skill.
+| {{MHWildsSkillLink|Blast Resistance|Defense}} x3
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Scale+|Scale|Vermilion}} x5| 5
+<br>
+{{GenericItemOverlay|MHWilds|Rathian Scale+|Scale|Green}} x3<br>
+{{GenericItemOverlay|MHWilds|Wingdrake Hide+|Hide|Tan}} x3<br>
+{{GenericItemOverlay|MHWilds|Firecell Stone|Ore|Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Recovery Charm I|Talisman|3|Recovery Charm I}}
+| 3
+| A charm that grants the Recovery Up Skill.
+| {{MHWildsSkillLink|Recovery Up|Health}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Lala Barina Floret|Hide|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Lala Barina Mucus|Chemical|Rose}} x1<br>
+{{GenericItemOverlay|MHWilds|Congalala Pelt|Hide|Pink}} x1<br>
+{{GenericItemOverlay|MHWilds|Sturdy Bone|Bone|White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Recovery Charm II|Talisman|4|Recovery Charm II}}
+| 4
+| A charm that grants the Recovery Up Skill.
+| {{MHWildsSkillLink|Recovery Up|Health}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Claw|Claw|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Chelicera|Claw|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Spotted Poison Hide|Hide|Dark Blue}} x1<br>
+{{GenericItemOverlay|MHWilds|Charred Oilbone|Bone|Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Recovery Charm III|Talisman|5|Recovery Charm III}}
+| 5
+| A charm that grants the Recovery Up Skill.
+| {{MHWildsSkillLink|Recovery Up|Health}} x3
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Lala Barina Floret+|Hide|White}} x6<br>
+{{GenericItemOverlay|MHWilds|Lala Barina Mucus+|Chemical|Rose}} x4<br>
+{{GenericItemOverlay|MHWilds|Giant Beak|Head|Pink}} x4<br>
+{{GenericItemOverlay|MHWilds|Bird Wyvern Gem|Ball|Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Speed Heal Charm I|Talisman|2|Speed Heal Charm I}}
+| 2
+| A charm that grants the Recovery Speed Skill.
+| {{MHWildsSkillLink|Recovery Speed|Health}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Doshaguma Hide|Hide|Brown}} x2| 2
+<br>
+{{GenericItemOverlay|MHWilds|Doshaguma Fang|Claw|Brown}} x1<br>
+{{GenericItemOverlay|MHWilds|Chatacabra Hide|Hide|Green}} x1<br>
+{{GenericItemOverlay|MHWilds|Brute Bone|Bone|White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Speed Heal Charm II|Talisman|4|Speed Heal Charm II}}
+| 4
+| A charm that grants the Recovery Speed Skill.
+| {{MHWildsSkillLink|Recovery Speed|Health}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Hirabami Hide|Hide|Purple}} x2<br>
+{{GenericItemOverlay|MHWilds|Hirabami Webbing|Webbing|Purple}} x1<br>
+{{GenericItemOverlay|MHWilds|Lala Barina Certificate|Ticket|Rose}} x1<br>
+{{GenericItemOverlay|MHWilds|Frozen Icebone|Bone|White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Speed Heal Charm III|Talisman|5|Speed Heal Charm III}}
+| 5
+| A charm that grants the Recovery Speed Skill.
+| {{MHWildsSkillLink|Recovery Speed|Health}} x3
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Gypceros Wing|Wing|Blue}} x4<br>
+{{GenericItemOverlay|MHWilds|Gypceros Tail|Tail|Blue}} x1<br>
+{{GenericItemOverlay|MHWilds|Rompopolo Beak+|Head|Dark Blue}} x2<br>
+{{GenericItemOverlay|MHWilds|Dragonbone Relic|Bone|Tan}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Survival Charm I|Talisman|3|Survival Charm I}}
+| 3
+| A charm that grants the Survival Expert Skill.
+| {{MHWildsSkillLink|Survival Expert|Health}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Lala Barina Floret|Hide|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Lala Barina Shell|Shell|Gray}} x1<br>
+{{GenericItemOverlay|MHWilds|Vespoid Shell|Bug|Yellow}} x1<br>
+{{GenericItemOverlay|MHWilds|-||}} x-
+
+|-
+| {{GenericArmorLink|MHWilds|Survival Charm II|Talisman|5|Survival Charm II}}
+| 5
+| A charm that grants the Survival Expert Skill.
+| {{MHWildsSkillLink|Survival Expert|Health}} x2
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Lala Barina Floret+|Hide|White}} x5| 5
+<br>
+{{GenericItemOverlay|MHWilds|Lala Barain Carapace||}} x3<br>
+{{GenericItemOverlay|MHWilds|Herbivore Carapace|Shell|Brown}} x4<br>
+{{GenericItemOverlay|MHWilds|Carbalite Ore|Ore|Purple}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Survival Charm III|Talisman|6|Survival Charm III}}
+| 6
+| A charm that grants the Survival Expert Skill.
+| {{MHWildsSkillLink|Survival Expert|Health}} x3
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Blangonga Pelt+|Hide|White}} x5<br>
+{{GenericItemOverlay|MHWilds|Blangonga Fang+|Claw|White}} x3<br>
+{{GenericItemOverlay|MHWilds|Vespoid Innerwing|Webbing|Yellow}} x3<br>
+{{GenericItemOverlay|MHWilds|Dragonbone Relic|Bone|Tan}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Fitness Charm I|Talisman|4|Fitness Charm I}}
+| 4
+| A charm that grants the Constitution Skill.
+| {{MHWildsSkillLink|Constitution|Stamina}} x1
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Scale|Scale|Vermilion}} x2<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Jewel|Ore|Vermilion}} x1<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Ridge|Monster Part|Vermilion}} x1<br>
+{{GenericItemOverlay|MHWilds|Kranodath Skull|Head|Purple}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Fitness Charm II|Talisman|5|Fitness Charm II}}
+| 5
+| A charm that grants the Constitution Skill.
+| {{MHWildsSkillLink|Constitution|Stamina}} x2
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Kut-Ku Scale+|Scale|Pink}} x6<br>
+{{GenericItemOverlay|MHWilds|Kut-Ku Wing|Wing|Pink}} x4<br>
+{{GenericItemOverlay|MHWilds|Kut-Ku Ear|Monster Part|Pink}} x3<br>
+{{GenericItemOverlay|MHWilds|Carbalite Ore|Ore|Purple}} x5
+
+|-
+| {{GenericArmorLink|MHWilds|Fitness Charm III|Talisman|6|Fitness Charm III}}
+| 6
+| A charm that grants the Constitution Skill.
+| {{MHWildsSkillLink|Constitution|Stamina}} x3
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Guardian Ebony Claw+|Claw|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Guardian Ebony Fang+|Claw|White}} x3<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Claw+|Claw|White}} x3<br>
+{{GenericItemOverlay|MHWilds|Beast Gem|Ball|Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Fitness Charm IV|Talisman|7|Fitness Charm IV}}
+| 7
+| A charm that grants the Constitution Skill.
+| {{MHWildsSkillLink|Constitution|Stamina}} x4
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Gore Magala Wing+|Wing|Gray}} x4<br>
+{{GenericItemOverlay|MHWilds|Gore Magala Tail|Tail|Gray}} x2<br>
+{{GenericItemOverlay|MHWilds|Guardian Odogaron Gem||}} x1<br>
+{{GenericItemOverlay|MHWilds|Gore Magala Nyctgem|Ball|Gray}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Surge Charm I|Talisman|4|Surge Charm I}}
+| 4
+| A charm that grants the Stamina Surge Skill.
+| {{MHWildsSkillLink|Stamina Surge|Stamina}} x1
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Xu Wu Hide|Hide|Gray}} x2<br>
+{{GenericItemOverlay|MHWilds|Xu Wu Claw|Claw|Yellow}} x1<br>
+{{GenericItemOverlay|MHWilds|Nu Udra Hide|Hide|Gray}} x1<br>
+{{GenericItemOverlay|MHWilds|Xu Wu Cerebrospinal Fluid|Chemical|Gray}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Surge Charm II|Talisman|5|Surge Charm II}}
+| 5
+| A charm that grants the Stamina Surge Skill.
+| {{MHWildsSkillLink|Stamina Surge|Stamina}} x2
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Rubbery Hide+|Hide|Blue}} x4<br>
+{{GenericItemOverlay|MHWilds|Gypceros Tail|Tail|Blue}} x2<br>
+{{GenericItemOverlay|MHWilds|Lightcrystal|Ore|Gray}} x2<br>
+{{GenericItemOverlay|MHWilds|Bird Wyvern Gem|Ball|Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Surge Charm III|Talisman|6|Surge Charm III}}
+| 6
+| A charm that grants the Stamina Surge Skill.
+| {{MHWildsSkillLink|Stamina Surge|Stamina}} x3
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Golden Corneum+|Ore|Yellow}} x6| 6
+<br>
+{{GenericItemOverlay|MHWilds|Xu Wu Claw+|Claw|Yellow}} x4<br>
+{{GenericItemOverlay|MHWilds|Doshaguma Fang+|Claw|Brown}} x3<br>
+{{GenericItemOverlay|MHWilds|Xu Wu Umbragem|Ball|Gray}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Marathon Charm I|Talisman|4|Marathon Charm I}}
+| 4
+| A charm that grants the Marathon Runner Skill.
+| {{MHWildsSkillLink|Marathon Runner|Stamina}} x1
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Fur|Hide|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Claw|Claw|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Fang|Claw|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Guardian Seikret Feather|Hide|Green}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Marathon Charm II|Talisman|5|Marathon Charm II}}
+| 5
+| A charm that grants the Marathon Runner Skill.
+| {{MHWildsSkillLink|Marathon Runner|Stamina}} x2
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Rubbery Hide+|Hide|Blue}} x4<br>
+{{GenericItemOverlay|MHWilds|Gypceros Head|Head|Blue}} x3<br>
+{{GenericItemOverlay|MHWilds|Chatacabra Scale+|Scale|Green}} x3<br>
+{{GenericItemOverlay|MHWilds|Bird Wyvern Gem|Ball|Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Marathon Charm III|Talisman|6|Marathon Charm III}}
+| 6
+| A charm that grants the Marathon Runner Skill.
+| {{MHWildsSkillLink|Marathon Runner|Stamina}} x3
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Guardian Fulgur Scale+|Scale|White}} x6| 6
+<br>
+{{GenericItemOverlay|MHWilds|Guardian Fulgur Fang+|Claw|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Doshaguma Claw+|Claw|Brown}} x3<br>
+{{GenericItemOverlay|MHWilds|Guardian Fulgur Gem|Ball|White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Hungerless Charm I|Talisman|2|Hungerless Charm I}}
+| 2
+| A charm that grants the Hunger Resistance Skill.
+| {{MHWildsSkillLink|Hunger Resistance|Stamina}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Balahara Scale|Scale|Gray}} x2| 2
+<br>
+{{GenericItemOverlay|MHWilds|Balahara Tail|Tail|Gray}} x1<br>
+{{GenericItemOverlay|MHWilds|Sharp Fang|Claw|Orange}} x1<br>
+{{GenericItemOverlay|MHWilds|-||}} x-
+
+|-
+| {{GenericArmorLink|MHWilds|Hungerless Charm II|Talisman|4|Hungerless Charm II}}
+| 4
+| A charm that grants the Hunger Resistance Skill.
+| {{MHWildsSkillLink|Hunger Resistance|Stamina}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Hirabami Scale|Scale|Purple}} x2<br>
+{{GenericItemOverlay|MHWilds|Hirabami Webbing|Webbing|Purple}} x1<br>
+{{GenericItemOverlay|MHWilds|Talioth Scale|Scale|Orange}} x2<br>
+{{GenericItemOverlay|MHWilds|Frozen Icebone|Bone|White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Hungerless Charm III|Talisman|5|Hungerless Charm III}}
+| 5
+| A charm that grants the Hunger Resistance Skill.
+| {{MHWildsSkillLink|Hunger Resistance|Stamina}} x3
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Chatacabra Scale+|Scale|Green}} x4<br>
+{{GenericItemOverlay|MHWilds|Chatacabra Carapace|Shell|Green}} x2<br>
+{{GenericItemOverlay|MHWilds|Congalala Fang+|Claw|Pink}} x1<br>
+{{GenericItemOverlay|MHWilds|Dragonbone Relic|Bone|Tan}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Challenger Charm I|Talisman|5|Challenger Charm I}}
+| 5
+| A charm that grants the Agitator Skill.
+| {{MHWildsSkillLink|Agitator|Empower}} x1
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Rathian Scale +||}} x6<br>
+{{GenericItemOverlay|MHWilds|Rathian Webbing|Wing|Green}} x3<br>
+{{GenericItemOverlay|MHWilds|Kut-Ku Scale+|Scale|Pink}} x5| 5
+<br>
+{{GenericItemOverlay|MHWilds|Wyvern Gem|Ball|Light Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Challenger Charm II|Talisman|7|Challenger Charm II}}
+| 7
+| A charm that grants the Agitator Skill.
+| {{MHWildsSkillLink|Agitator|Empower}} x2
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Hunter's Symbol III||}} x5<br>
+{{GenericItemOverlay|MHWilds|Hunter's Symbol II||}} x3<br>
+{{GenericItemOverlay|MHWilds|Uth Duna Watergem|Ball|Violet}} x1<br>
+{{GenericItemOverlay|MHWilds|Guardian Rathalos Ruby|Ball|White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Power Charm I|Talisman|5|Power Charm I}}
+| 5
+| A charm that grants the Latent Power Skill.
+| {{MHWildsSkillLink|Latent Power|Empower}} x1
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Hirabami Scale+|Scale|Purple}} x6<br>
+{{GenericItemOverlay|MHWilds|Quematrice Igniter+|Chemical|Red}} x3<br>
+{{GenericItemOverlay|MHWilds|Quematrice Crest|Head|Red}} x3<br>
+{{GenericItemOverlay|MHWilds|Wyvern Gem|Ball|Light Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Power Charm II|Talisman|7|Power Charm II}}
+| 7
+| A charm that grants the Latent Power Skill.
+| {{MHWildsSkillLink|Latent Power|Empower}} x2
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol III|Ticket|Lemon}} x5<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol II|Ticket|Yellow}} x3<br>
+{{GenericItemOverlay|MHWilds|Rey Dau Boltgem|Ball|Yellow}} x1<br>
+{{GenericItemOverlay|MHWilds|Guardian Fulgur Gem|Ball|White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Grit Charm I|Talisman|4|Grit Charm I}}
+| 4
+| A charm that grants the Heroics Skill.
+| {{MHWildsSkillLink|Heroics|Empower}} x1
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Fur|Hide|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Claw|Claw|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Guardian Seikret Feather|Hide|Green}} x2<br>
+{{GenericItemOverlay|MHWilds|Dragonite Ore|Ore|Green}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Grit Charm II|Talisman|6|Grit Charm II}}
+| 6
+| A charm that grants the Heroics Skill.
+| {{MHWildsSkillLink|Heroics|Empower}} x2
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Fur+|Hide|White}} x6| 6
+<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Claw+|Claw|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Guardian Seikret Feather+|Hide|Green}} x5<br>
+{{GenericItemOverlay|MHWilds|Firecell Stone|Ore|Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Grit Charm III|Talisman|7|Grit Charm III}}
+| 7
+| A charm that grants the Heroics Skill.
+| {{MHWildsSkillLink|Heroics|Empower}} x3
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol III|Ticket|Lemon}} x3<br>
+{{GenericItemOverlay|MHWilds|Rey Dau Bolthorn|Claw|Yellow}} x3<br>
+{{GenericItemOverlay|MHWilds|Xu Wu Claw+|Claw|Yellow}} x4<br>
+{{GenericItemOverlay|MHWilds|Xu Wu Umbragem|Ball|Gray}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Foray Charm I|Talisman|4|Foray Charm I}}
+| 4
+| A charm that grants the Foray Skill.
+| {{MHWildsSkillLink|Foray|Empower}} x1
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Spotted Poison Hide|Hide|Dark Blue}} x2<br>
+{{GenericItemOverlay|MHWilds|Lala Barina Floret|Hide|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Vespoid Wing|Webbing|Yellow}} x2<br>
+{{GenericItemOverlay|MHWilds|Earth Crystal|Ore|White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Foray Charm II|Talisman|6|Foray Charm II}}
+| 6
+| A charm that grants the Foray Skill.
+| {{MHWildsSkillLink|Foray|Empower}} x2
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol II|Ticket|Yellow}} x3<br>
+{{GenericItemOverlay|MHWilds|Gravios Pleura+|Shell|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Rathian Spike+|Monster Part|Green}} x3<br>
+{{GenericItemOverlay|MHWilds|Rathian Ruby|Ball|Green}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Chain Charm I|Talisman|5|Chain Charm I}}
+| 5
+| A charm that grants the Burst Skill.
+| {{MHWildsSkillLink|Burst|Empower}} x1
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Shear|Claw|White}} x3<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Claw+|Claw|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Congalala Claw+|Claw|Pink}} x6<br>
+{{GenericItemOverlay|MHWilds|Beast Gem|Ball|Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Chain Charm II|Talisman|7|Chain Charm II}}
+| 7
+| A charm that grants the Burst Skill.
+| {{MHWildsSkillLink|Burst|Empower}} x2
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol III|Ticket|Lemon}} x5<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol II|Ticket|Yellow}} x3<br>
+{{GenericItemOverlay|MHWilds|Guardian Ebony Gem|Ball|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Nu Udra Flamegem|Ball|Red}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Chainblade Charm I|Talisman|4|Chainblade Charm I}}
+| 4
+| A charm that grants the Flayer Skill.
+| {{MHWildsSkillLink|Flayer|Empower}} x1
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Guardian Blood|Chemical|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Guardian Scale|Scale|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Guardian Pelt|Hide|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Guardian Seikret Feather|Hide|Green}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Chainblade Charm II|Talisman|7|Chainblade Charm II}}
+| 7
+| A charm that grants the Flayer Skill.
+| {{MHWildsSkillLink|Flayer|Empower}} x2
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol III|Ticket|Lemon}} x5<br>
+{{GenericItemOverlay|MHWilds|Arkveld Armorplate|Shell|White}} x5<br>
+{{GenericItemOverlay|MHWilds|Arkveld Calloushell|Wing|White}} x3<br>
+{{GenericItemOverlay|MHWilds|Arkveld Gem|Ball|White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Breaker Charm I|Talisman|5|Breaker Charm I}}
+| 5
+| A charm that grants the Partbreaker Skill.
+| {{MHWildsSkillLink|Partbreaker|Empower}} x1
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Balahara Skull+|Head|Gray}} x3<br>
+{{GenericItemOverlay|MHWilds|Chatacabra Carapace|Shell|Green}} x4<br>
+{{GenericItemOverlay|MHWilds|Piragill Fin+|Monster Part|Red}} x2<br>
+{{GenericItemOverlay|MHWilds|Beast Gem|Ball|Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Breaker Charm II|Talisman|7|Breaker Charm II}}
+| 7
+| A charm that grants the Partbreaker Skill.
+| {{MHWildsSkillLink|Partbreaker|Empower}} x2
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Rey Dau Bolthorn|Claw|Yellow}} x3<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Jewel+|Ore|Vermilion}} x4<br>
+{{GenericItemOverlay|MHWilds|Kranodath Skull+|Head|Purple}} x5<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Medulla|Monster Part|Vermilion}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Phoenix Charm I|Talisman|6|Phoenix Charm I}}
+| 6
+| A charm that grants the Coalescence Skill.
+| {{MHWildsSkillLink|Coalescence|Empower}} x1
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Guardian Rathalos Wing|Wing|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Xu Wu Tentacle+|Monster Part|Gray}} x3<br>
+{{GenericItemOverlay|MHWilds|Guardian Seikret Feather|Hide|Green}} x5<br>
+{{GenericItemOverlay|MHWilds|Beast Gem|Ball|Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Phoenix Charm II|Talisman|7|Phoenix Charm II}}
+| 7
+| A charm that grants the Coalescence Skill.
+| {{MHWildsSkillLink|Coalescence|Empower}} x2
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Gore Magala Scale+|Scale|Gray}} x6<br>
+{{GenericItemOverlay|MHWilds|Gore Magala Wing+|Wing|Gray}} x4<br>
+{{GenericItemOverlay|MHWilds|Gore Magala Feeler+|Claw|Gray}} x3<br>
+{{GenericItemOverlay|MHWilds|Gore Magala Nyctgem|Ball|Gray}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Descent Charm I|Talisman|4|Descent Charm I}}
+| 4
+| A charm that grants the Ambush Skill.
+| {{MHWildsSkillLink|Ambush|Empower}} x1
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Golden Corneum|Ore|Yellow}} x2<br>
+{{GenericItemOverlay|MHWilds|Xu Wu Tentacle|Monster Part|Gray}} x1<br>
+{{GenericItemOverlay|MHWilds|Xu Wu Fang|Claw|Yellow}} x1<br>
+{{GenericItemOverlay|MHWilds|Firestone|Ore|Vermilion}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Descent Charm II|Talisman|6|Descent Charm II}}
+| 6
+| A charm that grants the Ambush Skill.
+| {{MHWildsSkillLink|Ambush|Empower}} x2
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Golden Corneum+|Ore|Yellow}} x6| 6
+<br>
+{{GenericItemOverlay|MHWilds|Xu Wu Tentacle+|Monster Part|Gray}} x4<br>
+{{GenericItemOverlay|MHWilds|Xu Wu Fang+|Claw|Yellow}} x2<br>
+{{GenericItemOverlay|MHWilds|Xu Wu Umbragem|Ball|Gray}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Descent Charm III|Talisman|7|Descent Charm III}}
+| 7
+| A charm that grants the Ambush Skill.
+| {{MHWildsSkillLink|Ambush|Empower}} x3
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol III|Ticket|Lemon}} x5<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol II|Ticket|Yellow}} x3<br>
+{{GenericItemOverlay|MHWilds|Nu Udra Flamegem|Ball|Red}} x1<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Medulla|Monster Part|Vermilion}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Sanity Charm I|Talisman|5|Sanity Charm I}}
+| 5
+| A charm that grants the Antivirus Skill.
+| {{MHWildsSkillLink|Antivirus|Empower}} x1
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Frenzy Shard|Crystal|Purple}} x5| 5
+<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Shear|Claw|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Hirabami Tail Claw+|Claw|Purple}} x2<br>
+{{GenericItemOverlay|MHWilds|Carbalite Ore|Ore|Purple}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Sanity Charm II|Talisman|6|Sanity Charm II}}
+| 6
+| A charm that grants the Antivirus Skill.
+| {{MHWildsSkillLink|Antivirus|Empower}} x2
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Frenzy Crystal|Crystal|Purple}} x5<br>
+{{GenericItemOverlay|MHWilds|Blangonga Pelt+|Hide|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Blangonga Whisker|Monster Part|White}} x3<br>
+{{GenericItemOverlay|MHWilds|Novacrystal|Ore|White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Sanity Charm III|Talisman|7|Sanity Charm III}}
+| 7
+| A charm that grants the Antivirus Skill.
+| {{MHWildsSkillLink|Antivirus|Empower}} x3
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Gore Magala Scale+|Scale|Gray}} x6<br>
+{{GenericItemOverlay|MHWilds|Gore Magala Ripclaw+|Claw|Gray}} x4<br>
+{{GenericItemOverlay|MHWilds|Gore Magala Feeler+|Claw|Gray}} x2<br>
+{{GenericItemOverlay|MHWilds|Gore Magala Nyctgem|Ball|Gray}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Imbibe Charm I|Talisman|7|Imbibe Charm I}}
+| 7
+| A charm that grants the Elemental Absorption Skill.
+| {{MHWildsSkillLink|Elemental Absorption|Empower}} x1
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol III|Ticket|Lemon}} x5<br>
+{{GenericItemOverlay|MHWilds|White Arkveld Pelt|Hide|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Arkveld Tail|Tail|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Arkveld Gem|Ball|White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Evasion Charm I|Talisman|4|Evasion Charm I}}
+| 4
+| A charm that grants the Evade Window Skill.
+| {{MHWildsSkillLink|Evade Window|Reinforce}} x1
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Hirabami Scale|Scale|Purple}} x1<br>
+{{GenericItemOverlay|MHWilds|Hirabami Tail Claw|Claw|Purple}} x1<br>
+{{GenericItemOverlay|MHWilds|Doshaguma Claw|Claw|Brown}} x1<br>
+{{GenericItemOverlay|MHWilds|Icium|Ore|White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Evasion Charm II|Talisman|5|Evasion Charm II}}
+| 5
+| A charm that grants the Evade Window Skill.
+| {{MHWildsSkillLink|Evade Window|Reinforce}} x2
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Hirabami Hide+|Hide|Purple}} x6<br>
+{{GenericItemOverlay|MHWilds|Hirabami Tail Claw+|Claw|Purple}} x3<br>
+{{GenericItemOverlay|MHWilds|Herbivore Carapace|Shell|Brown}} x5| 5
+<br>
+{{GenericItemOverlay|MHWilds|Firecell Stone|Ore|Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Evasion Charm III|Talisman|6|Evasion Charm III}}
+| 6
+| A charm that grants the Evade Window Skill.
+| {{MHWildsSkillLink|Evade Window|Reinforce}} x3
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Rathalos Scale+|Scale|Red}} x6| 6
+<br>
+{{GenericItemOverlay|MHWilds|Rathalos Wing|Wing|Red}} x4<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Ridge+|Monster Part|Vermilion}} x3<br>
+{{GenericItemOverlay|MHWilds|Rathalos Ruby|Ball|Red}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Leaping Charm I|Talisman|4|Leaping Charm I}}
+| 4
+| A charm that grants the Evade Extender Skill.
+| {{MHWildsSkillLink|Evade Extender|Reinforce}} x1
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Balahara Shell|Shell|Gray}} x2<br>
+{{GenericItemOverlay|MHWilds|Balahara Skull|Head|Gray}} x1<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Claw|Claw|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Dragonite Ore|Ore|Green}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Leaping Charm II|Talisman|5|Leaping Charm II}}
+| 5
+| A charm that grants the Evade Extender Skill.
+| {{MHWildsSkillLink|Evade Extender|Reinforce}} x2
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Balahara Carapace|Shell|Gray}} x6<br>
+{{GenericItemOverlay|MHWilds|Lala Barina Claw+|Claw|Rose}} x4<br>
+{{GenericItemOverlay|MHWilds|Talioth Scale+|Scale|Orange}} x5| 5
+<br>
+{{GenericItemOverlay|MHWilds|Wyvern Gem|Ball|Light Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Leaping Charm III|Talisman|6|Leaping Charm III}}
+| 6
+| A charm that grants the Evade Extender Skill.
+| {{MHWildsSkillLink|Evade Extender|Reinforce}} x3
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Rathalos Carapace|Shell|Red}} x6| 6
+<br>
+{{GenericItemOverlay|MHWilds|Rathalos Wing|Wing|Red}} x4<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Ridge+|Monster Part|Vermilion}} x3<br>
+{{GenericItemOverlay|MHWilds|Rathalos Ruby|Ball|Red}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Earplugs Charm I|Talisman|6|Earplugs Charm I}}
+| 6
+| A charm that grants the Earplugs Skill.
+| {{MHWildsSkillLink|Earplugs|Reinforce}} x1
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Rathalos Carapace|Shell|Red}} x6| 6
+<br>
+{{GenericItemOverlay|MHWilds|Rathalos Wing|Wing|Red}} x4<br>
+{{GenericItemOverlay|MHWilds|Kut-Ku Ear|Monster Part|Pink}} x2<br>
+{{GenericItemOverlay|MHWilds|Rathalos Ruby|Ball|Red}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Sheathe Charm I|Talisman|4|Sheathe Charm I}}
+| 4
+| A charm that grants the Quick Sheathe Skill.
+| {{MHWildsSkillLink|Quick Sheathe|Reinforce}} x1
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Hirabami Tail Claw|Claw|Purple}} x1<br>
+{{GenericItemOverlay|MHWilds|Balahara Scale|Scale|Gray}} x2<br>
+{{GenericItemOverlay|MHWilds|Balahara Skull|Head|Gray}} x1<br>
+{{GenericItemOverlay|MHWilds|Dragonite Ore|Ore|Green}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Sheathe Charm II|Talisman|5|Sheathe Charm II}}
+| 5
+| A charm that grants the Quick Sheathe Skill.
+| {{MHWildsSkillLink|Quick Sheathe|Reinforce}} x2
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Spotted Poison Hide+|Hide|Dark Blue}} x4<br>
+{{GenericItemOverlay|MHWilds|Rompopolo Beak+|Head|Dark Blue}} x3<br>
+{{GenericItemOverlay|MHWilds|Kranodath Skull+|Head|Purple}} x5| 5
+<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Marrow|Monster Part|Vermilion}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Sheathe Charm III|Talisman|6|Sheathe Charm III}}
+| 6
+| A charm that grants the Quick Sheathe Skill.
+| {{MHWildsSkillLink|Quick Sheathe|Reinforce}} x3
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Guardian Fulgur Fang+|Claw|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Guardian Fulgur Nosebone+|Bone|White}} x3<br>
+{{GenericItemOverlay|MHWilds|Guardian Rathalos Wing|Wing|White}} x3<br>
+{{GenericItemOverlay|MHWilds|Guardian Fulgur Gem|Ball|White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Windproof Charm I|Talisman|4|Windproof Charm I}}
+| 4
+| A charm that grants the Windproof Skill.
+| {{MHWildsSkillLink|Windproof|Reinforce}} x1
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Hide|Hide|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Fang|Claw|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Congalala Pelt|Hide|Pink}} x1<br>
+{{GenericItemOverlay|MHWilds|Dragonite Ore|Ore|Green}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Windproof Charm II|Talisman|5|Windproof Charm II}}
+| 5
+| A charm that grants the Windproof Skill.
+| {{MHWildsSkillLink|Windproof|Reinforce}} x2
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Kut-Ku Carapace|Shell|Pink}} x6<br>
+{{GenericItemOverlay|MHWilds|Kut-Ku Wing|Wing|Pink}} x4<br>
+{{GenericItemOverlay|MHWilds|Giant Beak|Head|Pink}} x2<br>
+{{GenericItemOverlay|MHWilds|Bird Wyvern Gem|Ball|Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Windproof Charm III|Talisman|6|Windproof Charm III}}
+| 6
+| A charm that grants the Windproof Skill.
+| {{MHWildsSkillLink|Windproof|Reinforce}} x3
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Guardian Rathalos Carapace|Shell|White}} x6| 6
+<br>
+{{GenericItemOverlay|MHWilds|Guardian Rathalos Wing|Wing|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Rathian Spike+|Monster Part|Green}} x3<br>
+{{GenericItemOverlay|MHWilds|Rathian Ruby|Ball|Green}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Tremor Charm I|Talisman|4|Tremor Charm I}}
+| 4
+| A charm that grants the Tremor Resistance Skill.
+| {{MHWildsSkillLink|Tremor Resistance|Reinforce}} x1
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Shell|Shell|Vermilion}} x2<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Ridge|Monster Part|Vermilion}} x1<br>
+{{GenericItemOverlay|MHWilds|Congalala Claw|Claw|Pink}} x1<br>
+{{GenericItemOverlay|MHWilds|Dragonite Ore|Ore|Green}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Tremor Charm II|Talisman|5|Tremor Charm II}}
+| 5
+| A charm that grants the Tremor Resistance Skill.
+| {{MHWildsSkillLink|Tremor Resistance|Reinforce}} x2
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Balahara Carapace|Shell|Gray}} x4<br>
+{{GenericItemOverlay|MHWilds|Chatacabra Hide+|Hide|Green}} x6<br>
+{{GenericItemOverlay|MHWilds|Chatacabra Carapace|Shell|Green}} x4<br>
+{{GenericItemOverlay|MHWilds|Carbalite Ore|Ore|Purple}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Tremor Charm III|Talisman|6|Tremor Charm III}}
+| 6
+| A charm that grants the Tremor Resistance Skill.
+| {{MHWildsSkillLink|Tremor Resistance|Reinforce}} x3
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Gravios Carapace|Shell|White}} x6| 6
+<br>
+{{GenericItemOverlay|MHWilds|Gravios Pleura+|Shell|White}} x3<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Claw+|Claw|White}} x3<br>
+{{GenericItemOverlay|MHWilds|Firecell Stone|Ore|Orange}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Impact Charm I|Talisman|3|Impact Charm I}}
+| 3
+| A charm that grants the Flinch Free Skill.
+| {{MHWildsSkillLink|Flinch Free|Reinforce}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Quematrice Scale|Scale|Blue}} x2<br>
+{{GenericItemOverlay|MHWilds|Quematrice Hide|Hide|Blue}} x1<br>
+{{GenericItemOverlay|MHWilds|Kranodath Skull|Head|Purple}} x2<br>
+{{GenericItemOverlay|MHWilds|Iron Ore|Ore|Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Impact Charm II|Talisman|4|Impact Charm II}}
+| 4
+| A charm that grants the Flinch Free Skill.
+| {{MHWildsSkillLink|Flinch Free|Reinforce}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Guardian Rathalos Shell|Shell|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Guardian Rathalos Webbing|Wing|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Piragill Fin|Monster Part|Red}} x2<br>
+{{GenericItemOverlay|MHWilds|Machalite Ore|Ore|Blue}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Impact Charm III|Talisman|5|Impact Charm III}}
+| 5
+| A charm that grants the Flinch Free Skill.
+| {{MHWildsSkillLink|Flinch Free|Reinforce}} x3
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Quematrice Scale+|Scale|Blue}} x4<br>
+{{GenericItemOverlay|MHWilds|Quematrice Crest+|Head|Red}} x2<br>
+{{GenericItemOverlay|MHWilds|Piragill Fin+|Monster Part|Red}} x4<br>
+{{GenericItemOverlay|MHWilds|Dragonbone Relic|Bone|Tan}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Intimidator Charm I|Talisman|3|Intimidator Charm I}}
+| 3
+| A charm that grants the Intimidator Skill.
+| {{MHWildsSkillLink|Intimidator|Reinforce}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Doshaguma Fur|Hide|Brown}} x2<br>
+{{GenericItemOverlay|MHWilds|Doshaguma Claw|Claw|Brown}} x1<br>
+{{GenericItemOverlay|MHWilds|Monster Fluid|Chemical|Light Blue}} x2<br>
+{{GenericItemOverlay|MHWilds|Iron Ore|Ore|Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Intimidator Charm II|Talisman|5|Intimidator Charm II}}
+| 5
+| A charm that grants the Intimidator Skill.
+| {{MHWildsSkillLink|Intimidator|Reinforce}} x2
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Rathian Scale+|Scale|Green}} x5| 5
+<br>
+{{GenericItemOverlay|MHWilds|Rathian Webbing|Wing|Green}} x3<br>
+{{GenericItemOverlay|MHWilds|Monster Broth|Chemical|Blue}} x3<br>
+{{GenericItemOverlay|MHWilds|Carbalite Ore|Ore|Purple}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Intimidator Charm II|Talisman|6|Intimidator Charm II}}
+| 6
+| A charm that grants the Intimidator Skill.
+| {{MHWildsSkillLink|Intimidator|Reinforce}} x3
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Guardian Rathalos Scale+|Scale|White}} x5<br>
+{{GenericItemOverlay|MHWilds|Guardian Rathalos Wing|Wing|White}} x3<br>
+{{GenericItemOverlay|MHWilds|Guardian Rathlos Tail||}} x1<br>
+{{GenericItemOverlay|MHWilds|Firecell Stone|Ore|Orange}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Glutton's Charm I|Talisman|2|Glutton's Charm I}}
+| 2
+| A charm that grants the Speed Eating Skill.
+| {{MHWildsSkillLink|Speed Eating|Reinforce}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Doshaguma Fur|Hide|Brown}} x2| 2
+<br>
+{{GenericItemOverlay|MHWilds|Doshaguma Fang|Claw|Brown}} x1<br>
+{{GenericItemOverlay|MHWilds|Chatacabra Scale|Scale|Green}} x1<br>
+{{GenericItemOverlay|MHWilds|Brute Bone|Bone|White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Glutton's Charm II|Talisman|4|Glutton's Charm II}}
+| 4
+| A charm that grants the Speed Eating Skill.
+| {{MHWildsSkillLink|Speed Eating|Reinforce}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Guardian Ebony Claw|Claw|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Guardian Ebony Fang|Claw|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Nu Udra Horn|Claw|Yellow}} x2<br>
+{{GenericItemOverlay|MHWilds|Tough Guardian Bone|Bone|Light Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Glutton's Charm III|Talisman|5|Glutton's Charm III}}
+| 5
+| A charm that grants the Speed Eating Skill.
+| {{MHWildsSkillLink|Speed Eating|Reinforce}} x3
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Guardian Fulgur Fang+|Claw|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Rathian Webbing|Wing|Green}} x2<br>
+{{GenericItemOverlay|MHWilds|Chatacabra Jaw+|Head|Green}} x4<br>
+{{GenericItemOverlay|MHWilds|Rath Medulla|Monster Part|Red}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Friendship Charm I|Talisman|3|Friendship Charm I}}
+| 3
+| A charm that grants the Wide-Range Skill.
+| {{MHWildsSkillLink|Wide-Range|Item}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Rompoplo Hide||}} x2<br>
+{{GenericItemOverlay|MHWilds|Spotted Poison Hide|Hide|Dark Blue}} x1<br>
+{{GenericItemOverlay|MHWilds|Wingdrake Hide|Hide|Tan}} x1<br>
+{{GenericItemOverlay|MHWilds|Earth Crystal|Ore|White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Friendship Charm II|Talisman|4|Friendship Charm II}}
+| 4
+| A charm that grants the Wide-Range Skill.
+| {{MHWildsSkillLink|Wide-Range|Item}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Hirabami Hide|Hide|Purple}} x2<br>
+{{GenericItemOverlay|MHWilds|Hirabami Tail Claw|Claw|Purple}} x1<br>
+{{GenericItemOverlay|MHWilds|Herbivore Shell|Shell|Brown}} x2<br>
+{{GenericItemOverlay|MHWilds|Machalite Ore|Ore|Blue}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Friendship Charm III|Talisman|5|Friendship Charm III}}
+| 5
+| A charm that grants the Wide-Range Skill.
+| {{MHWildsSkillLink|Wide-Range|Item}} x3
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Guardian Rathalos Scale|Scale|White}} x3<br>
+{{GenericItemOverlay|MHWilds|Guardian Rathalos Tail|Tail|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Comaqchi Shell|Bug|Pink}} x3<br>
+{{GenericItemOverlay|MHWilds|Dragonite Ore|Ore|Green}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Friendship Charm IV|Talisman|5|Friendship Charm IV}}
+| 5
+| A charm that grants the Wide-Range Skill.
+| {{MHWildsSkillLink|Wide-Range|Item}} x4
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|HIrabami Tail Claw+||}} x3<br>
+{{GenericItemOverlay|MHWilds|Spotted Poison Hide+|Hide|Dark Blue}} x4<br>
+{{GenericItemOverlay|MHWilds|Wingdrake Hide+|Hide|Tan}} x5| 5
+<br>
+{{GenericItemOverlay|MHWilds|Wyvern Gem|Ball|Light Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Maintenance Charm I|Talisman|4|Maintenance Charm I}}
+| 4
+| A charm that grants the Tool Specialist Skill.
+| {{MHWildsSkillLink|Tool Specialist|Item}} x1
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Uth Duna Scale|Scale|Violet}} x2<br>
+{{GenericItemOverlay|MHWilds|Uth Duna Cilia|Hide|Pink}} x1<br>
+{{GenericItemOverlay|MHWilds|Piragill Fin|Monster Part|Red}} x2<br>
+{{GenericItemOverlay|MHWilds|Machalite Ore|Ore|Blue}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Maintenance Charm II|Talisman|6|Maintenance Charm II}}
+| 6
+| A charm that grants the Tool Specialist Skill.
+| {{MHWildsSkillLink|Tool Specialist|Item}} x2
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Gravios Carapace|Shell|White}} x6| 6
+<br>
+{{GenericItemOverlay|MHWilds|Gravios Skull|Head|White}} x3<br>
+{{GenericItemOverlay|MHWilds|Vibrant Pelt+|Hide|Yellow}} x2<br>
+{{GenericItemOverlay|MHWilds|Gravios Medulla|Monster Part|Red}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Maintenance Charm III|Talisman|7|Maintenance Charm III}}
+| 7
+| A charm that grants the Tool Specialist Skill.
+| {{MHWildsSkillLink|Tool Specialist|Item}} x3
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol III|Ticket|Lemon}} x3<br>
+{{GenericItemOverlay|MHWilds|Uth Duna  Scale+||}} x4<br>
+{{GenericItemOverlay|MHWilds|Uth Duna Tentacle+|Monster Part|Pink}} x2<br>
+{{GenericItemOverlay|MHWilds|Uth Duna Watergem|Ball|Violet}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Bombardier Charm I|Talisman|4|Bombardier Charm I}}
+| 4
+| A charm that grants the Bombardier Skill.
+| {{MHWildsSkillLink|Bombardier|Item}} x1
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Shell|Shell|Vermilion}} x2<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Jewel|Ore|Vermilion}} x1<br>
+{{GenericItemOverlay|MHWilds|Kranodath Skull|Head|Purple}} x1<br>
+{{GenericItemOverlay|MHWilds|Firestone|Ore|Vermilion}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Bombardier Charm II|Talisman|5|Bombardier Charm II}}
+| 5
+| A charm that grants the Bombardier Skill.
+| {{MHWildsSkillLink|Bombardier|Item}} x2
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Quematrice Scale+|Scale|Blue}} x3<br>
+{{GenericItemOverlay|MHWilds|Quematrice Igniter+|Chemical|Red}} x2<br>
+{{GenericItemOverlay|MHWilds|Kranodath Skull+|Head|Purple}} x4<br>
+{{GenericItemOverlay|MHWilds|Firecell Stone|Ore|Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Bombardier Charm III|Talisman|6|Bombardier Charm III}}
+| 6
+| A charm that grants the Bombardier Skill.
+| {{MHWildsSkillLink|Bombardier|Item}} x3
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Ajarankan Carapace||}} x4<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Jewel+|Ore|Vermilion}} x2<br>
+{{GenericItemOverlay|MHWilds|Inferno Sac|Sac|Red}} x2<br>
+{{GenericItemOverlay|MHWilds|Beast Gem|Ball|Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Mushroom Charm I|Talisman|4|Mushroom Charm I}}
+| 4
+| A charm that grants the Mushroomancer Skill.
+| {{MHWildsSkillLink|Mushroomancer|Item}} x1
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Chelicera|Claw|White}} x11<br>
+{{GenericItemOverlay|MHWilds|Congalala Claw|Claw|Pink}} x2<br>
+{{GenericItemOverlay|MHWilds|Conga Pelt|Hide|Pink}} x1<br>
+{{GenericItemOverlay|MHWilds|Charred Oilbone|Bone|Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Mushroom Charm II|Talisman|6|Mushroom Charm II}}
+| 6
+| A charm that grants the Mushroomancer Skill.
+| {{MHWildsSkillLink|Mushroomancer|Item}} x2
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Fang+|Claw|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Claw+|Claw|White}} x3<br>
+{{GenericItemOverlay|MHWilds|Congalala Fang+|Claw|Pink}} x3<br>
+{{GenericItemOverlay|MHWilds|Beast Gem|Ball|Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Mushroom Charm III|Talisman|7|Mushroom Charm III}}
+| 7
+| A charm that grants the Mushroomancer Skill.
+| {{MHWildsSkillLink|Mushroomancer|Item}} x3
+| 9000z<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol III|Ticket|Lemon}} x5<br>
+{{GenericItemOverlay|MHWilds|Hunter Symbol II|Ticket|Yellow}} x3<br>
+{{GenericItemOverlay|MHWilds|Guardian Fulgur Gem|Ball|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Uth Duna Watergem|Ball|Violet}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Extension Charm I|Talisman|3|Extension Charm I}}
+| 3
+| A charm that grants the Item Prolonger Skill.
+| {{MHWildsSkillLink|Item Prolonger|Item}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Chatacabra Scale|Scale|Green}} x2<br>
+{{GenericItemOverlay|MHWilds|Chatacabra Hide|Hide|Green}} x1<br>
+{{GenericItemOverlay|MHWilds|Herbivore Shell|Shell|Brown}} x1<br>
+{{GenericItemOverlay|MHWilds|Iron Ore|Ore|Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Extension Charm II|Talisman|4|Extension Charm II}}
+| 4
+| A charm that grants the Item Prolonger Skill.
+| {{MHWildsSkillLink|Item Prolonger|Item}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Spotted Poison Hide|Hide|Dark Blue}} x2<br>
+{{GenericItemOverlay|MHWilds|Doshaguma Hide|Hide|Brown}} x1<br>
+{{GenericItemOverlay|MHWilds|Bulaqchi Shell|Bug|Yellow}} x2<br>
+{{GenericItemOverlay|MHWilds|Dragonite Ore|Ore|Green}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Extension Charm III|Talisman|5|Extension Charm III}}
+| 5
+| A charm that grants the Item Prolonger Skill.
+| {{MHWildsSkillLink|Item Prolonger|Item}} x3
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Chatacabra Scale+|Scale|Green}} x4<br>
+{{GenericItemOverlay|MHWilds|Chatacabra Jaw+|Head|Green}} x2<br>
+{{GenericItemOverlay|MHWilds|Lala Barina Mucus+|Chemical|Rose}} x2<br>
+{{GenericItemOverlay|MHWilds|Novacrystal|Ore|White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Light Eater's Charm I|Talisman|4|Light Eater's Charm I}}
+| 4
+| A charm that grants the Free Meal Skill.
+| {{MHWildsSkillLink|Free Meal|Item}} x1
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Guardian Doshaguma Fang|Claw|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Doshaguma Claw|Claw|Brown}} x2<br>
+{{GenericItemOverlay|MHWilds|Talioth Scale|Scale|Orange}} x1<br>
+{{GenericItemOverlay|MHWilds|Brute Bone|Bone|White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Light Eater's Charm II|Talisman|5|Light Eater's Charm II}}
+| 5
+| A charm that grants the Free Meal Skill.
+| {{MHWildsSkillLink|Free Meal|Item}} x2
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Congalala Pelt+|Hide|Pink}} x4<br>
+{{GenericItemOverlay|MHWilds|Congalala Fang+|Claw|Pink}} x2<br>
+{{GenericItemOverlay|MHWilds|Conga Pelt+|Hide|Pink}} x3<br>
+{{GenericItemOverlay|MHWilds|Quality Bone|Bone|Yellow}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Light Eater's Charm III|Talisman|6|Light Eater's Charm III}}
+| 6
+| A charm that grants the Free Meal Skill.
+| {{MHWildsSkillLink|Free Meal|Item}} x3
+| 6000z<br>
+{{GenericItemOverlay|MHWilds|Doshaguma Fur+|Hide|Brown}} x4<br>
+{{GenericItemOverlay|MHWilds|Doshaguma Claw+|Claw|Brown}} x2<br>
+{{GenericItemOverlay|MHWilds|Ajarakan Scale+|Scale|Vermilion}} x4<br>
+{{GenericItemOverlay|MHWilds|Dragonbone Relic|Bone|Tan}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Botany Charm I|Talisman|2|Botany Charm I}}
+| 2
+| A charm that grants the Botanist Skill.
+| {{MHWildsSkillLink|Botanist|Gathering}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Congalala Claw|Claw|Pink}} x2| 2
+<br>
+{{GenericItemOverlay|MHWilds|Congalala Fang|Claw|Pink}} x1<br>
+{{GenericItemOverlay|MHWilds|Conga Pelt|Hide|Pink}} x1<br>
+{{GenericItemOverlay|MHWilds|-||}} x-
+
+|-
+| {{GenericArmorLink|MHWilds|Botany Charm II|Talisman|4|Botany Charm II}}
+| 4
+| A charm that grants the Botanist Skill.
+| {{MHWildsSkillLink|Botanist|Gathering}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Claw|Claw|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Congalala Pelt|Hide|Pink}} x1<br>
+{{GenericItemOverlay|MHWilds|Herbivore Shell|Shell|Brown}} x2<br>
+{{GenericItemOverlay|MHWilds|Brute Bone|Bone|White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Botany Charm III|Talisman|4|Botany Charm III}}
+| 4
+| A charm that grants the Botanist Skill.
+| {{MHWildsSkillLink|Botanist|Gathering}} x3
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Guardian Rathalos Scale|Scale|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Spike|Monster Part|White}} x2<br>
+{{GenericItemOverlay|MHWilds|Comaqchi Shell|Bug|Pink}} x2<br>
+{{GenericItemOverlay|MHWilds|Charred Oilbone|Bone|Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Botany Charm IV|Talisman|5|Botany Charm IV}}
+| 5
+| A charm that grants the Botanist Skill.
+| {{MHWildsSkillLink|Botanist|Gathering}} x4
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Nerscylla Spike+|Monster Part|White}} x4<br>
+{{GenericItemOverlay|MHWilds|Congalala Fang+|Claw|Pink}} x4<br>
+{{GenericItemOverlay|MHWilds|Conga Pelt+|Hide|Pink}} x5| 5
+<br>
+{{GenericItemOverlay|MHWilds|Dragonbone Relic|Bone|Tan}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Geology Charm I|Talisman|2|Geology Charm I}}
+| 2
+| A charm that grants the Geologist Skill.
+| {{MHWildsSkillLink|Geologist|Gathering}} x1
+| 500z<br>
+{{GenericItemOverlay|MHWilds|Balahara Scale|Scale|Gray}} x2| 2
+<br>
+{{GenericItemOverlay|MHWilds|Balahara Shell|Shell|Gray}} x1<br>
+{{GenericItemOverlay|MHWilds|Sturdy Bone|Bone|White}} x2| 2
+<br>
+{{GenericItemOverlay|MHWilds|-||}} x-
+
+|-
+| {{GenericArmorLink|MHWilds|Geology Charm II|Talisman|4|Geology Charm II}}
+| 4
+| A charm that grants the Geologist Skill.
+| {{MHWildsSkillLink|Geologist|Gathering}} x2
+| 1500z<br>
+{{GenericItemOverlay|MHWilds|Rompoplo Claw||}} x2<br>
+{{GenericItemOverlay|MHWilds|Rompopolo Beak|Head|Dark Blue}} x2<br>
+{{GenericItemOverlay|MHWilds|Machalite Ore|Ore|Blue}} x2<br>
+{{GenericItemOverlay|MHWilds|Dragonite Ore|Ore|Green}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Geology Charm III|Talisman|5|Geology Charm III}}
+| 5
+| A charm that grants the Geologist Skill.
+| {{MHWildsSkillLink|Geologist|Gathering}} x3
+| 3000z<br>
+{{GenericItemOverlay|MHWilds|Balahara Scale+|Scale|Gray}} x6<br>
+{{GenericItemOverlay|MHWilds|Balahara Skull+|Head|Gray}} x4<br>
+{{GenericItemOverlay|MHWilds|Novacrystal|Ore|White}} x1<br>
+{{GenericItemOverlay|MHWilds|Wyvern Gem|Ball|Light Blue}} x1
+
+|-
+|}

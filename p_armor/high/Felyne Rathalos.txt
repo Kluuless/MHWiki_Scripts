@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Rathalos α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Rathalos α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Rathalos α
+|Rarity                        = 6
+|Weapon Name                   = F Rathalos Blade α
+|Weapon Attack Type            = Severing
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 44
+|Weapon Affinity               = 10
+|Weapon Ranged Attack          = 40
+|Weapon Description            = A sword made of Rathalos parts. Blazing wyvern breath spews forth with every slash.
+|Weapon Forge Cost             = 2000z
+|Weapon Ailment Type           = Fire
+|Weapon Ailment Damage         = 28
+|Weapon Material 1 Name        = Rathalos Wing
+|Weapon Material 1 Icon Type   = Wing
+|Weapon Material 1 Icon Color  = Red
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = Felyne Rathalos Helm α
+|Head Defense                  = 38
+|Head Fire Res                 = 3
+|Head Water Res                = 1
+|Head Thunder Res              = -2
+|Head Ice Res                  = 1
+|Head Dragon Res               = -3
+|Head Description              = Head armor as wild and regal as the King of the Skies. Quets the fiercest of fires.
+|Head Forge Cost               = 2000z
+|Head Material 1 Name          = Guardian Rathalos Scale+
+|Head Material 1 Icon Type     = Scale
+|Head Material 1 Icon Color    = White
+|Head Material 1 Quantity      = 1
+|Torso Name                    = Felyne Rathalos Mail α
+|Torso Defense                 = 38
+|Torso Fire Res                = 3
+|Torso Water Res               = 1
+|Torso Thunder Res             = -2
+|Torso Ice Res                 = 1
+|Torso Dragon Res              = -3
+|Torso Description             = Body armor made of the King of the Skies' carapace, as strong and regal as its namesake.
+|Torso Forge Cost              = 2000z
+|Torso Material 1 Name         = Guardian Rathalos Carapace
+|Torso Material 1 Icon Type    = Shell
+|Torso Material 1 Icon Color   = White
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

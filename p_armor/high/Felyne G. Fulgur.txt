@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne G. Fulgur α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne G. Fulgur α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne G. Fulgur α
+|Rarity                        = 6
+|Weapon Name                   = F Guardian Fulgur Maul α
+|Weapon Attack Type            = Blunt
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 44
+|Weapon Affinity               = 10
+|Weapon Ranged Attack          = 30
+|Weapon Description            = A Guardian Fulgur Anjanath weapon that commands its bearer to last out at any who draw near.
+|Weapon Forge Cost             = 2000z
+|Weapon Ailment Type           = Thunder
+|Weapon Ailment Damage         = 24
+|Weapon Material 1 Name        = Guardian Fulgur Nosebone+
+|Weapon Material 1 Icon Type   = Bone
+|Weapon Material 1 Icon Color  = White
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = F Guardian Fulgur Helm α
+|Head Defense                  = 38
+|Head Fire Res                 = -1
+|Head Water Res                = -1
+|Head Thunder Res              = 2
+|Head Ice Res                  = -3
+|Head Dragon Res               = -2
+|Head Description              = A helm made of Guardian Fulgur Anjanath materials. Something tugs at the wearer. "I was meant to be more than a Palico…"
+|Head Forge Cost               = 2000z
+|Head Material 1 Name          = Guardian Fulgur Scale+
+|Head Material 1 Icon Type     = Scale
+|Head Material 1 Icon Color    = White
+|Head Material 1 Quantity      = 1
+|Torso Name                    = F Guardian Fulgur Mail α
+|Torso Defense                 = 38
+|Torso Fire Res                = -1
+|Torso Water Res               = -1
+|Torso Thunder Res             = 2
+|Torso Ice Res                 = -3
+|Torso Dragon Res              = -2
+|Torso Description             = The bleached-white portions of this Guardian Fulgur Anjanath armor glow faintly, and are warm to the touch.
+|Torso Forge Cost              = 2000z
+|Torso Material 1 Name         = Guardian Fulgur Pelt+
+|Torso Material 1 Icon Type    = Hide
+|Torso Material 1 Icon Color   = White
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

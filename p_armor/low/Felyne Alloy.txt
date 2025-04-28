@@ -1,0 +1,48 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Alloy set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Alloy Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Alloy
+|Rarity                        = 1
+|Weapon Name                   = Felyne Iron Sword
+|Weapon Attack Type            = Severing
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 4
+|Weapon Affinity               = 0
+|Weapon Ranged Attack          = 6
+|Weapon Description            = A large sword made by smelting down fine ore and hammering it for three days straight. Certified lethal.
+|Weapon Forge Cost             = 100z
+|Weapon Material 1 Name        = Machalite Ore
+|Weapon Material 1 Icon Type   = Ore
+|Weapon Material 1 Icon Color  = Blue
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = Felyne Alloy Helm
+|Head Defense                  = 6
+|Head Fire Res                 = -2
+|Head Water Res                = 1
+|Head Thunder Res              = -2
+|Head Ice Res                  = -2
+|Head Dragon Res               = 1
+|Head Description              = A helmet made by smelting fine ore, then pounding it for three days straight. Certified strong.
+|Head Forge Cost               = 100z
+|Head Material 1 Name          = Machalite Ore
+|Head Material 1 Icon Type     = Ore
+|Head Material 1 Icon Color    = Blue
+|Head Material 1 Quantity      = 1
+|Torso Name                    = Felyne Alloy Mail
+|Torso Defense                 = 6
+|Torso Fire Res                = -2
+|Torso Water Res               = 1
+|Torso Thunder Res             = -2
+|Torso Ice Res                 = -2
+|Torso Dragon Res              = 1
+|Torso Description             = Body armor made by smelting fine ore, then pounding it for three days straight. Guaranteed tough.
+|Torso Forge Cost              = 100z
+|Torso Material 1 Name         = Machalite Ore
+|Torso Material 1 Icon Type    = Ore
+|Torso Material 1 Icon Color   = Blue
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

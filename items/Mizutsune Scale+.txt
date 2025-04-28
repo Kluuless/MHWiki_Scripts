@@ -1,0 +1,39 @@
+{{GenericNav|MHWilds}}
+<br>
+{{MHWildsInfobox
+|English Name = Mizutsune Scale+|Japanese Name = ???|Type = Equipment Material|Image = MHWilds-Scale Icon White.png|Description = A high-quality Mizutsune scale. Older scales polished over time can be very valuable.|Rarity = 6|Price = 1750|Carry Limit = -}}
+
+=Crafting Recipes=
+{| class="wikitable" style="text-align:center;"
+! Number !! Result !! !! Material A !! !! Material B
+|-
+|}
+=Sources=
+==Quests==
+<div class="threecol" style="clear:both;">
+<div>
+</div>
+</div>
+==Monsters==
+<div class="threecol">
+<div>
+</div>
+</div>
+==Gathering <ref>[[User:Cola|Cola's]] interactive MHWilds map (https://c-ola.github.io/wildsmap/)</ref>==
+<div class="threecol">
+<div>
+</div>
+</div>
+==Other==
+=Forging=
+==Weapons==
+<div class="threecol">
+<div>
+</div>
+</div>
+==Armor==
+<div class="threecol">
+<div>
+</div>
+</div>
+[[Category:MHWilds Items]]

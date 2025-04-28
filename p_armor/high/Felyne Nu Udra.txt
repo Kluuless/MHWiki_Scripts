@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Nu Udra α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Nu Udra α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Nu Udra α
+|Rarity                        = 7
+|Weapon Name                   = Felyne Udra Vessel α
+|Weapon Attack Type            = Blunt
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 52
+|Weapon Affinity               = -10
+|Weapon Ranged Attack          = 40
+|Weapon Description            = A Nu Udra weapon. As you gaze into its depths, it gazes back at you.
+|Weapon Forge Cost             = 2500z
+|Weapon Ailment Type           = Fire
+|Weapon Ailment Damage         = 30
+|Weapon Material 1 Name        = Nu Udra Tentacle+
+|Weapon Material 1 Icon Type   = Monster Part
+|Weapon Material 1 Icon Color  = Gray
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = Felyne Udra Head α
+|Head Defense                  = 50
+|Head Fire Res                 = 5
+|Head Water Res                = -4
+|Head Thunder Res              = 0
+|Head Ice Res                  = 1
+|Head Dragon Res               = 0
+|Head Description              = Those who don this Nu Udra helm are shown a world crawling with aberrations that defy description.
+|Head Forge Cost               = 2500z
+|Head Material 1 Name          = Nu Udra Horn+
+|Head Material 1 Icon Type     = Claw
+|Head Material 1 Icon Color    = Yellow
+|Head Material 1 Quantity      = 1
+|Torso Name                    = Felyne Udra Tentacles α
+|Torso Defense                 = 50
+|Torso Fire Res                = 5
+|Torso Water Res               = -4
+|Torso Thunder Res             = 0
+|Torso Ice Res                 = 1
+|Torso Dragon Res              = 0
+|Torso Description             = This Nu Udra armor's tentacles writhe and grasp at prey entirely of their own will.
+|Torso Forge Cost              = 2500z
+|Torso Material 1 Name         = Nu Udra Hide+
+|Torso Material 1 Icon Type    = Hide
+|Torso Material 1 Icon Color   = Gray
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

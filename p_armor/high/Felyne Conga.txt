@@ -1,0 +1,48 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Conga α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Conga α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Conga α
+|Rarity                        = 5
+|Weapon Name                   = Felyne Conga Tambourine α
+|Weapon Attack Type            = Severing
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 38
+|Weapon Affinity               = 5
+|Weapon Ranged Attack          = 36
+|Weapon Description            = Even in the paws of a pitch-perfect Palico, this Congalala tambourine is always sharp.
+|Weapon Forge Cost             = 1200z
+|Weapon Material 1 Name        = Congalala Claw+
+|Weapon Material 1 Icon Type   = Claw
+|Weapon Material 1 Icon Color  = Pink
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = Felyne Conga Head α
+|Head Defense                  = 26
+|Head Fire Res                 = -3
+|Head Water Res                = 1
+|Head Thunder Res              = 1
+|Head Ice Res                  = -1
+|Head Dragon Res               = 2
+|Head Description              = A pointed hat whose proud, pink puff makes a Palico feel pretty darned special.
+|Head Forge Cost               = 1200z
+|Head Material 1 Name          = Vibrant Pelt+
+|Head Material 1 Icon Type     = Hide
+|Head Material 1 Icon Color    = Yellow
+|Head Material 1 Quantity      = 1
+|Torso Name                    = Felyne Conga Feet α
+|Torso Defense                 = 26
+|Torso Fire Res                = -3
+|Torso Water Res               = 1
+|Torso Thunder Res             = 1
+|Torso Ice Res                 = -1
+|Torso Dragon Res              = 2
+|Torso Description             = Mirthful cymbals that say, "Here I come!" as a Palico marches to the battlefield.
+|Torso Forge Cost              = 1200z
+|Torso Material 1 Name         = Congalala Pelt+
+|Torso Material 1 Icon Type    = Hide
+|Torso Material 1 Icon Color   = Pink
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

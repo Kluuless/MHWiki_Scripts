@@ -1,0 +1,36 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Hope set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Hope Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Hope
+|Rarity                        = 1
+|Weapon Name                   = Felyne Hope Hammer
+|Weapon Attack Type            = Blunt
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 2
+|Weapon Affinity               = 0
+|Weapon Ranged Attack          = 2
+|Weapon Description            = A hammer made for the expedition. Better aimed toward research than hunting, but it's very easy to use!
+|Weapon Forge Cost             = 50z
+|Head Name                     = Felyne Hope Helm
+|Head Defense                  = 2
+|Head Fire Res                 = 1
+|Head Water Res                = 0
+|Head Thunder Res              = 1
+|Head Ice Res                  = 0
+|Head Dragon Res               = 0
+|Head Description              = A helm made for the expedition. A fusion of traditional Palico techniques and new technology.
+|Head Forge Cost               = 50z
+|Torso Name                    = Felyne Hope Suit
+|Torso Defense                 = 2
+|Torso Fire Res                = 1
+|Torso Water Res               = 0
+|Torso Thunder Res             = 1
+|Torso Ice Res                 = 0
+|Torso Dragon Res              = 0
+|Torso Description             = Armor made for the expedition. Enough pockets to carry a shop-full of support items.
+|Torso Forge Cost              = 50z
+}}
+[[Category: MHWilds Palico Equipment]]

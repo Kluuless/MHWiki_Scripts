@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne G. Ebony set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne G. Ebony Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne G. Ebony
+|Rarity                        = 4
+|Weapon Name                   = F Guardian Ebony Sickle
+|Weapon Attack Type            = Severing
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 11
+|Weapon Affinity               = 20
+|Weapon Ranged Attack          = 11
+|Weapon Description            = A Guardian Ebony Odogaron weapon that commands its bearer to lash out at any who draw near.
+|Weapon Forge Cost             = 400z
+|Weapon Ailment Type           = Dragon
+|Weapon Ailment Damage         = 16
+|Weapon Material 1 Name        = Guardian Ebony Claw
+|Weapon Material 1 Icon Type   = Claw
+|Weapon Material 1 Icon Color  = White
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = F Guardian Ebony Helm
+|Head Defense                  = 18
+|Head Fire Res                 = -2
+|Head Water Res                = -3
+|Head Thunder Res              = -2
+|Head Ice Res                  = -2
+|Head Dragon Res               = 4
+|Head Description              = A helm made of Guardian Ebony Odogaron materials. Something tugs at the wearer. "I was meant to be more than a Palico…"
+|Head Forge Cost               = 400z
+|Head Material 1 Name          = Guardian Ebony Scale
+|Head Material 1 Icon Type     = Scale
+|Head Material 1 Icon Color    = White
+|Head Material 1 Quantity      = 1
+|Torso Name                    = F Guardian Ebony Mail
+|Torso Defense                 = 18
+|Torso Fire Res                = -2
+|Torso Water Res               = -3
+|Torso Thunder Res             = -2
+|Torso Ice Res                 = -2
+|Torso Dragon Res              = 4
+|Torso Description             = The bleached-white portions of this Guardian Ebony Odogaron armor glow faintly, and are warm to the touch.
+|Torso Forge Cost              = 400z
+|Torso Material 1 Name         = Guardian Ebony Sinew
+|Torso Material 1 Icon Type    = Monster Part
+|Torso Material 1 Icon Color   = White
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]

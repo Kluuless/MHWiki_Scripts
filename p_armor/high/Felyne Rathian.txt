@@ -1,0 +1,50 @@
+{{GenericNav|MHWilds}}
+
+The Felyne Rathian α set is a set of [[MHWilds/Palico Equipment|Palico Equipment]] in [[Monster Hunter Wilds]].
+{{GenericPalicoArmorSet
+|Front Image                   = MHWilds-Felyne Rathian α Armor Palico.png
+|Game                          = MHWilds
+|Name                          = Felyne Rathian α
+|Rarity                        = 5
+|Weapon Name                   = Felyne Rathian Rapier α
+|Weapon Attack Type            = Severing
+|Weapon Defense                = 0
+|Weapon Melee Attack           = 40
+|Weapon Affinity               = 10
+|Weapon Ranged Attack          = 38
+|Weapon Description            = The strength of a queen slumbers in this gorgeous, emerald Rathian sword.
+|Weapon Forge Cost             = 1500z
+|Weapon Ailment Type           = Poison
+|Weapon Ailment Damage         = 12
+|Weapon Material 1 Name        = Rathian Spike+
+|Weapon Material 1 Icon Type   = Monster Part
+|Weapon Material 1 Icon Color  = Green
+|Weapon Material 1 Quantity    = 1
+|Head Name                     = Felyne Rathian Tiara α
+|Head Defense                  = 30
+|Head Fire Res                 = 2
+|Head Water Res                = 0
+|Head Thunder Res              = -2
+|Head Ice Res                  = 0
+|Head Dragon Res               = -3
+|Head Description              = A symbol of ferocity and pride that boasts remarkable defense and fire resistance.
+|Head Forge Cost               = 1500z
+|Head Material 1 Name          = Rathian Scale+
+|Head Material 1 Icon Type     = Scale
+|Head Material 1 Icon Color    = Green
+|Head Material 1 Quantity      = 1
+|Torso Name                    = Felyne Rathian Male α
+|Torso Defense                 = 30
+|Torso Fire Res                = 2
+|Torso Water Res               = 0
+|Torso Thunder Res             = -2
+|Torso Ice Res                 = 0
+|Torso Dragon Res              = -3
+|Torso Description             = Body armor made of strong, supple shell. As unbreakable as a Rathian's spirit.
+|Torso Forge Cost              = 1500z
+|Torso Material 1 Name         = Rathian Carapace
+|Torso Material 1 Icon Type    = Shell
+|Torso Material 1 Icon Color   = Green
+|Torso Material 1 Quantity     = 1
+}}
+[[Category: MHWilds Palico Equipment]]
