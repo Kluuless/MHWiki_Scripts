@@ -1,0 +1,1210 @@
+[
+	{
+		"Material": "Chatacabra Scale",
+		"Points": 1
+	},
+	{
+		"Material": "Chatacabra Hide",
+		"Points": 1
+	},
+	{
+		"Material": "Chatacabra Jaw",
+		"Points": 1
+	},
+	{
+		"Material": "Chatacabra Shell",
+		"Points": 2
+	},
+	{
+		"Material": "Chatacabra Certificate",
+		"Points": 1
+	},
+	{
+		"Material": "Chatacabra Scale+",
+		"Points": 30
+	},
+	{
+		"Material": "Chatacabra Hide+",
+		"Points": 30
+	},
+	{
+		"Material": "Chatacabra Jaw+",
+		"Points": 30
+	},
+	{
+		"Material": "Chatacabra Carapace",
+		"Points": 40
+	},
+	{
+		"Material": "Chatacabra Certificate S",
+		"Points": 30
+	},
+	{
+		"Material": "Quematrice Scale",
+		"Points": 1
+	},
+	{
+		"Material": "Quematrice Hide",
+		"Points": 1
+	},
+	{
+		"Material": "Quematrice Igniter",
+		"Points": 1
+	},
+	{
+		"Material": "Quematrice Crest",
+		"Points": 2
+	},
+	{
+		"Material": "Quematrice Tail",
+		"Points": 2
+	},
+	{
+		"Material": "Quematrice Certificate",
+		"Points": 1
+	},
+	{
+		"Material": "Quematrice Scale+",
+		"Points": 30
+	},
+	{
+		"Material": "Quematrice Hide+",
+		"Points": 30
+	},
+	{
+		"Material": "Quematrice Igniter+",
+		"Points": 30
+	},
+	{
+		"Material": "Quematrice Crest+",
+		"Points": 40
+	},
+	{
+		"Material": "Quematrice Certificate S",
+		"Points": 30
+	},
+	{
+		"Material": "Lala Barina Floret",
+		"Points": 1
+	},
+	{
+		"Material": "Lala Barina Shell",
+		"Points": 1
+	},
+	{
+		"Material": "Lala Barina Claw",
+		"Points": 2
+	},
+	{
+		"Material": "Lala Barina Stinger",
+		"Points": 2
+	},
+	{
+		"Material": "Lala Barina Mucus",
+		"Points": 1
+	},
+	{
+		"Material": "Lala Barina Certificate",
+		"Points": 1
+	},
+	{
+		"Material": "Lala Barina Floret+",
+		"Points": 30
+	},
+	{
+		"Material": "Lala Barina Carapace",
+		"Points": 30
+	},
+	{
+		"Material": "Lala Barina Claw+",
+		"Points": 40
+	},
+	{
+		"Material": "Lala Barina Stinger+",
+		"Points": 40
+	},
+	{
+		"Material": "Lala Barina Mucus+",
+		"Points": 30
+	},
+	{
+		"Material": "Lala Barina Certificate S",
+		"Points": 30
+	},
+	{
+		"Material": "Congalala Pelt",
+		"Points": 1
+	},
+	{
+		"Material": "Congalala Claw",
+		"Points": 1
+	},
+	{
+		"Material": "Congalala Fang",
+		"Points": 1
+	},
+	{
+		"Material": "Vibrant Pelt",
+		"Points": 2
+	},
+	{
+		"Material": "Congalala Certificate",
+		"Points": 1
+	},
+	{
+		"Material": "Congalala Pelt+",
+		"Points": 30
+	},
+	{
+		"Material": "Congalala Claw+",
+		"Points": 30
+	},
+	{
+		"Material": "Congalala Fang+",
+		"Points": 30
+	},
+	{
+		"Material": "Vibrant Pelt+",
+		"Points": 40
+	},
+	{
+		"Material": "Congalala Certificate S",
+		"Points": 30
+	},
+	{
+		"Material": "Balahara Scale",
+		"Points": 1
+	},
+	{
+		"Material": "Balahara Shell",
+		"Points": 1
+	},
+	{
+		"Material": "Balahara Skull",
+		"Points": 1
+	},
+	{
+		"Material": "Balahara Tail",
+		"Points": 2
+	},
+	{
+		"Material": "Balahara Certificate",
+		"Points": 10
+	},
+	{
+		"Material": "Balahara Certificate",
+		"Points": 1
+	},
+	{
+		"Material": "Balahara Scale+",
+		"Points": 30
+	},
+	{
+		"Material": "Balahara Carapace",
+		"Points": 30
+	},
+	{
+		"Material": "Balahara Skull+",
+		"Points": 30
+	},
+	{
+		"Material": "Balahara Certificate S",
+		"Points": 30
+	},
+	{
+		"Material": "Doshaguma Fur",
+		"Points": 1
+	},
+	{
+		"Material": "Doshaguma Hide",
+		"Points": 1
+	},
+	{
+		"Material": "Doshaguma Claw",
+		"Points": 1
+	},
+	{
+		"Material": "Doshaguma Certificate",
+		"Points": 1
+	},
+	{
+		"Material": "Doshaguma Fur+",
+		"Points": 30
+	},
+	{
+		"Material": "Doshaguma Hide+",
+		"Points": 30
+	},
+	{
+		"Material": "Doshaguma Claw+",
+		"Points": 30
+	},
+	{
+		"Material": "Doshaguma Fang+",
+		"Points": 40
+	},
+	{
+		"Material": "Doshaguma Certificate S",
+		"Points": 30
+	},
+	{
+		"Material": "Uth Duna Scale",
+		"Points": 5
+	},
+	{
+		"Material": "Uth Duna Hide",
+		"Points": 5
+	},
+	{
+		"Material": "Uth Duna Tentacle",
+		"Points": 7
+	},
+	{
+		"Material": "Uth Duna Claw",
+		"Points": 7
+	},
+	{
+		"Material": "Uth Duna Plate",
+		"Points": 50
+	},
+	{
+		"Material": "Uth Duna Certificate",
+		"Points": 5
+	},
+	{
+		"Material": "Uth Duna Scale+",
+		"Points": 70
+	},
+	{
+		"Material": "Uth Duna Hide+",
+		"Points": 70
+	},
+	{
+		"Material": "Uth Duna Cilia+",
+		"Points": 70
+	},
+	{
+		"Material": "Uth Duna Tentacle+",
+		"Points": 80
+	},
+	{
+		"Material": "Uth Duna Claw+",
+		"Points": 80
+	},
+	{
+		"Material": "Uth Duna Watergem",
+		"Points": 800
+	},
+	{
+		"Material": "Uth Duna Certificate S",
+		"Points": 70
+	},
+	{
+		"Material": "Rompopolo Hide",
+		"Points": 3
+	},
+	{
+		"Material": "Rompopolo Claw",
+		"Points": 3
+	},
+	{
+		"Material": "Spotted Poison Hide",
+		"Points": 3
+	},
+	{
+		"Material": "Rompopolo Beak",
+		"Points": 4
+	},
+	{
+		"Material": "Rompopolo Certificate",
+		"Points": 3
+	},
+	{
+		"Material": "Rompopolo Hide+",
+		"Points": 30
+	},
+	{
+		"Material": "Rompopolo Claw+",
+		"Points": 30
+	},
+	{
+		"Material": "Spotted Poison Hide+",
+		"Points": 30
+	},
+	{
+		"Material": "Rompopolo Beak+",
+		"Points": 40
+	},
+	{
+		"Material": "Rompopolo Certificate S",
+		"Points": 30
+	},
+	{
+		"Material": "Rey Dau Scale",
+		"Points": 5
+	},
+	{
+		"Material": "Rey Dau Shell",
+		"Points": 5
+	},
+	{
+		"Material": "Rey Dau Thunderhorn",
+		"Points": 7
+	},
+	{
+		"Material": "Rey Dau Wingtalon",
+		"Points": 5
+	},
+	{
+		"Material": "Rey Dau Tail",
+		"Points": 7
+	},
+	{
+		"Material": "Rey Dau Plate",
+		"Points": 50
+	},
+	{
+		"Material": "Rey Dau Certificate",
+		"Points": 5
+	},
+	{
+		"Material": "Rey Dau Scale+",
+		"Points": 70
+	},
+	{
+		"Material": "Rey Dau Carapace",
+		"Points": 70
+	},
+	{
+		"Material": "Rey Dau Bolthorn",
+		"Points": 80
+	},
+	{
+		"Material": "Rey Dau Fulgurtalon",
+		"Points": 70
+	},
+	{
+		"Material": "Rey Dau Boltgem",
+		"Points": 800
+	},
+	{
+		"Material": "Rey Dau Certificate S",
+		"Points": 70
+	},
+	{
+		"Material": "Rey Dau Certificate γ",
+		"Points": 400
+	},
+	{
+		"Material": "Nerscylla Shell",
+		"Points": 3
+	},
+	{
+		"Material": "Nerscylla Claw",
+		"Points": 3
+	},
+	{
+		"Material": "Nerscylla Chelicera",
+		"Points": 4
+	},
+	{
+		"Material": "Nerscylla Spike",
+		"Points": 3
+	},
+	{
+		"Material": "Nerscylla Certificate",
+		"Points": 3
+	},
+	{
+		"Material": "Rubbery Hide",
+		"Points": 4
+	},
+	{
+		"Material": "Nerscylla Carapace",
+		"Points": 30
+	},
+	{
+		"Material": "Nerscylla Claw+",
+		"Points": 30
+	},
+	{
+		"Material": "Nerscylla Shear",
+		"Points": 40
+	},
+	{
+		"Material": "Nerscylla Spike+",
+		"Points": 30
+	},
+	{
+		"Material": "Nerscylla Certificate S",
+		"Points": 30
+	},
+	{
+		"Material": "Hirabami Scale",
+		"Points": 3
+	},
+	{
+		"Material": "Hirabami Hide",
+		"Points": 3
+	},
+	{
+		"Material": "Hirabami Webbing",
+		"Points": 3
+	},
+	{
+		"Material": "Hirabami Tail Claw",
+		"Points": 4
+	},
+	{
+		"Material": "Hirabami Certificate",
+		"Points": 3
+	},
+	{
+		"Material": "Hirabami Scale+",
+		"Points": 30
+	},
+	{
+		"Material": "Hirabami Hide+",
+		"Points": 30
+	},
+	{
+		"Material": "Hirabami Webbing+",
+		"Points": 30
+	},
+	{
+		"Material": "Hirabami Tail Claw+",
+		"Points": 40
+	},
+	{
+		"Material": "Hirabami Certificate S",
+		"Points": 30
+	},
+	{
+		"Material": "Ajarakan Scale",
+		"Points": 3
+	},
+	{
+		"Material": "Ajarakan Shell",
+		"Points": 3
+	},
+	{
+		"Material": "Ajarakan Tail",
+		"Points": 4
+	},
+	{
+		"Material": "Ajarakan Jewel",
+		"Points": 3
+	},
+	{
+		"Material": "Ajarakan Marrow",
+		"Points": 30
+	},
+	{
+		"Material": "Ajarakan Certificate",
+		"Points": 3
+	},
+	{
+		"Material": "Ajarakan Scale+",
+		"Points": 50
+	},
+	{
+		"Material": "Ajarakan Carapace",
+		"Points": 50
+	},
+	{
+		"Material": "Ajarakan Ridge+",
+		"Points": 60
+	},
+	{
+		"Material": "Ajarakan Jewel+",
+		"Points": 50
+	},
+	{
+		"Material": "Ajarakan Medulla",
+		"Points": 500
+	},
+	{
+		"Material": "Ajarakan Certificate S",
+		"Points": 50
+	},
+	{
+		"Material": "Nu Udra Hide",
+		"Points": 5
+	},
+	{
+		"Material": "Nu Udra Spike",
+		"Points": 5
+	},
+	{
+		"Material": "Nu Udra Horn",
+		"Points": 7
+	},
+	{
+		"Material": "Nu Udra Tentacle",
+		"Points": 7
+	},
+	{
+		"Material": "Nu Udra Oilmucus",
+		"Points": 5
+	},
+	{
+		"Material": "Nu Udra Cerebrospinal Fluid",
+		"Points": 50
+	},
+	{
+		"Material": "Nu Udra Certificate",
+		"Points": 5
+	},
+	{
+		"Material": "Nu Udra Hide+",
+		"Points": 70
+	},
+	{
+		"Material": "Nu Udra Spike+",
+		"Points": 70
+	},
+	{
+		"Material": "Nu Udra Horn+",
+		"Points": 80
+	},
+	{
+		"Material": "Nu Udra Tentacle+",
+		"Points": 80
+	},
+	{
+		"Material": "Nu Udra Oilmucus+",
+		"Points": 70
+	},
+	{
+		"Material": "Nu Udra Flamegem",
+		"Points": 800
+	},
+	{
+		"Material": "Nu Udra Certificate S",
+		"Points": 70
+	},
+	{
+		"Material": "Guardian Doshaguma Fur",
+		"Points": 5
+	},
+	{
+		"Material": "Guardian Doshaguma Hide",
+		"Points": 5
+	},
+	{
+		"Material": "Guardian Doshaguma Claw",
+		"Points": 5
+	},
+	{
+		"Material": "G. Doshaguma Certificate",
+		"Points": 5
+	},
+	{
+		"Material": "Guardian Doshaguma Fur+",
+		"Points": 50
+	},
+	{
+		"Material": "Guardian Doshaguma Hide+",
+		"Points": 50
+	},
+	{
+		"Material": "Guardian Doshaguma Claw+",
+		"Points": 50
+	},
+	{
+		"Material": "Guardian Doshaguma Fang+",
+		"Points": 60
+	},
+	{
+		"Material": "G. Doshaguma Certificate S",
+		"Points": 50
+	},
+	{
+		"Material": "Guardian Rathalos Scale",
+		"Points": 5
+	},
+	{
+		"Material": "Guardian Rathalos Shell",
+		"Points": 5
+	},
+	{
+		"Material": "Guardian Rathalos Webbing",
+		"Points": 7
+	},
+	{
+		"Material": "Guardian Rathalos Tail",
+		"Points": 7
+	},
+	{
+		"Material": "Guardian Rathalos Plate",
+		"Points": 50
+	},
+	{
+		"Material": "G. Rathalos Certificate",
+		"Points": 5
+	},
+	{
+		"Material": "Guardian Rathalos Scale+",
+		"Points": 50
+	},
+	{
+		"Material": "Guardian Rathalos Carapace",
+		"Points": 50
+	},
+	{
+		"Material": "Guardian Rathalos Wing",
+		"Points": 60
+	},
+	{
+		"Material": "Guardian Rathalos Ruby",
+		"Points": 500
+	},
+	{
+		"Material": "G. Rathalos Certificate S",
+		"Points": 50
+	},
+	{
+		"Material": "Guardian Ebony Scale",
+		"Points": 5
+	},
+	{
+		"Material": "Guardian Ebony Sinew",
+		"Points": 5
+	},
+	{
+		"Material": "Guardian Ebony Claw",
+		"Points": 5
+	},
+	{
+		"Material": "Guardian Ebony Fang",
+		"Points": 7
+	},
+	{
+		"Material": "Guardian Ebony Tail",
+		"Points": 7
+	},
+	{
+		"Material": "Guardian Ebony Plate",
+		"Points": 50
+	},
+	{
+		"Material": "G. Ebony Odogaron Certificate",
+		"Points": 5
+	},
+	{
+		"Material": "Guardian Ebony Scale+",
+		"Points": 50
+	},
+	{
+		"Material": "Guardian Ebony Sinew+",
+		"Points": 50
+	},
+	{
+		"Material": "Guardian Ebony Claw+",
+		"Points": 50
+	},
+	{
+		"Material": "Guardian Ebony Fang+",
+		"Points": 60
+	},
+	{
+		"Material": "Guardian Ebony Gem",
+		"Points": 500
+	},
+	{
+		"Material": "G. Ebony Odogaron Certificate S",
+		"Points": 50
+	},
+	{
+		"Material": "Xu Wu Hide",
+		"Points": 5
+	},
+	{
+		"Material": "Golden Corneum",
+		"Points": 5
+	},
+	{
+		"Material": "Xu Wu Tentacle",
+		"Points": 7
+	},
+	{
+		"Material": "Xu Wu Claw",
+		"Points": 5
+	},
+	{
+		"Material": "Xu Wu Cerebrospinal Fluid",
+		"Points": 50
+	},
+	{
+		"Material": "Xu Wu Certificate",
+		"Points": 5
+	},
+	{
+		"Material": "Xu Wu Hide+",
+		"Points": 50
+	},
+	{
+		"Material": "Golden Corneum+",
+		"Points": 50
+	},
+	{
+		"Material": "Xu Wu Tentacle+",
+		"Points": 60
+	},
+	{
+		"Material": "Xu Wu Claw+",
+		"Points": 50
+	},
+	{
+		"Material": "Xu Wu Fang+",
+		"Points": 60
+	},
+	{
+		"Material": "Xu Wu Umbragem",
+		"Points": 500
+	},
+	{
+		"Material": "Xu Wu Certificate S",
+		"Points": 50
+	},
+	{
+		"Material": "Kut-Ku Scale+",
+		"Points": 30
+	},
+	{
+		"Material": "Kut-Ku Carapace",
+		"Points": 30
+	},
+	{
+		"Material": "Kut-Ku Ear",
+		"Points": 40
+	},
+	{
+		"Material": "Giant Beak",
+		"Points": 40
+	},
+	{
+		"Material": "Kut-Ku Wing",
+		"Points": 30
+	},
+	{
+		"Material": "Yian Kut-Ku Certificate S",
+		"Points": 30
+	},
+	{
+		"Material": "Rubbery Hide+",
+		"Points": 30
+	},
+	{
+		"Material": "Gypceros Wing",
+		"Points": 30
+	},
+	{
+		"Material": "Gypceros Head",
+		"Points": 40
+	},
+	{
+		"Material": "Gypceros Tail",
+		"Points": 15
+	},
+	{
+		"Material": "Gypceros Certificate S",
+		"Points": 30
+	},
+	{
+		"Material": "Rathian Scale+",
+		"Points": 30
+	},
+	{
+		"Material": "Rathian Carapace",
+		"Points": 30
+	},
+	{
+		"Material": "Rathian Webbing",
+		"Points": 40
+	},
+	{
+		"Material": "Rathian Spike+",
+		"Points": 40
+	},
+	{
+		"Material": "Rathian Ruby",
+		"Points": 300
+	},
+	{
+		"Material": "Rathian Certificate S",
+		"Points": 30
+	},
+	{
+		"Material": "Guardian Fulgur Scale+",
+		"Points": 50
+	},
+	{
+		"Material": "Guardian Fulgur Pelt+",
+		"Points": 50
+	},
+	{
+		"Material": "Guardian Fulgur Fang+",
+		"Points": 50
+	},
+	{
+		"Material": "Guardian Fulgur Nosebone+",
+		"Points": 60
+	},
+	{
+		"Material": "Guardian Fulgur Tail",
+		"Points": 60
+	},
+	{
+		"Material": "Guardian Fulgur Gem",
+		"Points": 500
+	},
+	{
+		"Material": "Guardian Fulgur Certificate S",
+		"Points": 50
+	},
+	{
+		"Material": "Blangonga Pelt+",
+		"Points": 50
+	},
+	{
+		"Material": "Blangonga Pelt+",
+		"Points": 50
+	},
+	{
+		"Material": "Blangonga Whisker",
+		"Points": 60
+	},
+	{
+		"Material": "Blangonga Tail",
+		"Points": 50
+	},
+	{
+		"Material": "Blangonga Certificate S",
+		"Points": 50
+	},
+	{
+		"Material": "Gravios Carapace",
+		"Points": 50
+	},
+	{
+		"Material": "Gravios Skull",
+		"Points": 60
+	},
+	{
+		"Material": "Gravios Pleura+",
+		"Points": 60
+	},
+	{
+		"Material": "Gravios Medulla",
+		"Points": 500
+	},
+	{
+		"Material": "Gravios Wing",
+		"Points": 50
+	},
+	{
+		"Material": "Gravios Certificate S",
+		"Points": 50
+	},
+	{
+		"Material": "Rathalos Scale+",
+		"Points": 50
+	},
+	{
+		"Material": "Rathalos Carapace",
+		"Points": 50
+	},
+	{
+		"Material": "Rathalos Wing",
+		"Points": 60
+	},
+	{
+		"Material": "Rathalos Tail",
+		"Points": 60
+	},
+	{
+		"Material": "Rathalos Ruby",
+		"Points": 500
+	},
+	{
+		"Material": "Rathalos Certificate S",
+		"Points": 50
+	},
+	{
+		"Material": "Rath Medulla",
+		"Points": 300
+	},
+	{
+		"Material": "Jin Dahaad Scale+",
+		"Points": 70
+	},
+	{
+		"Material": "Jin Dahaad Carapace",
+		"Points": 70
+	},
+	{
+		"Material": "Jin Dahaad Iceplate",
+		"Points": 70
+	},
+	{
+		"Material": "Jin Dahaad Claw+",
+		"Points": 80
+	},
+	{
+		"Material": "Jin Dahaad Horn",
+		"Points": 80
+	},
+	{
+		"Material": "Jin Dahaad Tail",
+		"Points": 80
+	},
+	{
+		"Material": "Jin Dahaad Icegem",
+		"Points": 800
+	},
+	{
+		"Material": "Jin Dahaad Certificate S",
+		"Points": 70
+	},
+	{
+		"Material": "Gore Magala Scale+",
+		"Points": 70
+	},
+	{
+		"Material": "Gore Magala Carapace",
+		"Points": 70
+	},
+	{
+		"Material": "Gore Magala Ripclaw+",
+		"Points": 70
+	},
+	{
+		"Material": "Gore Magala Wing+",
+		"Points": 70
+	},
+	{
+		"Material": "Gore Magala Feeler+",
+		"Points": 80
+	},
+	{
+		"Material": "Gore Magala Tail",
+		"Points": 80
+	},
+	{
+		"Material": "Gore Magala Nyctgem",
+		"Points": 800
+	},
+	{
+		"Material": "Gore Magala Certificate S",
+		"Points": 70
+	},
+	{
+		"Material": "Arkveld Scale+",
+		"Points": 90
+	},
+	{
+		"Material": "Arkveld Armorplate",
+		"Points": 90
+	},
+	{
+		"Material": "White Arkveld Pelt",
+		"Points": 90
+	},
+	{
+		"Material": "Arkveld Calloushell",
+		"Points": 100
+	},
+	{
+		"Material": "Arkveld Horn+",
+		"Points": 100
+	},
+	{
+		"Material": "Arkveld Tail",
+		"Points": 100
+	},
+	{
+		"Material": "Arkveld Gem",
+		"Points": 1000
+	},
+	{
+		"Material": "Arkveld Certificate S",
+		"Points": 90
+	},
+	{
+		"Material": "Mizutsune Scale+",
+		"Points": 50
+	},
+	{
+		"Material": "Mizutsune Purplefur+",
+		"Points": 50
+	},
+	{
+		"Material": "Mizutsune Claw+",
+		"Points": 60
+	},
+	{
+		"Material": "Mizutsune Fin+",
+		"Points": 60
+	},
+	{
+		"Material": "Mizutsune Tail",
+		"Points": 60
+	},
+	{
+		"Material": "Bubblefoam+",
+		"Points": 50
+	},
+	{
+		"Material": "Mizutsune Water Orb",
+		"Points": 500
+	},
+	{
+		"Material": "Mizutsune Certificate S",
+		"Points": 50
+	},
+	{
+		"Material": "Zoh Shia Crystalscale",
+		"Points": 90
+	},
+	{
+		"Material": "Zoh Shia Layershell",
+		"Points": 90
+	},
+	{
+		"Material": "Zoh Shia Stakeclaw",
+		"Points": 90
+	},
+	{
+		"Material": "Zoh Shia Crystalhorn",
+		"Points": 100
+	},
+	{
+		"Material": "Zoh Shia Crystaltail",
+		"Points": 100
+	},
+	{
+		"Material": "Blackember Mass",
+		"Points": 100
+	},
+	{
+		"Material": "Faux Whitegleam Orb",
+		"Points": 1000
+	},
+	{
+		"Material": "Zoh Shia Certificate S",
+		"Points": 90
+	},
+	{
+		"Material": "Poison Sac",
+		"Points": 3
+	},
+	{
+		"Material": "Toxin Sac",
+		"Points": 30
+	},
+	{
+		"Material": "Sleep Sac",
+		"Points": 3
+	},
+	{
+		"Material": "Coma Sac",
+		"Points": 30
+	},
+	{
+		"Material": "Inferno Sac",
+		"Points": 30
+	},
+	{
+		"Material": "Thunder Sac",
+		"Points": 50
+	},
+	{
+		"Material": "Frost Sac",
+		"Points": 3
+	},
+	{
+		"Material": "Freezer Sac",
+		"Points": 30
+	},
+	{
+		"Material": "Aqua Sac",
+		"Points": 1
+	},
+	{
+		"Material": "Torrent Sac",
+		"Points": 30
+	},
+	{
+		"Material": "Bird Wyvern Gem",
+		"Points": 300
+	},
+	{
+		"Material": "Beast Gem",
+		"Points": 300
+	},
+	{
+		"Material": "Wyvern Gem",
+		"Points": 300
+	},
+	{
+		"Material": "Guardian Pelt",
+		"Points": 5
+	},
+	{
+		"Material": "Guardian Pelt+",
+		"Points": 50
+	},
+	{
+		"Material": "Guardian Scale",
+		"Points": 5
+	},
+	{
+		"Material": "Guardian Scale+",
+		"Points": 50
+	},
+	{
+		"Material": "Guardian Blood",
+		"Points": 7
+	},
+	{
+		"Material": "Guardian Blood+",
+		"Points": 60
+	},
+	{
+		"Material": "Monster Keenbone",
+		"Points": 30
+	},
+	{
+		"Material": "Monster Hardbone",
+		"Points": 70
+	},
+	{
+		"Material": "Stoutbone",
+		"Points": 30
+	},
+	{
+		"Material": "Great Stoutbone",
+		"Points": 50
+	},
+	{
+		"Material": "Frenzy Shard",
+		"Points": 50
+	},
+	{
+		"Material": "Frenzy Crystal",
+		"Points": 70
+	},
+	{
+		"Material": "Hunter Symbol I",
+		"Points": 50
+	},
+	{
+		"Material": "Hunter Symbol II",
+		"Points": 70
+	},
+	{
+		"Material": "Hunter Symbol III",
+		"Points": 90
+	}
+]

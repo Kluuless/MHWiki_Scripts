@@ -1,0 +1,1641 @@
+{| class="wikitable wide sortable" style="text-align:center; white-space:normal;"
+! Name
+! <span class="hide-on-mobile">Rarity</span><span class="show-on-mobile">R</span>
+! Skills Granted
+! Forging Cost
+|-
+| {{GenericArmorLink|MHWilds|Fury Charm I|Talisman|5|Fury Charm I}}
+| 5
+| {{MHWildsSkillLink|Resentment|Attack}} x1
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Nerscylla Carapace (MHWilds)|Nerscylla Carapace|Color=White}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Nerscylla Spike+ (MHWilds)|Nerscylla Spike+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Rompopolo Beak+ (MHWilds)|Rompopolo Beak+|Color=Dark Blue}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Wyvern Gem (MHWilds)|Wyvern Gem|Color=Light Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Fury Charm II|Talisman|7|Fury Charm II}}
+| 7
+| {{MHWildsSkillLink|Resentment|Attack}} x2
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol III (MHWilds)|Hunter Symbol III|Color=Lemon}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol II (MHWilds)|Hunter Symbol II|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Nu Udra Flamegem (MHWilds)|Nu Udra Flamegem|Color=Red}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Ajarakan Medulla (MHWilds)|Ajarakan Medulla|Color=Vermilion}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Counterattack Charm I|Talisman|5|Counterattack Charm I}}
+| 5
+| {{MHWildsSkillLink|Adrenaline Rush|Attack}} x1
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Webbing|Hirabami Webbing+ (MHWilds)|Hirabami Webbing+|Color=Purple}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Hirabami Tail Claw+ (MHWilds)|Hirabami Tail Claw+|Color=Purple}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Lala Barina Stinger+ (MHWilds)|Lala Barina Stinger+|Color=Gray}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Wyvern Gem (MHWilds)|Wyvern Gem|Color=Light Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Counterattack Charm II|Talisman|7|Counterattack Charm II}}
+| 7
+| {{MHWildsSkillLink|Adrenaline Rush|Attack}} x2
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol III (MHWilds)|Hunter Symbol III|Color=Lemon}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol II (MHWilds)|Hunter Symbol II|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Rathalos Ruby (MHWilds)|Rathalos Ruby|Color=Red}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Gore Magala Nyctgem (MHWilds)|Gore Magala Nyctgem|Color=Gray}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Unscathed Charm I|Talisman|5|Unscathed Charm I}}
+| 5
+| {{MHWildsSkillLink|Peak Performance|Attack}} x1
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Hirabami Scale+ (MHWilds)|Hirabami Scale+|Color=Purple}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Webbing|Hirabami Webbing+ (MHWilds)|Hirabami Webbing+|Color=Purple}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Vibrant Pelt+ (MHWilds)|Vibrant Pelt+|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Beast Gem (MHWilds)|Beast Gem|Color=Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Unscathed Charm II|Talisman|7|Unscathed Charm II}}
+| 7
+| {{MHWildsSkillLink|Peak Performance|Attack}} x2
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol III (MHWilds)|Hunter Symbol III|Color=Lemon}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol II (MHWilds)|Hunter Symbol II|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Jin Dahaad Icegem (MHWilds)|Jin Dahaad Icegem|Color=Light Blue}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Gravios Medulla (MHWilds)|Gravios Medulla|Color=Red}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Counter Charm I|Talisman|5|Counter Charm I}}
+| 5
+| {{MHWildsSkillLink|Counterstrike|Attack}} x1
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Wing|Rathian Webbing (MHWilds)|Rathian Webbing|Color=Green}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Gypceros Head (MHWilds)|Gypceros Head|Color=Blue}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Talioth Scale (MHWilds)|Talioth Scale|Color=Orange}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Bird Wyvern Gem (MHWilds)|Bird Wyvern Gem|Color=Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Counter Charm II|Talisman|6|Counter Charm II}}
+| 6
+| {{MHWildsSkillLink|Counterstrike|Attack}} x2
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Blangonga Pelt+ (MHWilds)|Blangonga Pelt+|Color=White}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Blangonga Whisker (MHWilds)|Blangonga Whisker|Color=White}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Blango Pelt+ (MHWilds)|Blango Pelt+|Color=White}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Beast Gem (MHWilds)|Beast Gem|Color=Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Counter Charm III|Talisman|7|Counter Charm III}}
+| 7
+| {{MHWildsSkillLink|Counterstrike|Attack}} x3
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol III (MHWilds)|Hunter Symbol III|Color=Lemon}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Nu Udra Horn+ (MHWilds)|Nu Udra Horn+|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Wing|Guardian Rathalos Wing (MHWilds)|Guardian Rathalos Wing|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Rathalos Ruby (MHWilds)|Rathalos Ruby|Color=Red}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Exploiter Charm I|Talisman|5|Exploiter Charm I}}
+| 5
+| {{MHWildsSkillLink|Weakness Exploit|Attack}} x1
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Rathian Carapace (MHWilds)|Rathian Carapace|Color=Green}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Rathian Spike+ (MHWilds)|Rathian Spike+|Color=Green}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Chatacabra Carapace (MHWilds)|Chatacabra Carapace|Color=Green}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Rathian Ruby (MHWilds)|Rathian Ruby|Color=Green}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Exploiter Charm II|Talisman|7|Exploiter Charm II}}
+| 7
+| {{MHWildsSkillLink|Weakness Exploit|Attack}} x2
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol III (MHWilds)|Hunter Symbol III|Color=Lemon}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol II (MHWilds)|Hunter Symbol II|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Arkveld Gem (MHWilds)|Arkveld Gem|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Guardian Rathalos Ruby (MHWilds)|Guardian Rathalos Ruby|Color=White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Mighty Charm I|Talisman|5|Mighty Charm I}}
+| 5
+| {{MHWildsSkillLink|Maximum Might|Attack}} x1
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Nerscylla Claw+ (MHWilds)|Nerscylla Claw+|Color=White}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Nerscylla Shear (MHWilds)|Nerscylla Shear|Color=White}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Gypceros Head (MHWilds)|Gypceros Head|Color=Blue}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Bird Wyvern Gem (MHWilds)|Bird Wyvern Gem|Color=Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Mighty Charm II|Talisman|7|Mighty Charm II}}
+| 7
+| {{MHWildsSkillLink|Maximum Might|Attack}} x2
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol III (MHWilds)|Hunter Symbol III|Color=Lemon}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol II (MHWilds)|Hunter Symbol II|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Xu Wu Umbragem (MHWilds)|Xu Wu Umbragem|Color=Gray}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Rey Dau Boltgem (MHWilds)|Rey Dau Boltgem|Color=Yellow}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Convert Charm I|Talisman|5|Convert Charm I}}
+| 5
+| {{MHWildsSkillLink|Convert Element|Attack}} x1
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol III (MHWilds)|Hunter Symbol III|Color=Lemon}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Arkveld Scale+ (MHWilds)|Arkveld Scale+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Arkveld Horn+ (MHWilds)|Arkveld Horn+|Color=White}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Arkveld Gem (MHWilds)|Arkveld Gem|Color=White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Convert Charm II|Talisman|8|Convert Charm II}}
+| 8
+| {{MHWildsSkillLink|Convert Element|Attack}} x2
+| 16000z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Zoh Shia Layershell (MHWilds)|Zoh Shia Layershell|Color=White}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Zoh Shia Crystalhorn (MHWilds)|Zoh Shia Crystalhorn|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Tail|Zoh Shia Crystaltail (MHWilds)|Zoh Shia Crystaltail|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Faux Whitegleam Orb (MHWilds)|Faux Whitegleam Orb|Color=White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Defense Charm I|Talisman|2|Defense Charm I}}
+| 2
+| {{MHWildsSkillLink|Defense Boost|Defense}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Doshaguma Claw (MHWilds)|Doshaguma Claw|Color=Brown}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Balahara Shell (MHWilds)|Balahara Shell|Color=Gray}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Balahara Skull (MHWilds)|Balahara Skull|Color=Gray}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Machalite Ore (MHWilds)|Machalite Ore|Color=Blue}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Defense Charm II|Talisman|4|Defense Charm II}}
+| 4
+| {{MHWildsSkillLink|Defense Boost|Defense}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Guardian Doshaguma Hide (MHWilds)|Guardian Doshaguma Hide|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Doshaguma Claw (MHWilds)|Guardian Doshaguma Claw|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Doshaguma Fang (MHWilds)|Guardian Doshaguma Fang|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Dragonite Ore (MHWilds)|Dragonite Ore|Color=Green}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Defense Charm III|Talisman|5|Defense Charm III}}
+| 5
+| {{MHWildsSkillLink|Defense Boost|Defense}} x3
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Chatacabra Carapace (MHWilds)|Chatacabra Carapace|Color=Green}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Chatacabra Scale+ (MHWilds)|Chatacabra Scale+|Color=Green}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Quematrice Crest+ (MHWilds)|Quematrice Crest+|Color=Red}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Firecell Stone (MHWilds)|Firecell Stone|Color=Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Defense Charm IV|Talisman|6|Defense Charm IV}}
+| 6
+| {{MHWildsSkillLink|Defense Boost|Defense}} x4
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Gravios Carapace (MHWilds)|Gravios Carapace|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Wing|Gravios Wing (MHWilds)|Gravios Wing|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Guardian Doshaguma Hide+ (MHWilds)|Guardian Doshaguma Hide+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Doshaguma Claw+ (MHWilds)|Guardian Doshaguma Claw+|Color=White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Defense Charm V|Talisman|7|Defense Charm V}}
+| 7
+| {{MHWildsSkillLink|Defense Boost|Defense}} x5
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Rey Dau Certificate γ (MHWilds)|Rey Dau Certificate γ|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol II (MHWilds)|Hunter Symbol II|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Ajarakan Ridge+ (MHWilds)|Ajarakan Ridge+|Color=Vermilion}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Gravios Skull (MHWilds)|Gravios Skull|Color=White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Blessing Charm I|Talisman|2|Blessing Charm I}}
+| 2
+| {{MHWildsSkillLink|Divine Blessing|Defense}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Chatacabra Scale (MHWilds)|Chatacabra Scale|Color=Green}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Quematrice Scale (MHWilds)|Quematrice Scale|Color=Blue}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Chemical|Lala Barina Mucus (MHWilds)|Lala Barina Mucus|Color=Rose}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Earth Crystal (MHWilds)|Earth Crystal|Color=White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Blessing Charm II|Talisman|4|Blessing Charm II}}
+| 4
+| {{MHWildsSkillLink|Divine Blessing|Defense}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Hirabami Hide (MHWilds)|Hirabami Hide|Color=Purple}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Webbing|Hirabami Webbing (MHWilds)|Hirabami Webbing|Color=Purple}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Uth Duna Tentacle (MHWilds)|Uth Duna Tentacle|Color=Pink}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Dragonite Ore (MHWilds)|Dragonite Ore|Color=Green}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Blessing Charm III|Talisman|5|Blessing Charm III}}
+| 5
+| {{MHWildsSkillLink|Divine Blessing|Defense}} x3
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Webbing|Hirabami Webbing+ (MHWilds)|Hirabami Webbing+|Color=Purple}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Rathian Spike+ (MHWilds)|Rathian Spike+|Color=Green}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Novacrystal (MHWilds)|Novacrystal|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Wyvern Gem (MHWilds)|Wyvern Gem|Color=Light Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Fire Charm I|Talisman|2|Fire Charm I}}
+| 2
+| {{MHWildsSkillLink|Fire Resistance|Defense}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Quematrice Scale (MHWilds)|Quematrice Scale|Color=Blue}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Chemical|Quematrice Igniter (MHWilds)|Quematrice Igniter|Color=Red}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Iron Ore (MHWilds)|Iron Ore|Color=Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Fire Charm II|Talisman|4|Fire Charm II}}
+| 4
+| {{MHWildsSkillLink|Fire Resistance|Defense}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Ajarakan Scale (MHWilds)|Ajarakan Scale|Color=Vermilion}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Ajarakan Jewel (MHWilds)|Ajarakan Jewel|Color=Vermilion}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Kranodath Skull (MHWilds)|Kranodath Skull|Color=Purple}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Firestone (MHWilds)|Firestone|Color=Vermilion}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Fire Charm III|Talisman|5|Fire Charm III}}
+| 5
+| {{MHWildsSkillLink|Fire Resistance|Defense}} x3
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Quematrice Scale+ (MHWilds)|Quematrice Scale+|Color=Blue}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Chemical|Quematrice Igniter+ (MHWilds)|Quematrice Igniter+|Color=Red}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Talioth Scale+ (MHWilds)|Talioth Scale+|Color=Orange}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Firecell Stone (MHWilds)|Firecell Stone|Color=Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Water Charm I|Talisman|2|Water Charm I}}
+| 2
+| {{MHWildsSkillLink|Water Resistance|Defense}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Balahara Scale (MHWilds)|Balahara Scale|Color=Gray}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Balahara Skull (MHWilds)|Balahara Skull|Color=Gray}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Earth Crystal (MHWilds)|Earth Crystal|Color=White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Water Charm II|Talisman|4|Water Charm II}}
+| 4
+| {{MHWildsSkillLink|Water Resistance|Defense}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Uth Duna Scale (MHWilds)|Uth Duna Scale|Color=Violet}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Uth Duna Cilia (MHWilds)|Uth Duna Cilia|Color=Pink}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Piragill Fin (MHWilds)|Piragill Fin|Color=Red}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Icium (MHWilds)|Icium|Color=White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Water Charm III|Talisman|5|Water Charm III}}
+| 5
+| {{MHWildsSkillLink|Water Resistance|Defense}} x3
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Balahara Carapace (MHWilds)|Balahara Carapace|Color=Gray}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Balahara Scale+ (MHWilds)|Balahara Scale+|Color=Gray}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Piragill Fin+ (MHWilds)|Piragill Fin+|Color=Red}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Gracium (MHWilds)|Gracium|Color=Blue}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Thunder Charm I|Talisman|3|Thunder Charm I}}
+| 3
+| {{MHWildsSkillLink|Thunder Resistance|Defense}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Rompopolo Hide (MHWilds)|Rompopolo Hide|Color=Dark Blue}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Spotted Poison Hide (MHWilds)|Spotted Poison Hide|Color=Dark Blue}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Earth Crystal (MHWilds)|Earth Crystal|Color=White}} x2<br>
+
+|-
+| {{GenericArmorLink|MHWilds|Thunder Charm II|Talisman|4|Thunder Charm II}}
+| 4
+| {{MHWildsSkillLink|Thunder Resistance|Defense}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Rey Dau Scale (MHWilds)|Rey Dau Scale|Color=Yellow}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Rey Dau Wingtalon (MHWilds)|Rey Dau Wingtalon|Color=Blue}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Bug|Bulaqchi Shell (MHWilds)|Bulaqchi Shell|Color=Yellow}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Machalite Ore (MHWilds)|Machalite Ore|Color=Blue}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Thunder Charm III|Talisman|5|Thunder Charm III}}
+| 5
+| {{MHWildsSkillLink|Thunder Resistance|Defense}} x3
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Rompopolo Hide+ (MHWilds)|Rompopolo Hide+|Color=Dark Blue}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Spotted Poison Hide+ (MHWilds)|Spotted Poison Hide+|Color=Dark Blue}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Talioth Scale+ (MHWilds)|Talioth Scale+|Color=Orange}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Lightcrystal (MHWilds)|Lightcrystal|Color=Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Ice Charm I|Talisman|3|Ice Charm I}}
+| 3
+| {{MHWildsSkillLink|Ice Resistance|Defense}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Congalala Pelt (MHWilds)|Congalala Pelt|Color=Pink}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Congalala Fang (MHWilds)|Congalala Fang|Color=Pink}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Earth Crystal (MHWilds)|Earth Crystal|Color=White}} x2<br>
+
+|-
+| {{GenericArmorLink|MHWilds|Ice Charm II|Talisman|4|Ice Charm II}}
+| 4
+| {{MHWildsSkillLink|Ice Resistance|Defense}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Hirabami Scale (MHWilds)|Hirabami Scale|Color=Purple}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Webbing|Hirabami Webbing (MHWilds)|Hirabami Webbing|Color=Purple}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Bug|Comaqchi Shell (MHWilds)|Comaqchi Shell|Color=Pink}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Icium (MHWilds)|Icium|Color=White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Ice Charm III|Talisman|5|Ice Charm III}}
+| 5
+| {{MHWildsSkillLink|Ice Resistance|Defense}} x3
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Hirabami Scale+ (MHWilds)|Hirabami Scale+|Color=Purple}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Webbing|Hirabami Webbing+ (MHWilds)|Hirabami Webbing+|Color=Purple}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Blango Pelt+ (MHWilds)|Blango Pelt+|Color=White}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Gracium (MHWilds)|Gracium|Color=Blue}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Dragon Charm I|Talisman|3|Dragon Charm I}}
+| 3
+| {{MHWildsSkillLink|Dragon Resistance|Defense}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Lala Barina Shell (MHWilds)|Lala Barina Shell|Color=Gray}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Chemical|Lala Barina Mucus (MHWilds)|Lala Barina Mucus|Color=Rose}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Earth Crystal (MHWilds)|Earth Crystal|Color=White}} x2<br>
+
+|-
+| {{GenericArmorLink|MHWilds|Dragon Charm II|Talisman|4|Dragon Charm II}}
+| 4
+| {{MHWildsSkillLink|Dragon Resistance|Defense}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Guardian Doshaguma Fur (MHWilds)|Guardian Doshaguma Fur|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Doshaguma Claw (MHWilds)|Guardian Doshaguma Claw|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Bug|Vespoid Shell (MHWilds)|Vespoid Shell|Color=Yellow}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Firestone (MHWilds)|Firestone|Color=Vermilion}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Dragon Charm III|Talisman|5|Dragon Charm III}}
+| 5
+| {{MHWildsSkillLink|Dragon Resistance|Defense}} x3
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Nerscylla Carapace (MHWilds)|Nerscylla Carapace|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Nerscylla Shear (MHWilds)|Nerscylla Shear|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Bug|Vespoid Carapace (MHWilds)|Vespoid Carapace|Color=Yellow}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Novacrystal (MHWilds)|Novacrystal|Color=White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Poison Charm I|Talisman|3|Poison Charm I}}
+| 3
+| {{MHWildsSkillLink|Poison Resistance|Defense}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Rompopolo Claw (MHWilds)|Rompopolo Claw|Color=Dark Blue}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Rompopolo Beak (MHWilds)|Rompopolo Beak|Color=Dark Blue}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Chemical|Monster Fluid (MHWilds)|Monster Fluid|Color=Light Blue}} x4<br>
+
+|-
+| {{GenericArmorLink|MHWilds|Poison Charm II|Talisman|4|Poison Charm II}}
+| 4
+| {{MHWildsSkillLink|Poison Resistance|Defense}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Nerscylla Shell (MHWilds)|Nerscylla Shell|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Nerscylla Spike (MHWilds)|Nerscylla Spike|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Bug|Bulaqchi Shell (MHWilds)|Bulaqchi Shell|Color=Yellow}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Sturdy Bone (MHWilds)|Sturdy Bone|Color=White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Poison Charm III|Talisman|5|Poison Charm III}}
+| 5
+| {{MHWildsSkillLink|Poison Resistance|Defense}} x3
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Rompopolo Claw+ (MHWilds)|Rompopolo Claw+|Color=Dark Blue}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Kut-Ku Carapace (MHWilds)|Kut-Ku Carapace|Color=Pink}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Bug|Vespoid Carapace (MHWilds)|Vespoid Carapace|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Quality Bone (MHWilds)|Quality Bone|Color=Yellow}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Paralysis Charm I|Talisman|2|Paralysis Charm I}}
+| 2
+| {{MHWildsSkillLink|Paralysis Resistance|Defense}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Lala Barina Floret (MHWilds)|Lala Barina Floret|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Chemical|Lala Barina Mucus (MHWilds)|Lala Barina Mucus|Color=Rose}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Bug|Vespoid Shell (MHWilds)|Vespoid Shell|Color=Yellow}} x1<br>
+
+|-
+| {{GenericArmorLink|MHWilds|Paralysis Charm II|Talisman|4|Paralysis Charm II}}
+| 4
+| {{MHWildsSkillLink|Paralysis Resistance|Defense}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Nerscylla Claw (MHWilds)|Nerscylla Claw|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Lala Barina Shell (MHWilds)|Lala Barina Shell|Color=Gray}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Webbing|Vespoid Wing (MHWilds)|Vespoid Wing|Color=Yellow}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Charred Oilbone (MHWilds)|Charred Oilbone|Color=Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Paralysis Charm III|Talisman|5|Paralysis Charm III}}
+| 5
+| {{MHWildsSkillLink|Paralysis Resistance|Defense}} x3
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Nerscylla Spike+ (MHWilds)|Nerscylla Spike+|Color=White}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Lala Barina Floret+ (MHWilds)|Lala Barina Floret+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Bug|Vespoid Carapace (MHWilds)|Vespoid Carapace|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Colossal Bone (MHWilds)|Colossal Bone|Color=White}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Sleep Charm I|Talisman|3|Sleep Charm I}}
+| 3
+| {{MHWildsSkillLink|Sleep Resistance|Defense}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Congalala Claw (MHWilds)|Congalala Claw|Color=Pink}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Congalala Pelt (MHWilds)|Congalala Pelt|Color=Pink}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Bug|Bulaqchi Shell (MHWilds)|Bulaqchi Shell|Color=Yellow}} x1<br>
+
+|-
+| {{GenericArmorLink|MHWilds|Sleep Charm II|Talisman|4|Sleep Charm II}}
+| 4
+| {{MHWildsSkillLink|Sleep Resistance|Defense}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Nerscylla Claw (MHWilds)|Nerscylla Claw|Color=White}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Nerscylla Chelicera (MHWilds)|Nerscylla Chelicera|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Bug|Comaqchi Shell (MHWilds)|Comaqchi Shell|Color=Pink}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Frozen Icebone (MHWilds)|Frozen Icebone|Color=White}} x3
+
+|-
+| {{GenericArmorLink|MHWilds|Sleep Charm III|Talisman|5|Sleep Charm III}}
+| 5
+| {{MHWildsSkillLink|Sleep Resistance|Defense}} x3
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Nerscylla Claw+ (MHWilds)|Nerscylla Claw+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Nerscylla Shear (MHWilds)|Nerscylla Shear|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Bug|Comaqchi Carapace (MHWilds)|Comaqchi Carapace|Color=Pink}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Quality Bone (MHWilds)|Quality Bone|Color=Yellow}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Guard Charm I|Talisman|3|Guard Charm I}}
+| 3
+| {{MHWildsSkillLink|Iron Skin|Defense}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Doshaguma Hide (MHWilds)|Doshaguma Hide|Color=Brown}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Doshaguma Fang (MHWilds)|Doshaguma Fang|Color=Brown}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Piragill Fin (MHWilds)|Piragill Fin|Color=Red}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Iron Ore (MHWilds)|Iron Ore|Color=Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Guard Charm II|Talisman|5|Guard Charm II}}
+| 5
+| {{MHWildsSkillLink|Iron Skin|Defense}} x2
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Balahara Scale+ (MHWilds)|Balahara Scale+|Color=Gray}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Balahara Skull+ (MHWilds)|Balahara Skull+|Color=Gray}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Piragill Fin+ (MHWilds)|Piragill Fin+|Color=Red}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Carbalite Ore (MHWilds)|Carbalite Ore|Color=Purple}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Guard Charm III|Talisman|6|Guard Charm III}}
+| 6
+| {{MHWildsSkillLink|Iron Skin|Defense}} x3
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Guardian Doshaguma Hide+ (MHWilds)|Guardian Doshaguma Hide+|Color=White}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Doshaguma Fang+ (MHWilds)|Guardian Doshaguma Fang+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Guardian Seikret Feather+ (MHWilds)|Guardian Seikret Feather+|Color=Green}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Beast Gem (MHWilds)|Beast Gem|Color=Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Blight Charm I|Talisman|6|Blight Charm I}}
+| 6
+| {{MHWildsSkillLink|Blight Resistance|Defense}} x1
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Blangonga Pelt+ (MHWilds)|Blangonga Pelt+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Guardian Fulgur Pelt+ (MHWilds)|Guardian Fulgur Pelt+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Balahara Scale+ (MHWilds)|Balahara Scale+|Color=Gray}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Hirabami Scale+ (MHWilds)|Hirabami Scale+|Color=Purple}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Blight Charm II|Talisman|7|Blight Charm II}}
+| 7
+| {{MHWildsSkillLink|Blight Resistance|Defense}} x2
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Arkveld Scale+ (MHWilds)|Arkveld Scale+|Color=White}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|White Arkveld Pelt (MHWilds)|White Arkveld Pelt|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Novacrystal (MHWilds)|Novacrystal|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Wyvern Gem (MHWilds)|Wyvern Gem|Color=Light Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Stun Charm I|Talisman|3|Stun Charm I}}
+| 3
+| {{MHWildsSkillLink|Stun Resistance|Defense}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Balahara Skull (MHWilds)|Balahara Skull|Color=Gray}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Balahara Shell (MHWilds)|Balahara Shell|Color=Gray}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Talioth Scale (MHWilds)|Talioth Scale|Color=Orange}} x1<br>
+
+|-
+| {{GenericArmorLink|MHWilds|Stun Charm II|Talisman|4|Stun Charm II}}
+| 4
+| {{MHWildsSkillLink|Stun Resistance|Defense}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Ajarakan Ridge (MHWilds)|Ajarakan Ridge|Color=Vermilion}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Ajarakan Shell (MHWilds)|Ajarakan Shell|Color=Vermilion}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Kranodath Skull (MHWilds)|Kranodath Skull|Color=Purple}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Sturdy Bone (MHWilds)|Sturdy Bone|Color=White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Stun Charm III|Talisman|5|Stun Charm III}}
+| 5
+| {{MHWildsSkillLink|Stun Resistance|Defense}} x3
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Balahara Skull+ (MHWilds)|Balahara Skull+|Color=Gray}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Balahara Carapace (MHWilds)|Balahara Carapace|Color=Gray}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Kranodath Skull+ (MHWilds)|Kranodath Skull+|Color=Purple}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Dragonbone Relic (MHWilds)|Dragonbone Relic|Color=Tan}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Bleed Charm I|Talisman|3|Bleed Charm I}}
+| 3
+| {{MHWildsSkillLink|Bleeding Resistance|Defense}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Guardian Ebony Sinew (MHWilds)|Guardian Ebony Sinew|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Guardian Ebony Scale (MHWilds)|Guardian Ebony Scale|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Talioth Scale (MHWilds)|Talioth Scale|Color=Orange}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Iron Ore (MHWilds)|Iron Ore|Color=Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Bleed Charm II|Talisman|5|Bleed Charm II}}
+| 5
+| {{MHWildsSkillLink|Bleeding Resistance|Defense}} x2
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Hirabami Hide+ (MHWilds)|Hirabami Hide+|Color=Purple}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Webbing|Hirabami Webbing+ (MHWilds)|Hirabami Webbing+|Color=Purple}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Blango Pelt+ (MHWilds)|Blango Pelt+|Color=White}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Carbalite Ore (MHWilds)|Carbalite Ore|Color=Purple}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Bleed Charm III|Talisman|6|Bleed Charm III}}
+| 6
+| {{MHWildsSkillLink|Bleeding Resistance|Defense}} x3
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Guardian Ebony Scale+ (MHWilds)|Guardian Ebony Scale+|Color=White}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Guardian Ebony Sinew+ (MHWilds)|Guardian Ebony Sinew+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Guardian Seikret Feather+ (MHWilds)|Guardian Seikret Feather+|Color=Green}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Beast Gem (MHWilds)|Beast Gem|Color=Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Escape Charm I|Talisman|4|Escape Charm I}}
+| 4
+| {{MHWildsSkillLink|Bind Resistance|Defense}} x1
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Nerscylla Shell (MHWilds)|Nerscylla Shell|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Nerscylla Claw (MHWilds)|Nerscylla Claw|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Bug|Vespoid Shell (MHWilds)|Vespoid Shell|Color=Yellow}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Earth Crystal (MHWilds)|Earth Crystal|Color=White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Escape Charm II|Talisman|6|Escape Charm II}}
+| 6
+| {{MHWildsSkillLink|Bind Resistance|Defense}} x2
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Guardian Ebony Sinew+ (MHWilds)|Guardian Ebony Sinew+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Ebony Claw+ (MHWilds)|Guardian Ebony Claw+|Color=White}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Nerscylla Spike (MHWilds)|Nerscylla Spike|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Carbalite Ore (MHWilds)|Carbalite Ore|Color=Purple}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Escape Charm III|Talisman|7|Escape Charm III}}
+| 7
+| {{MHWildsSkillLink|Bind Resistance|Defense}} x3
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Jin Dahaad Iceplate (MHWilds)|Jin Dahaad Iceplate|Color=Brown}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Jin Dahaad Claw+ (MHWilds)|Jin Dahaad Claw+|Color=Brown}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Blangonga Fang+ (MHWilds)|Blangonga Fang+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Sac|Freezer Sac (MHWilds)|Freezer Sac|Color=White}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Blast Charm I|Talisman|3|Blast Charm I}}
+| 3
+| {{MHWildsSkillLink|Blast Resistance|Defense}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Quematrice Hide (MHWilds)|Quematrice Hide|Color=Blue}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Chemical|Quematrice Igniter (MHWilds)|Quematrice Igniter|Color=Red}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Wingdrake Hide (MHWilds)|Wingdrake Hide|Color=Tan}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Blast Charm II|Talisman|4|Blast Charm II}}
+| 4
+| {{MHWildsSkillLink|Blast Resistance|Defense}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Ajarakan Scale (MHWilds)|Ajarakan Scale|Color=Vermilion}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Ajarakan Ridge (MHWilds)|Ajarakan Ridge|Color=Vermilion}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Herbivore Shell (MHWilds)|Herbivore Shell|Color=Brown}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Firestone (MHWilds)|Firestone|Color=Vermilion}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Blast Charm III|Talisman|5|Blast Charm III}}
+| 5
+| {{MHWildsSkillLink|Blast Resistance|Defense}} x3
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Ajarakan Scale+ (MHWilds)|Ajarakan Scale+|Color=Vermilion}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Rathian Scale+ (MHWilds)|Rathian Scale+|Color=Green}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Wingdrake Hide+ (MHWilds)|Wingdrake Hide+|Color=Tan}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Firecell Stone (MHWilds)|Firecell Stone|Color=Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Recovery Charm I|Talisman|3|Recovery Charm I}}
+| 3
+| {{MHWildsSkillLink|Recovery Up|Health}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Lala Barina Floret (MHWilds)|Lala Barina Floret|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Chemical|Lala Barina Mucus (MHWilds)|Lala Barina Mucus|Color=Rose}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Congalala Pelt (MHWilds)|Congalala Pelt|Color=Pink}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Sturdy Bone (MHWilds)|Sturdy Bone|Color=White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Recovery Charm II|Talisman|4|Recovery Charm II}}
+| 4
+| {{MHWildsSkillLink|Recovery Up|Health}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Nerscylla Claw (MHWilds)|Nerscylla Claw|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Nerscylla Chelicera (MHWilds)|Nerscylla Chelicera|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Spotted Poison Hide (MHWilds)|Spotted Poison Hide|Color=Dark Blue}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Charred Oilbone (MHWilds)|Charred Oilbone|Color=Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Recovery Charm III|Talisman|5|Recovery Charm III}}
+| 5
+| {{MHWildsSkillLink|Recovery Up|Health}} x3
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Lala Barina Floret+ (MHWilds)|Lala Barina Floret+|Color=White}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Chemical|Lala Barina Mucus+ (MHWilds)|Lala Barina Mucus+|Color=Rose}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Giant Beak (MHWilds)|Giant Beak|Color=Pink}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Bird Wyvern Gem (MHWilds)|Bird Wyvern Gem|Color=Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Speed Heal Charm I|Talisman|2|Speed Heal Charm I}}
+| 2
+| {{MHWildsSkillLink|Recovery Speed|Health}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Doshaguma Hide (MHWilds)|Doshaguma Hide|Color=Brown}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Doshaguma Fang (MHWilds)|Doshaguma Fang|Color=Brown}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Chatacabra Hide (MHWilds)|Chatacabra Hide|Color=Green}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Brute Bone (MHWilds)|Brute Bone|Color=White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Speed Heal Charm II|Talisman|4|Speed Heal Charm II}}
+| 4
+| {{MHWildsSkillLink|Recovery Speed|Health}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Hirabami Hide (MHWilds)|Hirabami Hide|Color=Purple}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Webbing|Hirabami Webbing (MHWilds)|Hirabami Webbing|Color=Purple}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Lala Barina Certificate (MHWilds)|Lala Barina Certificate|Color=Rose}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Frozen Icebone (MHWilds)|Frozen Icebone|Color=White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Speed Heal Charm III|Talisman|5|Speed Heal Charm III}}
+| 5
+| {{MHWildsSkillLink|Recovery Speed|Health}} x3
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Wing|Gypceros Wing (MHWilds)|Gypceros Wing|Color=Blue}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Tail|Gypceros Tail (MHWilds)|Gypceros Tail|Color=Blue}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Rompopolo Beak+ (MHWilds)|Rompopolo Beak+|Color=Dark Blue}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Dragonbone Relic (MHWilds)|Dragonbone Relic|Color=Tan}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Survival Charm I|Talisman|3|Survival Charm I}}
+| 3
+| {{MHWildsSkillLink|Survival Expert|Health}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Lala Barina Floret (MHWilds)|Lala Barina Floret|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Lala Barina Shell (MHWilds)|Lala Barina Shell|Color=Gray}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Bug|Vespoid Shell (MHWilds)|Vespoid Shell|Color=Yellow}} x1<br>
+
+|-
+| {{GenericArmorLink|MHWilds|Survival Charm II|Talisman|5|Survival Charm II}}
+| 5
+| {{MHWildsSkillLink|Survival Expert|Health}} x2
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Lala Barina Floret+ (MHWilds)|Lala Barina Floret+|Color=White}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Lala Barina Carapace (MHWilds)|Lala Barina Carapace|Color=Gray}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Herbivore Carapace (MHWilds)|Herbivore Carapace|Color=Brown}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Carbalite Ore (MHWilds)|Carbalite Ore|Color=Purple}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Survival Charm III|Talisman|6|Survival Charm III}}
+| 6
+| {{MHWildsSkillLink|Survival Expert|Health}} x3
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Blangonga Pelt+ (MHWilds)|Blangonga Pelt+|Color=White}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Blangonga Fang+ (MHWilds)|Blangonga Fang+|Color=White}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Webbing|Vespoid Innerwing (MHWilds)|Vespoid Innerwing|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Dragonbone Relic (MHWilds)|Dragonbone Relic|Color=Tan}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Fitness Charm I|Talisman|4|Fitness Charm I}}
+| 4
+| {{MHWildsSkillLink|Constitution|Stamina}} x1
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Ajarakan Scale (MHWilds)|Ajarakan Scale|Color=Vermilion}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Ajarakan Jewel (MHWilds)|Ajarakan Jewel|Color=Vermilion}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Ajarakan Ridge (MHWilds)|Ajarakan Ridge|Color=Vermilion}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Kranodath Skull (MHWilds)|Kranodath Skull|Color=Purple}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Fitness Charm II|Talisman|5|Fitness Charm II}}
+| 5
+| {{MHWildsSkillLink|Constitution|Stamina}} x2
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Kut-Ku Scale+ (MHWilds)|Kut-Ku Scale+|Color=Pink}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Wing|Kut-Ku Wing (MHWilds)|Kut-Ku Wing|Color=Pink}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Kut-Ku Ear (MHWilds)|Kut-Ku Ear|Color=Pink}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Carbalite Ore (MHWilds)|Carbalite Ore|Color=Purple}} x5
+
+|-
+| {{GenericArmorLink|MHWilds|Fitness Charm III|Talisman|6|Fitness Charm III}}
+| 6
+| {{MHWildsSkillLink|Constitution|Stamina}} x3
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Ebony Claw+ (MHWilds)|Guardian Ebony Claw+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Ebony Fang+ (MHWilds)|Guardian Ebony Fang+|Color=White}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Doshaguma Claw+ (MHWilds)|Guardian Doshaguma Claw+|Color=White}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Beast Gem (MHWilds)|Beast Gem|Color=Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Fitness Charm IV|Talisman|7|Fitness Charm IV}}
+| 7
+| {{MHWildsSkillLink|Constitution|Stamina}} x4
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Wing|Gore Magala Wing+ (MHWilds)|Gore Magala Wing+|Color=Gray}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Tail|Gore Magala Tail (MHWilds)|Gore Magala Tail|Color=Gray}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Guardian Ebony Gem (MHWilds)|Guardian Ebony Gem|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Gore Magala Nyctgem (MHWilds)|Gore Magala Nyctgem|Color=Gray}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Fitness Charm V|Talisman|8|Fitness Charm V}}
+| 8
+| {{MHWildsSkillLink|Constitution|Stamina}} x5
+| 16000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol III (MHWilds)|Hunter Symbol III|Color=Lemon}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Mizutsune Purplefur+ (MHWilds)|Mizutsune Purplefur+|Color=Dark Purple}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Mizutsune Fin+ (MHWilds)|Mizutsune Fin+|Color=Pink}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Mizutsune Water Orb (MHWilds)|Mizutsune Water Orb|Color=Dark Purple}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Surge Charm I|Talisman|4|Surge Charm I}}
+| 4
+| {{MHWildsSkillLink|Stamina Surge|Stamina}} x1
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Xu Wu Hide (MHWilds)|Xu Wu Hide|Color=Gray}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Xu Wu Claw (MHWilds)|Xu Wu Claw|Color=Yellow}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Nu Udra Hide (MHWilds)|Nu Udra Hide|Color=Gray}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Chemical|Xu Wu Cerebrospinal Fluid (MHWilds)|Xu Wu Cerebrospinal Fluid|Color=Gray}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Surge Charm II|Talisman|5|Surge Charm II}}
+| 5
+| {{MHWildsSkillLink|Stamina Surge|Stamina}} x2
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Rubbery Hide+ (MHWilds)|Rubbery Hide+|Color=Blue}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Tail|Gypceros Tail (MHWilds)|Gypceros Tail|Color=Blue}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Lightcrystal (MHWilds)|Lightcrystal|Color=Gray}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Bird Wyvern Gem (MHWilds)|Bird Wyvern Gem|Color=Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Surge Charm III|Talisman|6|Surge Charm III}}
+| 6
+| {{MHWildsSkillLink|Stamina Surge|Stamina}} x3
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Golden Corneum+ (MHWilds)|Golden Corneum+|Color=Yellow}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Xu Wu Claw+ (MHWilds)|Xu Wu Claw+|Color=Yellow}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Doshaguma Fang+ (MHWilds)|Doshaguma Fang+|Color=Brown}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Xu Wu Umbragem (MHWilds)|Xu Wu Umbragem|Color=Gray}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Marathon Charm I|Talisman|4|Marathon Charm I}}
+| 4
+| {{MHWildsSkillLink|Marathon Runner|Stamina}} x1
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Guardian Doshaguma Fur (MHWilds)|Guardian Doshaguma Fur|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Doshaguma Claw (MHWilds)|Guardian Doshaguma Claw|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Doshaguma Fang (MHWilds)|Guardian Doshaguma Fang|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Guardian Seikret Feather (MHWilds)|Guardian Seikret Feather|Color=Green}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Marathon Charm II|Talisman|5|Marathon Charm II}}
+| 5
+| {{MHWildsSkillLink|Marathon Runner|Stamina}} x2
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Rubbery Hide+ (MHWilds)|Rubbery Hide+|Color=Blue}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Gypceros Head (MHWilds)|Gypceros Head|Color=Blue}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Chatacabra Scale+ (MHWilds)|Chatacabra Scale+|Color=Green}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Bird Wyvern Gem (MHWilds)|Bird Wyvern Gem|Color=Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Marathon Charm III|Talisman|6|Marathon Charm III}}
+| 6
+| {{MHWildsSkillLink|Marathon Runner|Stamina}} x3
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Guardian Fulgur Scale+ (MHWilds)|Guardian Fulgur Scale+|Color=White}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Fulgur Fang+ (MHWilds)|Guardian Fulgur Fang+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Doshaguma Claw+ (MHWilds)|Doshaguma Claw+|Color=Brown}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Guardian Fulgur Gem (MHWilds)|Guardian Fulgur Gem|Color=White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Hungerless Charm I|Talisman|2|Hungerless Charm I}}
+| 2
+| {{MHWildsSkillLink|Hunger Resistance|Stamina}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Balahara Scale (MHWilds)|Balahara Scale|Color=Gray}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Tail|Balahara Tail (MHWilds)|Balahara Tail|Color=Gray}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Sharp Fang (MHWilds)|Sharp Fang|Color=Orange}} x1<br>
+
+|-
+| {{GenericArmorLink|MHWilds|Hungerless Charm II|Talisman|4|Hungerless Charm II}}
+| 4
+| {{MHWildsSkillLink|Hunger Resistance|Stamina}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Hirabami Scale (MHWilds)|Hirabami Scale|Color=Purple}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Webbing|Hirabami Webbing (MHWilds)|Hirabami Webbing|Color=Purple}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Talioth Scale (MHWilds)|Talioth Scale|Color=Orange}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Frozen Icebone (MHWilds)|Frozen Icebone|Color=White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Hungerless Charm III|Talisman|5|Hungerless Charm III}}
+| 5
+| {{MHWildsSkillLink|Hunger Resistance|Stamina}} x3
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Chatacabra Scale+ (MHWilds)|Chatacabra Scale+|Color=Green}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Chatacabra Carapace (MHWilds)|Chatacabra Carapace|Color=Green}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Congalala Fang+ (MHWilds)|Congalala Fang+|Color=Pink}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Dragonbone Relic (MHWilds)|Dragonbone Relic|Color=Tan}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Challenger Charm I|Talisman|5|Challenger Charm I}}
+| 5
+| {{MHWildsSkillLink|Agitator|Empower}} x1
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Rathian Scale+ (MHWilds)|Rathian Scale+|Color=Green}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Wing|Rathian Webbing (MHWilds)|Rathian Webbing|Color=Green}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Kut-Ku Scale+ (MHWilds)|Kut-Ku Scale+|Color=Pink}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Wyvern Gem (MHWilds)|Wyvern Gem|Color=Light Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Challenger Charm II|Talisman|7|Challenger Charm II}}
+| 7
+| {{MHWildsSkillLink|Agitator|Empower}} x2
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol III (MHWilds)|Hunter Symbol III|Color=Lemon}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol II (MHWilds)|Hunter Symbol II|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Uth Duna Watergem (MHWilds)|Uth Duna Watergem|Color=Violet}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Guardian Rathalos Ruby (MHWilds)|Guardian Rathalos Ruby|Color=White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Power Charm I|Talisman|5|Power Charm I}}
+| 5
+| {{MHWildsSkillLink|Latent Power|Empower}} x1
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Hirabami Scale+ (MHWilds)|Hirabami Scale+|Color=Purple}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Chemical|Quematrice Igniter+ (MHWilds)|Quematrice Igniter+|Color=Red}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Quematrice Crest (MHWilds)|Quematrice Crest|Color=Red}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Wyvern Gem (MHWilds)|Wyvern Gem|Color=Light Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Power Charm II|Talisman|7|Power Charm II}}
+| 7
+| {{MHWildsSkillLink|Latent Power|Empower}} x2
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol III (MHWilds)|Hunter Symbol III|Color=Lemon}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol II (MHWilds)|Hunter Symbol II|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Rey Dau Boltgem (MHWilds)|Rey Dau Boltgem|Color=Yellow}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Guardian Fulgur Gem (MHWilds)|Guardian Fulgur Gem|Color=White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Power Charm III|Talisman|8|Power Charm III}}
+| 8
+| {{MHWildsSkillLink|Latent Power|Empower}} x3
+| 16000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Rey Dau Certificate γ (MHWilds)|Rey Dau Certificate γ|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Rey Dau Scale+ (MHWilds)|Rey Dau Scale+|Color=Yellow}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Rey Dau Bolthorn (MHWilds)|Rey Dau Bolthorn|Color=Yellow}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Arkveld Gem (MHWilds)|Arkveld Gem|Color=White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Grit Charm I|Talisman|4|Grit Charm I}}
+| 4
+| {{MHWildsSkillLink|Heroics|Empower}} x1
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Guardian Doshaguma Fur (MHWilds)|Guardian Doshaguma Fur|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Doshaguma Claw (MHWilds)|Guardian Doshaguma Claw|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Guardian Seikret Feather (MHWilds)|Guardian Seikret Feather|Color=Green}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Dragonite Ore (MHWilds)|Dragonite Ore|Color=Green}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Grit Charm II|Talisman|6|Grit Charm II}}
+| 6
+| {{MHWildsSkillLink|Heroics|Empower}} x2
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Guardian Doshaguma Fur+ (MHWilds)|Guardian Doshaguma Fur+|Color=White}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Doshaguma Claw+ (MHWilds)|Guardian Doshaguma Claw+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Guardian Seikret Feather+ (MHWilds)|Guardian Seikret Feather+|Color=Green}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Firecell Stone (MHWilds)|Firecell Stone|Color=Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Grit Charm III|Talisman|7|Grit Charm III}}
+| 7
+| {{MHWildsSkillLink|Heroics|Empower}} x3
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol III (MHWilds)|Hunter Symbol III|Color=Lemon}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Rey Dau Bolthorn (MHWilds)|Rey Dau Bolthorn|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Xu Wu Claw+ (MHWilds)|Xu Wu Claw+|Color=Yellow}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Xu Wu Umbragem (MHWilds)|Xu Wu Umbragem|Color=Gray}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Foray Charm I|Talisman|4|Foray Charm I}}
+| 4
+| {{MHWildsSkillLink|Foray|Empower}} x1
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Spotted Poison Hide (MHWilds)|Spotted Poison Hide|Color=Dark Blue}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Lala Barina Floret (MHWilds)|Lala Barina Floret|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Webbing|Vespoid Wing (MHWilds)|Vespoid Wing|Color=Yellow}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Earth Crystal (MHWilds)|Earth Crystal|Color=White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Foray Charm II|Talisman|6|Foray Charm II}}
+| 6
+| {{MHWildsSkillLink|Foray|Empower}} x2
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol II (MHWilds)|Hunter Symbol II|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Gravios Pleura+ (MHWilds)|Gravios Pleura+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Rathian Spike+ (MHWilds)|Rathian Spike+|Color=Green}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Rathian Ruby (MHWilds)|Rathian Ruby|Color=Green}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Chain Charm I|Talisman|5|Chain Charm I}}
+| 5
+| {{MHWildsSkillLink|Burst|Empower}} x1
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Nerscylla Shear (MHWilds)|Nerscylla Shear|Color=White}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Nerscylla Claw+ (MHWilds)|Nerscylla Claw+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Congalala Claw+ (MHWilds)|Congalala Claw+|Color=Pink}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Beast Gem (MHWilds)|Beast Gem|Color=Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Chain Charm II|Talisman|7|Chain Charm II}}
+| 7
+| {{MHWildsSkillLink|Burst|Empower}} x2
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol III (MHWilds)|Hunter Symbol III|Color=Lemon}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol II (MHWilds)|Hunter Symbol II|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Guardian Ebony Gem (MHWilds)|Guardian Ebony Gem|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Nu Udra Flamegem (MHWilds)|Nu Udra Flamegem|Color=Red}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Chainblade Charm I|Talisman|4|Chainblade Charm I}}
+| 4
+| {{MHWildsSkillLink|Flayer|Empower}} x1
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Chemical|Guardian Blood (MHWilds)|Guardian Blood|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Guardian Scale (MHWilds)|Guardian Scale|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Guardian Pelt (MHWilds)|Guardian Pelt|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Guardian Seikret Feather (MHWilds)|Guardian Seikret Feather|Color=Green}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Chainblade Charm II|Talisman|7|Chainblade Charm II}}
+| 7
+| {{MHWildsSkillLink|Flayer|Empower}} x2
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol III (MHWilds)|Hunter Symbol III|Color=Lemon}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Arkveld Armorplate (MHWilds)|Arkveld Armorplate|Color=White}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Wing|Arkveld Calloushell (MHWilds)|Arkveld Calloushell|Color=White}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Arkveld Gem (MHWilds)|Arkveld Gem|Color=White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Breaker Charm I|Talisman|5|Breaker Charm I}}
+| 5
+| {{MHWildsSkillLink|Partbreaker|Empower}} x1
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Balahara Skull+ (MHWilds)|Balahara Skull+|Color=Gray}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Chatacabra Carapace (MHWilds)|Chatacabra Carapace|Color=Green}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Piragill Fin+ (MHWilds)|Piragill Fin+|Color=Red}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Beast Gem (MHWilds)|Beast Gem|Color=Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Breaker Charm II|Talisman|7|Breaker Charm II}}
+| 7
+| {{MHWildsSkillLink|Partbreaker|Empower}} x2
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Rey Dau Bolthorn (MHWilds)|Rey Dau Bolthorn|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Ajarakan Jewel+ (MHWilds)|Ajarakan Jewel+|Color=Vermilion}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Kranodath Skull+ (MHWilds)|Kranodath Skull+|Color=Purple}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Ajarakan Medulla (MHWilds)|Ajarakan Medulla|Color=Vermilion}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Phoenix Charm I|Talisman|6|Phoenix Charm I}}
+| 6
+| {{MHWildsSkillLink|Coalescence|Empower}} x1
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Wing|Guardian Rathalos Wing (MHWilds)|Guardian Rathalos Wing|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Xu Wu Tentacle+ (MHWilds)|Xu Wu Tentacle+|Color=Gray}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Guardian Seikret Feather (MHWilds)|Guardian Seikret Feather|Color=Green}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Beast Gem (MHWilds)|Beast Gem|Color=Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Phoenix Charm II|Talisman|7|Phoenix Charm II}}
+| 7
+| {{MHWildsSkillLink|Coalescence|Empower}} x2
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Gore Magala Scale+ (MHWilds)|Gore Magala Scale+|Color=Gray}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Wing|Gore Magala Wing+ (MHWilds)|Gore Magala Wing+|Color=Gray}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Gore Magala Feeler+ (MHWilds)|Gore Magala Feeler+|Color=Gray}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Gore Magala Nyctgem (MHWilds)|Gore Magala Nyctgem|Color=Gray}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Descent Charm I|Talisman|4|Descent Charm I}}
+| 4
+| {{MHWildsSkillLink|Ambush|Empower}} x1
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Golden Corneum (MHWilds)|Golden Corneum|Color=Yellow}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Xu Wu Tentacle (MHWilds)|Xu Wu Tentacle|Color=Gray}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Xu Wu Fang (MHWilds)|Xu Wu Fang|Color=Yellow}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Firestone (MHWilds)|Firestone|Color=Vermilion}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Descent Charm II|Talisman|6|Descent Charm II}}
+| 6
+| {{MHWildsSkillLink|Ambush|Empower}} x2
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Golden Corneum+ (MHWilds)|Golden Corneum+|Color=Yellow}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Xu Wu Tentacle+ (MHWilds)|Xu Wu Tentacle+|Color=Gray}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Xu Wu Fang+ (MHWilds)|Xu Wu Fang+|Color=Yellow}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Xu Wu Umbragem (MHWilds)|Xu Wu Umbragem|Color=Gray}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Descent Charm III|Talisman|7|Descent Charm III}}
+| 7
+| {{MHWildsSkillLink|Ambush|Empower}} x3
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol III (MHWilds)|Hunter Symbol III|Color=Lemon}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol II (MHWilds)|Hunter Symbol II|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Nu Udra Flamegem (MHWilds)|Nu Udra Flamegem|Color=Red}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Ajarakan Medulla (MHWilds)|Ajarakan Medulla|Color=Vermilion}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Sanity Charm I|Talisman|5|Sanity Charm I}}
+| 5
+| {{MHWildsSkillLink|Antivirus|Empower}} x1
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Crystal|Frenzy Shard (MHWilds)|Frenzy Shard|Color=Purple}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Nerscylla Shear (MHWilds)|Nerscylla Shear|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Hirabami Tail Claw+ (MHWilds)|Hirabami Tail Claw+|Color=Purple}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Carbalite Ore (MHWilds)|Carbalite Ore|Color=Purple}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Sanity Charm II|Talisman|6|Sanity Charm II}}
+| 6
+| {{MHWildsSkillLink|Antivirus|Empower}} x2
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Crystal|Frenzy Crystal (MHWilds)|Frenzy Crystal|Color=Purple}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Blangonga Pelt+ (MHWilds)|Blangonga Pelt+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Blangonga Whisker (MHWilds)|Blangonga Whisker|Color=White}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Novacrystal (MHWilds)|Novacrystal|Color=White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Sanity Charm III|Talisman|7|Sanity Charm III}}
+| 7
+| {{MHWildsSkillLink|Antivirus|Empower}} x3
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Gore Magala Scale+ (MHWilds)|Gore Magala Scale+|Color=Gray}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Gore Magala Ripclaw+ (MHWilds)|Gore Magala Ripclaw+|Color=Gray}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Gore Magala Feeler+ (MHWilds)|Gore Magala Feeler+|Color=Gray}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Gore Magala Nyctgem (MHWilds)|Gore Magala Nyctgem|Color=Gray}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Imbibe Charm I|Talisman|7|Imbibe Charm I}}
+| 7
+| {{MHWildsSkillLink|Elemental Absorption|Empower}} x1
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol III (MHWilds)|Hunter Symbol III|Color=Lemon}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|White Arkveld Pelt (MHWilds)|White Arkveld Pelt|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Tail|Arkveld Tail (MHWilds)|Arkveld Tail|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Arkveld Gem (MHWilds)|Arkveld Gem|Color=White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Evasion Charm I|Talisman|4|Evasion Charm I}}
+| 4
+| {{MHWildsSkillLink|Evade Window|Reinforce}} x1
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Hirabami Scale (MHWilds)|Hirabami Scale|Color=Purple}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Hirabami Tail Claw (MHWilds)|Hirabami Tail Claw|Color=Purple}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Doshaguma Claw (MHWilds)|Doshaguma Claw|Color=Brown}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Icium (MHWilds)|Icium|Color=White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Evasion Charm II|Talisman|5|Evasion Charm II}}
+| 5
+| {{MHWildsSkillLink|Evade Window|Reinforce}} x2
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Hirabami Hide+ (MHWilds)|Hirabami Hide+|Color=Purple}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Hirabami Tail Claw+ (MHWilds)|Hirabami Tail Claw+|Color=Purple}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Herbivore Carapace (MHWilds)|Herbivore Carapace|Color=Brown}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Firecell Stone (MHWilds)|Firecell Stone|Color=Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Evasion Charm III|Talisman|6|Evasion Charm III}}
+| 6
+| {{MHWildsSkillLink|Evade Window|Reinforce}} x3
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Rathalos Scale+ (MHWilds)|Rathalos Scale+|Color=Red}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Wing|Rathalos Wing (MHWilds)|Rathalos Wing|Color=Red}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Ajarakan Ridge+ (MHWilds)|Ajarakan Ridge+|Color=Vermilion}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Rathalos Ruby (MHWilds)|Rathalos Ruby|Color=Red}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Evasion Charm IV|Talisman|7|Evasion Charm IV}}
+| 7
+| {{MHWildsSkillLink|Evade Window|Reinforce}} x4
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol III (MHWilds)|Hunter Symbol III|Color=Lemon}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Mizutsune Scale+ (MHWilds)|Mizutsune Scale+|Color=White}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Mizutsune Claw+ (MHWilds)|Mizutsune Claw+|Color=Dark Purple}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Mizutsune Water Orb (MHWilds)|Mizutsune Water Orb|Color=Dark Purple}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Leaping Charm I|Talisman|4|Leaping Charm I}}
+| 4
+| {{MHWildsSkillLink|Evade Extender|Reinforce}} x1
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Balahara Shell (MHWilds)|Balahara Shell|Color=Gray}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Balahara Skull (MHWilds)|Balahara Skull|Color=Gray}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Nerscylla Claw (MHWilds)|Nerscylla Claw|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Dragonite Ore (MHWilds)|Dragonite Ore|Color=Green}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Leaping Charm II|Talisman|5|Leaping Charm II}}
+| 5
+| {{MHWildsSkillLink|Evade Extender|Reinforce}} x2
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Balahara Carapace (MHWilds)|Balahara Carapace|Color=Gray}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Lala Barina Claw+ (MHWilds)|Lala Barina Claw+|Color=Rose}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Talioth Scale+ (MHWilds)|Talioth Scale+|Color=Orange}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Wyvern Gem (MHWilds)|Wyvern Gem|Color=Light Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Leaping Charm III|Talisman|6|Leaping Charm III}}
+| 6
+| {{MHWildsSkillLink|Evade Extender|Reinforce}} x3
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Rathalos Carapace (MHWilds)|Rathalos Carapace|Color=Red}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Wing|Rathalos Wing (MHWilds)|Rathalos Wing|Color=Red}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Ajarakan Ridge+ (MHWilds)|Ajarakan Ridge+|Color=Vermilion}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Rathalos Ruby (MHWilds)|Rathalos Ruby|Color=Red}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Earplugs Charm I|Talisman|6|Earplugs Charm I}}
+| 6
+| {{MHWildsSkillLink|Earplugs|Reinforce}} x1
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Rathalos Carapace (MHWilds)|Rathalos Carapace|Color=Red}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Wing|Rathalos Wing (MHWilds)|Rathalos Wing|Color=Red}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Kut-Ku Ear (MHWilds)|Kut-Ku Ear|Color=Pink}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Rathalos Ruby (MHWilds)|Rathalos Ruby|Color=Red}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Earplugs Charm II|Talisman|7|Earplugs Charm II}}
+| 7
+| {{MHWildsSkillLink|Earplugs|Reinforce}} x2
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Zoh Shia Crystalscale (MHWilds)|Zoh Shia Crystalscale|Color=White}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Zoh Shia Stakeclaw (MHWilds)|Zoh Shia Stakeclaw|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Question Mark|Blackember Mass (MHWilds)|Blackember Mass|Color=Gray}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Faux Whitegleam Orb (MHWilds)|Faux Whitegleam Orb|Color=White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Sheathe Charm I|Talisman|4|Sheathe Charm I}}
+| 4
+| {{MHWildsSkillLink|Quick Sheathe|Reinforce}} x1
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Hirabami Tail Claw (MHWilds)|Hirabami Tail Claw|Color=Purple}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Balahara Scale (MHWilds)|Balahara Scale|Color=Gray}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Balahara Skull (MHWilds)|Balahara Skull|Color=Gray}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Dragonite Ore (MHWilds)|Dragonite Ore|Color=Green}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Sheathe Charm II|Talisman|5|Sheathe Charm II}}
+| 5
+| {{MHWildsSkillLink|Quick Sheathe|Reinforce}} x2
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Spotted Poison Hide+ (MHWilds)|Spotted Poison Hide+|Color=Dark Blue}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Rompopolo Beak+ (MHWilds)|Rompopolo Beak+|Color=Dark Blue}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Kranodath Skull+ (MHWilds)|Kranodath Skull+|Color=Purple}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Ajarakan Marrow (MHWilds)|Ajarakan Marrow|Color=Vermilion}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Sheathe Charm III|Talisman|6|Sheathe Charm III}}
+| 6
+| {{MHWildsSkillLink|Quick Sheathe|Reinforce}} x3
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Fulgur Fang+ (MHWilds)|Guardian Fulgur Fang+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Guardian Fulgur Nosebone+ (MHWilds)|Guardian Fulgur Nosebone+|Color=White}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Wing|Guardian Rathalos Wing (MHWilds)|Guardian Rathalos Wing|Color=White}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Guardian Fulgur Gem (MHWilds)|Guardian Fulgur Gem|Color=White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Windproof Charm I|Talisman|4|Windproof Charm I}}
+| 4
+| {{MHWildsSkillLink|Windproof|Reinforce}} x1
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Guardian Doshaguma Hide (MHWilds)|Guardian Doshaguma Hide|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Doshaguma Fang (MHWilds)|Guardian Doshaguma Fang|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Congalala Pelt (MHWilds)|Congalala Pelt|Color=Pink}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Dragonite Ore (MHWilds)|Dragonite Ore|Color=Green}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Windproof Charm II|Talisman|5|Windproof Charm II}}
+| 5
+| {{MHWildsSkillLink|Windproof|Reinforce}} x2
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Kut-Ku Carapace (MHWilds)|Kut-Ku Carapace|Color=Pink}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Wing|Kut-Ku Wing (MHWilds)|Kut-Ku Wing|Color=Pink}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Giant Beak (MHWilds)|Giant Beak|Color=Pink}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Bird Wyvern Gem (MHWilds)|Bird Wyvern Gem|Color=Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Windproof Charm III|Talisman|6|Windproof Charm III}}
+| 6
+| {{MHWildsSkillLink|Windproof|Reinforce}} x3
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Guardian Rathalos Carapace (MHWilds)|Guardian Rathalos Carapace|Color=White}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Wing|Guardian Rathalos Wing (MHWilds)|Guardian Rathalos Wing|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Rathian Spike+ (MHWilds)|Rathian Spike+|Color=Green}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Rathian Ruby (MHWilds)|Rathian Ruby|Color=Green}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Tremor Charm I|Talisman|4|Tremor Charm I}}
+| 4
+| {{MHWildsSkillLink|Tremor Resistance|Reinforce}} x1
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Ajarakan Shell (MHWilds)|Ajarakan Shell|Color=Vermilion}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Ajarakan Ridge (MHWilds)|Ajarakan Ridge|Color=Vermilion}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Congalala Claw (MHWilds)|Congalala Claw|Color=Pink}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Dragonite Ore (MHWilds)|Dragonite Ore|Color=Green}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Tremor Charm II|Talisman|5|Tremor Charm II}}
+| 5
+| {{MHWildsSkillLink|Tremor Resistance|Reinforce}} x2
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Balahara Carapace (MHWilds)|Balahara Carapace|Color=Gray}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Chatacabra Hide+ (MHWilds)|Chatacabra Hide+|Color=Green}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Chatacabra Carapace (MHWilds)|Chatacabra Carapace|Color=Green}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Carbalite Ore (MHWilds)|Carbalite Ore|Color=Purple}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Tremor Charm III|Talisman|6|Tremor Charm III}}
+| 6
+| {{MHWildsSkillLink|Tremor Resistance|Reinforce}} x3
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Gravios Carapace (MHWilds)|Gravios Carapace|Color=White}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Gravios Pleura+ (MHWilds)|Gravios Pleura+|Color=White}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Doshaguma Claw+ (MHWilds)|Guardian Doshaguma Claw+|Color=White}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Firecell Stone (MHWilds)|Firecell Stone|Color=Orange}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Impact Charm I|Talisman|3|Impact Charm I}}
+| 3
+| {{MHWildsSkillLink|Flinch Free|Reinforce}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Quematrice Scale (MHWilds)|Quematrice Scale|Color=Blue}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Quematrice Hide (MHWilds)|Quematrice Hide|Color=Blue}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Kranodath Skull (MHWilds)|Kranodath Skull|Color=Purple}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Iron Ore (MHWilds)|Iron Ore|Color=Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Impact Charm II|Talisman|4|Impact Charm II}}
+| 4
+| {{MHWildsSkillLink|Flinch Free|Reinforce}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Guardian Rathalos Shell (MHWilds)|Guardian Rathalos Shell|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Wing|Guardian Rathalos Webbing (MHWilds)|Guardian Rathalos Webbing|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Piragill Fin (MHWilds)|Piragill Fin|Color=Red}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Machalite Ore (MHWilds)|Machalite Ore|Color=Blue}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Impact Charm III|Talisman|5|Impact Charm III}}
+| 5
+| {{MHWildsSkillLink|Flinch Free|Reinforce}} x3
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Quematrice Scale+ (MHWilds)|Quematrice Scale+|Color=Blue}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Quematrice Crest+ (MHWilds)|Quematrice Crest+|Color=Red}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Piragill Fin+ (MHWilds)|Piragill Fin+|Color=Red}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Dragonbone Relic (MHWilds)|Dragonbone Relic|Color=Tan}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Intimidator Charm I|Talisman|3|Intimidator Charm I}}
+| 3
+| {{MHWildsSkillLink|Intimidator|Reinforce}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Doshaguma Fur (MHWilds)|Doshaguma Fur|Color=Brown}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Doshaguma Claw (MHWilds)|Doshaguma Claw|Color=Brown}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Chemical|Monster Fluid (MHWilds)|Monster Fluid|Color=Light Blue}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Iron Ore (MHWilds)|Iron Ore|Color=Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Intimidator Charm II|Talisman|5|Intimidator Charm II}}
+| 5
+| {{MHWildsSkillLink|Intimidator|Reinforce}} x2
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Rathian Scale+ (MHWilds)|Rathian Scale+|Color=Green}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Wing|Rathian Webbing (MHWilds)|Rathian Webbing|Color=Green}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Chemical|Monster Broth (MHWilds)|Monster Broth|Color=Blue}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Carbalite Ore (MHWilds)|Carbalite Ore|Color=Purple}} x4
+
+|-
+| {{GenericArmorLink|MHWilds|Intimidator Charm II|Talisman|6|Intimidator Charm II}}
+| 6
+| {{MHWildsSkillLink|Intimidator|Reinforce}} x3
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Guardian Rathalos Scale+ (MHWilds)|Guardian Rathalos Scale+|Color=White}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Wing|Guardian Rathalos Wing (MHWilds)|Guardian Rathalos Wing|Color=White}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Tail|Guardian Rathalos Tail (MHWilds)|Guardian Rathalos Tail|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Firecell Stone (MHWilds)|Firecell Stone|Color=Orange}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Glutton's Charm I|Talisman|2|Glutton's Charm I}}
+| 2
+| {{MHWildsSkillLink|Speed Eating|Reinforce}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Doshaguma Fur (MHWilds)|Doshaguma Fur|Color=Brown}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Doshaguma Fang (MHWilds)|Doshaguma Fang|Color=Brown}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Chatacabra Scale (MHWilds)|Chatacabra Scale|Color=Green}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Brute Bone (MHWilds)|Brute Bone|Color=White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Glutton's Charm II|Talisman|4|Glutton's Charm II}}
+| 4
+| {{MHWildsSkillLink|Speed Eating|Reinforce}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Ebony Claw (MHWilds)|Guardian Ebony Claw|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Ebony Fang (MHWilds)|Guardian Ebony Fang|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Nu Udra Horn (MHWilds)|Nu Udra Horn|Color=Yellow}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Tough Guardian Bone (MHWilds)|Tough Guardian Bone|Color=Light Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Glutton's Charm III|Talisman|5|Glutton's Charm III}}
+| 5
+| {{MHWildsSkillLink|Speed Eating|Reinforce}} x3
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Fulgur Fang+ (MHWilds)|Guardian Fulgur Fang+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Wing|Rathian Webbing (MHWilds)|Rathian Webbing|Color=Green}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Chatacabra Jaw+ (MHWilds)|Chatacabra Jaw+|Color=Green}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Rath Medulla (MHWilds)|Rath Medulla|Color=Red}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Friendship Charm I|Talisman|3|Friendship Charm I}}
+| 3
+| {{MHWildsSkillLink|Wide-Range|Item}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Rompopolo Hide (MHWilds)|Rompopolo Hide|Color=Dark Blue}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Spotted Poison Hide (MHWilds)|Spotted Poison Hide|Color=Dark Blue}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Wingdrake Hide (MHWilds)|Wingdrake Hide|Color=Tan}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Earth Crystal (MHWilds)|Earth Crystal|Color=White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Friendship Charm II|Talisman|4|Friendship Charm II}}
+| 4
+| {{MHWildsSkillLink|Wide-Range|Item}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Hirabami Hide (MHWilds)|Hirabami Hide|Color=Purple}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Hirabami Tail Claw (MHWilds)|Hirabami Tail Claw|Color=Purple}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Herbivore Shell (MHWilds)|Herbivore Shell|Color=Brown}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Machalite Ore (MHWilds)|Machalite Ore|Color=Blue}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Friendship Charm III|Talisman|5|Friendship Charm III}}
+| 5
+| {{MHWildsSkillLink|Wide-Range|Item}} x3
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Guardian Rathalos Scale (MHWilds)|Guardian Rathalos Scale|Color=White}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Tail|Guardian Rathalos Tail (MHWilds)|Guardian Rathalos Tail|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Bug|Comaqchi Shell (MHWilds)|Comaqchi Shell|Color=Pink}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Dragonite Ore (MHWilds)|Dragonite Ore|Color=Green}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Friendship Charm IV|Talisman|5|Friendship Charm IV}}
+| 5
+| {{MHWildsSkillLink|Wide-Range|Item}} x4
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Hirabami Tail Claw+ (MHWilds)|Hirabami Tail Claw+|Color=Purple}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Spotted Poison Hide+ (MHWilds)|Spotted Poison Hide+|Color=Dark Blue}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Wingdrake Hide+ (MHWilds)|Wingdrake Hide+|Color=Tan}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Wyvern Gem (MHWilds)|Wyvern Gem|Color=Light Blue}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Maintenance Charm I|Talisman|4|Maintenance Charm I}}
+| 4
+| {{MHWildsSkillLink|Tool Specialist|Item}} x1
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Uth Duna Scale (MHWilds)|Uth Duna Scale|Color=Violet}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Uth Duna Cilia (MHWilds)|Uth Duna Cilia|Color=Pink}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Piragill Fin (MHWilds)|Piragill Fin|Color=Red}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Machalite Ore (MHWilds)|Machalite Ore|Color=Blue}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Maintenance Charm II|Talisman|6|Maintenance Charm II}}
+| 6
+| {{MHWildsSkillLink|Tool Specialist|Item}} x2
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Gravios Carapace (MHWilds)|Gravios Carapace|Color=White}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Gravios Skull (MHWilds)|Gravios Skull|Color=White}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Vibrant Pelt+ (MHWilds)|Vibrant Pelt+|Color=Yellow}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Gravios Medulla (MHWilds)|Gravios Medulla|Color=Red}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Maintenance Charm III|Talisman|7|Maintenance Charm III}}
+| 7
+| {{MHWildsSkillLink|Tool Specialist|Item}} x3
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol III (MHWilds)|Hunter Symbol III|Color=Lemon}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Uth Duna Scale+ (MHWilds)|Uth Duna Scale+|Color=Violet}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Uth Duna Tentacle+ (MHWilds)|Uth Duna Tentacle+|Color=Pink}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Uth Duna Watergem (MHWilds)|Uth Duna Watergem|Color=Violet}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Bombardier Charm I|Talisman|4|Bombardier Charm I}}
+| 4
+| {{MHWildsSkillLink|Bombardier|Item}} x1
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Ajarakan Shell (MHWilds)|Ajarakan Shell|Color=Vermilion}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Ajarakan Jewel (MHWilds)|Ajarakan Jewel|Color=Vermilion}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Kranodath Skull (MHWilds)|Kranodath Skull|Color=Purple}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Firestone (MHWilds)|Firestone|Color=Vermilion}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Bombardier Charm II|Talisman|5|Bombardier Charm II}}
+| 5
+| {{MHWildsSkillLink|Bombardier|Item}} x2
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Quematrice Scale+ (MHWilds)|Quematrice Scale+|Color=Blue}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Chemical|Quematrice Igniter+ (MHWilds)|Quematrice Igniter+|Color=Red}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Kranodath Skull+ (MHWilds)|Kranodath Skull+|Color=Purple}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Firecell Stone (MHWilds)|Firecell Stone|Color=Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Bombardier Charm III|Talisman|6|Bombardier Charm III}}
+| 6
+| {{MHWildsSkillLink|Bombardier|Item}} x3
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Ajarakan Carapace (MHWilds)|Ajarakan Carapace|Color=Vermilion}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Ajarakan Jewel+ (MHWilds)|Ajarakan Jewel+|Color=Vermilion}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Sac|Inferno Sac (MHWilds)|Inferno Sac|Color=Red}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Beast Gem (MHWilds)|Beast Gem|Color=Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Mushroom Charm I|Talisman|4|Mushroom Charm I}}
+| 4
+| {{MHWildsSkillLink|Mushroomancer|Item}} x1
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Nerscylla Chelicera (MHWilds)|Nerscylla Chelicera|Color=White}} x11<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Congalala Claw (MHWilds)|Congalala Claw|Color=Pink}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Conga Pelt (MHWilds)|Conga Pelt|Color=Pink}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Charred Oilbone (MHWilds)|Charred Oilbone|Color=Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Mushroom Charm II|Talisman|6|Mushroom Charm II}}
+| 6
+| {{MHWildsSkillLink|Mushroomancer|Item}} x2
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Doshaguma Fang+ (MHWilds)|Guardian Doshaguma Fang+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Doshaguma Claw+ (MHWilds)|Guardian Doshaguma Claw+|Color=White}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Congalala Fang+ (MHWilds)|Congalala Fang+|Color=Pink}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Beast Gem (MHWilds)|Beast Gem|Color=Orange}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Mushroom Charm III|Talisman|7|Mushroom Charm III}}
+| 7
+| {{MHWildsSkillLink|Mushroomancer|Item}} x3
+| 9000z<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol III (MHWilds)|Hunter Symbol III|Color=Lemon}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Ticket|Hunter Symbol II (MHWilds)|Hunter Symbol II|Color=Yellow}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Guardian Fulgur Gem (MHWilds)|Guardian Fulgur Gem|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Uth Duna Watergem (MHWilds)|Uth Duna Watergem|Color=Violet}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Extension Charm I|Talisman|3|Extension Charm I}}
+| 3
+| {{MHWildsSkillLink|Item Prolonger|Item}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Chatacabra Scale (MHWilds)|Chatacabra Scale|Color=Green}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Chatacabra Hide (MHWilds)|Chatacabra Hide|Color=Green}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Herbivore Shell (MHWilds)|Herbivore Shell|Color=Brown}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Iron Ore (MHWilds)|Iron Ore|Color=Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Extension Charm II|Talisman|4|Extension Charm II}}
+| 4
+| {{MHWildsSkillLink|Item Prolonger|Item}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Spotted Poison Hide (MHWilds)|Spotted Poison Hide|Color=Dark Blue}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Doshaguma Hide (MHWilds)|Doshaguma Hide|Color=Brown}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Bug|Bulaqchi Shell (MHWilds)|Bulaqchi Shell|Color=Yellow}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Dragonite Ore (MHWilds)|Dragonite Ore|Color=Green}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Extension Charm III|Talisman|5|Extension Charm III}}
+| 5
+| {{MHWildsSkillLink|Item Prolonger|Item}} x3
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Chatacabra Scale+ (MHWilds)|Chatacabra Scale+|Color=Green}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Chatacabra Jaw+ (MHWilds)|Chatacabra Jaw+|Color=Green}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Chemical|Lala Barina Mucus+ (MHWilds)|Lala Barina Mucus+|Color=Rose}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Novacrystal (MHWilds)|Novacrystal|Color=White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Light Eater's Charm I|Talisman|4|Light Eater's Charm I}}
+| 4
+| {{MHWildsSkillLink|Free Meal|Item}} x1
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Guardian Doshaguma Fang (MHWilds)|Guardian Doshaguma Fang|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Doshaguma Claw (MHWilds)|Doshaguma Claw|Color=Brown}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Talioth Scale (MHWilds)|Talioth Scale|Color=Orange}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Brute Bone (MHWilds)|Brute Bone|Color=White}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Light Eater's Charm II|Talisman|5|Light Eater's Charm II}}
+| 5
+| {{MHWildsSkillLink|Free Meal|Item}} x2
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Congalala Pelt+ (MHWilds)|Congalala Pelt+|Color=Pink}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Congalala Fang+ (MHWilds)|Congalala Fang+|Color=Pink}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Conga Pelt+ (MHWilds)|Conga Pelt+|Color=Pink}} x3<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Quality Bone (MHWilds)|Quality Bone|Color=Yellow}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Light Eater's Charm III|Talisman|6|Light Eater's Charm III}}
+| 6
+| {{MHWildsSkillLink|Free Meal|Item}} x3
+| 6000z<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Doshaguma Fur+ (MHWilds)|Doshaguma Fur+|Color=Brown}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Doshaguma Claw+ (MHWilds)|Doshaguma Claw+|Color=Brown}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Ajarakan Scale+ (MHWilds)|Ajarakan Scale+|Color=Vermilion}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Dragonbone Relic (MHWilds)|Dragonbone Relic|Color=Tan}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Botany Charm I|Talisman|2|Botany Charm I}}
+| 2
+| {{MHWildsSkillLink|Botanist|Gathering}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Congalala Claw (MHWilds)|Congalala Claw|Color=Pink}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Congalala Fang (MHWilds)|Congalala Fang|Color=Pink}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Conga Pelt (MHWilds)|Conga Pelt|Color=Pink}} x1<br>
+
+|-
+| {{GenericArmorLink|MHWilds|Botany Charm II|Talisman|4|Botany Charm II}}
+| 4
+| {{MHWildsSkillLink|Botanist|Gathering}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Nerscylla Claw (MHWilds)|Nerscylla Claw|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Congalala Pelt (MHWilds)|Congalala Pelt|Color=Pink}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Herbivore Shell (MHWilds)|Herbivore Shell|Color=Brown}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Brute Bone (MHWilds)|Brute Bone|Color=White}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Botany Charm III|Talisman|4|Botany Charm III}}
+| 4
+| {{MHWildsSkillLink|Botanist|Gathering}} x3
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Guardian Rathalos Scale (MHWilds)|Guardian Rathalos Scale|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Nerscylla Spike (MHWilds)|Nerscylla Spike|Color=White}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Bug|Comaqchi Shell (MHWilds)|Comaqchi Shell|Color=Pink}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Charred Oilbone (MHWilds)|Charred Oilbone|Color=Gray}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Botany Charm IV|Talisman|5|Botany Charm IV}}
+| 5
+| {{MHWildsSkillLink|Botanist|Gathering}} x4
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Monster Part|Nerscylla Spike+ (MHWilds)|Nerscylla Spike+|Color=White}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Congalala Fang+ (MHWilds)|Congalala Fang+|Color=Pink}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Hide|Conga Pelt+ (MHWilds)|Conga Pelt+|Color=Pink}} x5<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Dragonbone Relic (MHWilds)|Dragonbone Relic|Color=Tan}} x1
+
+|-
+| {{GenericArmorLink|MHWilds|Geology Charm I|Talisman|2|Geology Charm I}}
+| 2
+| {{MHWildsSkillLink|Geologist|Gathering}} x1
+| 500z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Balahara Scale (MHWilds)|Balahara Scale|Color=Gray}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Shell|Balahara Shell (MHWilds)|Balahara Shell|Color=Gray}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Bone|Sturdy Bone (MHWilds)|Sturdy Bone|Color=White}} x2
+|-
+| {{GenericArmorLink|MHWilds|Geology Charm II|Talisman|4|Geology Charm II}}
+| 4
+| {{MHWildsSkillLink|Geologist|Gathering}} x2
+| 1500z<br>
+{{IconPickerOverlayAlt|MHWilds|Claw|Rompopolo Claw (MHWilds)|Rompopolo Claw|Color=Dark Blue}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Rompopolo Beak (MHWilds)|Rompopolo Beak|Color=Dark Blue}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Machalite Ore (MHWilds)|Machalite Ore|Color=Blue}} x2<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Dragonite Ore (MHWilds)|Dragonite Ore|Color=Green}} x2
+
+|-
+| {{GenericArmorLink|MHWilds|Geology Charm III|Talisman|5|Geology Charm III}}
+| 5
+| {{MHWildsSkillLink|Geologist|Gathering}} x3
+| 3000z<br>
+{{IconPickerOverlayAlt|MHWilds|Scale|Balahara Scale+ (MHWilds)|Balahara Scale+|Color=Gray}} x6<br>
+{{IconPickerOverlayAlt|MHWilds|Head|Balahara Skull+ (MHWilds)|Balahara Skull+|Color=Gray}} x4<br>
+{{IconPickerOverlayAlt|MHWilds|Ore|Novacrystal (MHWilds)|Novacrystal|Color=White}} x1<br>
+{{IconPickerOverlayAlt|MHWilds|Ball|Wyvern Gem (MHWilds)|Wyvern Gem|Color=Light Blue}} x1
+
+|}
